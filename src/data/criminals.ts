@@ -197,7 +197,7 @@ export const criminals: Criminal[] = [
     "Name": "Caligula",
     "Details": "Dec. at 28 (12-41)",
     "Biography": "Caligula (; Latin: Gaius Julius Caesar Augustus Germanicus; 31 August 12 – 24 January 41 AD) was Roman emperor from 37 to 41 AD. The son of the popular Roman general Germanicus and Augustus's granddaughter Agrippina the Elder, Caligula was born into the first ruling family of the Roman Empire, conventionally known as the Julio-Claudian dynasty. Germanicus's uncle and adoptive father, Tiberius, succeeded Augustus as emperor of Rome in 14. Although he was born Gaius Caesar, after Julius Caesar, he acquired the nickname \"Caligula\" (meaning \"little [soldier's] boot\", the diminutive form of caliga) from his father's soldiers during their campaign in Germania. When Germanicus died at Antioch in 19, Agrippina returned with her six children to Rome, where she became entangled in a bitter feud with Tiberius.",
-    "Birth_Date_ISO": "2012-08-31",
+    "Birth_Date_ISO": "0000-08-31",
     "Zodiac_Sign": "Vergine"
   },
   {
@@ -237,7 +237,7 @@ export const criminals: Criminal[] = [
     "Name": "Nero",
     "Details": "Dec. at 30 (37-68)",
     "Biography": "Nero (; Latin: Nero Claudius Caesar Augustus Germanicus; 15 December 37 – 9 June 68 AD) was the last Roman emperor of the Julio-Claudian dynasty. He was adopted by his great-uncle Claudius and became Claudius' heir and successor. Like Claudius, Nero became emperor with the consent of the Praetorian Guard. Nero's mother, Agrippina the Younger, was likely implicated in Claudius' death and Nero's nomination as emperor. She dominated Nero's early life and decisions until he cast her off.",
-    "Birth_Date_ISO": "2037-12-15",
+    "Birth_Date_ISO": "0000-12-15",
     "Zodiac_Sign": "Sagittario"
   },
   {
@@ -1056,14 +1056,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1964-06-28",
     "Zodiac_Sign": "Cancro"
   },
-  {
-    "Rank": "147",
-    "Name": "Michel Friedman",
-    "Details": "Age: 70",
-    "Biography": "Michel Friedman (German pronunciation: [miˈʃɛl ˈfʁiːtman]; born 25 February 1956 in Paris) is a German lawyer, former CDU politician and talk show host. From 2000 to 2003 Friedman was vice president of the Central Council of Jews in Germany, and president of the European Jewish Congress from 2001 to 2003. From 1998 to 2003 he had his own show on German television. Since 2004 he has been hosting a weekly talk show on N24 called Studio Friedman. Friedman is a lawyer by profession and studied law and philosophy.",
-    "Birth_Date_ISO": "2000-01-01",
-    "Zodiac_Sign": "Capricorno"
-  },
+
   {
     "Rank": "149",
     "Name": "Genrikh Yagoda",
@@ -2177,14 +2170,6 @@ export const criminals: Criminal[] = [
     "Zodiac_Sign": "Vergine"
   },
   {
-    "Rank": "307",
-    "Name": "Felix Frankfurter",
-    "Details": "Dec. at 82 (1882-1965)",
-    "Biography": "Felix Frankfurter (November 15, 1882 – February 22, 1965) was an Austrian-American lawyer, professor, and jurist who served as an Associate Justice of the Supreme Court of the United States. Frankfurter served on the Supreme Court from 1939 to 1962 and was a noted advocate of judicial restraint in the judgments of the Court. Frankfurter was born in Vienna, Austria, and immigrated to New York City at the age of 12. After graduating from Harvard Law School, Frankfurter worked for Secretary of War Henry L. Stimson.",
-    "Birth_Date_ISO": "1882-11-15",
-    "Zodiac_Sign": "Scorpione"
-  },
-  {
     "Rank": "308",
     "Name": "Caracalla",
     "Details": "Dec. at 29 (188-217)",
@@ -2336,14 +2321,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1726-04-22",
     "Zodiac_Sign": "Toro"
   },
-  {
-    "Rank": "332",
-    "Name": "Barbara Boxer",
-    "Details": "Age: 85",
-    "Biography": "Barbara Levy Boxer (born November 11, 1940) is a retired American politician who served as a United States senator for California from 1993 to 2017. A member of the Democratic Party, she previously served in the U.S. House of Representatives from 1983 to 1993. Born in Brooklyn, New York, Boxer graduated from George Wingate High School and Brooklyn College. She worked as a stockbroker for several years before moving to California with her husband.",
-    "Birth_Date_ISO": "1940-11-11",
-    "Zodiac_Sign": "Scorpione"
-  },
+
   {
     "Rank": "333",
     "Name": "Yan Gamarnik",
@@ -2376,14 +2354,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1485-04-22",
     "Zodiac_Sign": "Toro"
   },
-  {
-    "Rank": "338",
-    "Name": "Mario Draghi",
-    "Details": "Age: 78",
-    "Biography": "Mario Draghi (Italian pronunciation: [ˈmaːrjo ˈdraːɡi]; born 3 September 1947) is an Italian economist serving as President of the European Central Bank since 2011. He previously served as the Chairman of the Financial Stability Board from 2009 to 2011 and Governor of the Bank of Italy from 2005 to 2011. Draghi previously worked at Goldman Sachs from 2002 until 2005. In 2014, Draghi was listed as the 8th most powerful person in the world by Forbes. In 2015, Fortune magazine ranked him as the world's second greatest leader.",
-    "Birth_Date_ISO": "1947-09-03",
-    "Zodiac_Sign": "Vergine"
-  },
+ 
   {
     "Rank": "339",
     "Name": "Jean-Paul Marat",
@@ -2960,14 +2931,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1888-05-07",
     "Zodiac_Sign": "Toro"
   },
-  {
-    "Rank": "416",
-    "Name": "Samuel I. Rosenberg",
-    "Details": "Age: 75",
-    "Biography": "Samuel I. \"Sandy\" Rosenberg (born May 18, 1950) is an American politician who represents the 41st legislative district in the Maryland House of Delegates. Delegate Rosenberg is the House Chair of the Joint Committee on Administrative, Executive, and Legislative Review and has been in the General Assembly since 1983.",
-    "Birth_Date_ISO": "1950-05-18",
-    "Zodiac_Sign": "Toro"
-  },
+
   {
     "Rank": "418",
     "Name": "Thomas Lamont",
@@ -3152,14 +3116,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1870-08-19",
     "Zodiac_Sign": "Leone"
   },
-  {
-    "Rank": "442",
-    "Name": "George Wallace",
-    "Details": "Dec. at 79 (1919-1998)",
-    "Biography": "George Corley Wallace Jr. (August 25, 1919 – September 13, 1998) was the 45th Governor of Alabama, a position he occupied for four terms, during which he promoted \"low-grade industrial development, low taxes, and trade schools\". He sought the United States presidency as a Democrat three times, and once as an American Independent Party candidate, unsuccessfully each time. He is best remembered for his staunch segregationist and populist views. Wallace was known as \"the most dangerous racist in America\" and notoriously opposed desegregation and supported the policies of \"Jim Crow\" during the Civil Rights Movement, declaring in his 1963 inaugural address that he stood for \"segregation now, segregation tomorrow, segregation forever\".Born in Clio, Alabama, Wallace attended the University of Alabama School of Law and served in United States Army Air Corps during World War II.",
-    "Birth_Date_ISO": "1919-08-25",
-    "Zodiac_Sign": "Vergine"
-  },
+
   {
     "Rank": "443",
     "Name": "Saul Alinsky",
@@ -3401,22 +3358,6 @@ export const criminals: Criminal[] = [
     "Zodiac_Sign": "Pesci"
   },
   {
-    "Rank": "477",
-    "Name": "Shirley Phelps-Roper",
-    "Details": "Age: 68",
-    "Biography": "Shirley Lynn Phelps-Roper (born October 31, 1957) is an American lawyer and political activist. She was the lead spokesperson of the Westboro Baptist Church of Topeka, Kansas, an organization that protests against homosexuality conducted under the slogan \"God Hates Fags\" until a power struggle within the organization, as well as issues related to age, reduced her status as a spokesperson.",
-    "Birth_Date_ISO": "1957-10-31",
-    "Zodiac_Sign": "Scorpione"
-  },
-  {
-    "Rank": "478",
-    "Name": "Abraham Foxman",
-    "Details": "Age: 85",
-    "Biography": "Abraham Henry Foxman (born May 1, 1940) is an American lawyer and activist. He was National Director of the Anti-Defamation League from 1987 to 2015, and is currently the League's National Director Emeritus. In March 2016, he became head of the Center for the Study of Anti-Semitism at the Museum of Jewish Heritage in New York City.",
-    "Birth_Date_ISO": "1940-05-01",
-    "Zodiac_Sign": "Toro"
-  },
-  {
     "Rank": "479",
     "Name": "Martin Winterkorn",
     "Details": "Age: 78",
@@ -3472,14 +3413,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1947-10-31",
     "Zodiac_Sign": "Scorpione"
   },
-  {
-    "Rank": "489",
-    "Name": "Mitch McConnell",
-    "Details": "Age: 84",
-    "Biography": "Addison Mitchell McConnell Jr. (born February 20, 1942) is an American politician serving as Kentucky’s senior United States Senator and as Senate Majority Leader. McConnell is the second Kentuckian to lead his party in the Senate, the longest-serving U.S. Senator for Kentucky in history, and the longest-serving Republican U.S. Senate leader in history.",
-    "Birth_Date_ISO": "1942-02-20",
-    "Zodiac_Sign": "Pesci"
-  },
+  
   {
     "Rank": "490",
     "Name": "Imelda Marcos",
@@ -3609,14 +3543,6 @@ export const criminals: Criminal[] = [
     "Zodiac_Sign": "Leone"
   },
   {
-    "Rank": "509",
-    "Name": "Eric Holder",
-    "Details": "Age: 75",
-    "Biography": "Eric Himpton Holder Jr. (born January 21, 1951) is an American lawyer who served as the 82nd Attorney General of the United States from 2009 to 2015. Holder, serving in the administration of President Barack Obama, was the first African American to hold the position of U.S. Attorney General (in both a confirmed and acting position).Born in New York City to a middle class family of Barbadian origins, he graduated from Stuyvesant High School, Columbia College, and Columbia Law School. Following law school, he left New York to work for the Public Integrity Section of the Department of Justice for 12 years.",
-    "Birth_Date_ISO": "1951-01-21",
-    "Zodiac_Sign": "Acquario"
-  },
-  {
     "Rank": "510",
     "Name": "Benedict Arnold",
     "Details": "Dec. at 60 (1741-1801)",
@@ -3656,14 +3582,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1867-05-14",
     "Zodiac_Sign": "Toro"
   },
-  {
-    "Rank": "516",
-    "Name": "Jean-Jacques Dessalines",
-    "Details": "Dec. at 48 (1758-1806)",
-    "Biography": "Jean-Jacques Dessalines (Haitian Creole: Jan-Jak Desalin; French pronunciation: ​[ʒɑ̃ ʒak dɛsalin]; 20 September 1758 – 17 October 1806) was a leader of the Haitian Revolution and the first ruler of an independent Haiti under the 1805 constitution. Under Dessalines, Haiti became the first country in the Americas to permanently abolish slavery. Initially regarded as governor-general, Dessalines was later named Emperor Jacques I of Haiti (1804–1806) by the Generals of the Haitian Revolution Army. He is regarded as one of the founding fathers of Haiti.Dessalines served as an officer in the French army, when the colony was fending off Spanish and British incursions. Later he rose to become a commander in the revolt against France.",
-    "Birth_Date_ISO": "1758-09-20",
-    "Zodiac_Sign": "Vergine"
-  },
+ 
   {
     "Rank": "517",
     "Name": "Murray Rothbard",
@@ -3776,14 +3695,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1902-02-27",
     "Zodiac_Sign": "Pesci"
   },
-  {
-    "Rank": "532",
-    "Name": "Rod Blagojevich",
-    "Details": "Age: 69",
-    "Biography": "Rod Blagojevich (, born December 10, 1956) is an American former politician who served as the 40th Governor of Illinois from 2003 until his impeachment, conviction, and removal from office in 2009. A Democrat, Blagojevich was a state representative before being elected to the United States House of Representatives representing parts of Chicago. He was elected governor in 2002, the first Democrat to win the office since Dan Walker's victory 30 years earlier and won reelection to a second term in 2006. Blagojevich was impeached and removed from office for corruption; he solicited bribes for political appointments, including Barack Obama's vacant U.S. Senate seat after Obama was elected president in 2008.",
-    "Birth_Date_ISO": "1956-12-10",
-    "Zodiac_Sign": "Sagittario"
-  },
+
   {
     "Rank": "533",
     "Name": "Sheryl Sandberg",
@@ -3872,14 +3784,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1956-10-28",
     "Zodiac_Sign": "Scorpione"
   },
-  {
-    "Rank": "544",
-    "Name": "John Kerry",
-    "Details": "Age: 82",
-    "Biography": "John Kerry, born on December 11, 1943 in Aurora, Colorado, is a notable figure in American politics. His life has been characterized by service to his nation, first as a military officer during the Vietnam War, and later in various political roles. His early experiences in public service strongly shaped his perspectives, leading him to a career characterized by an unwavering commitment to diplomacy and peace. After graduating from Yale University, Kerry enlisted in the United States Navy where he served two tours of duty. He was awarded multiple commendations for his bravery, including the Silver Star, Bronze Star, and three Purple Hearts.",
-    "Birth_Date_ISO": "1943-12-11",
-    "Zodiac_Sign": "Sagittario"
-  },
+
   {
     "Rank": "545",
     "Name": "Mani Shankar Aiyar",
@@ -4003,22 +3908,6 @@ export const criminals: Criminal[] = [
     "Zodiac_Sign": "Vergine"
   },
   {
-    "Rank": "566",
-    "Name": "Hans Frank",
-    "Details": "Dec. at 46 (1900-1946)",
-    "Biography": "Hans Michael Frank (23 May 1900 – 16 October 1946) was a German politician and lawyer who served as head of the General Government in Poland during the Second World War. Frank was an early member of the German Workers' Party, the precursor of the Nazi Party (NSDAP). He took part in the failed Beer Hall Putsch, and later became Adolf Hitler's personal legal adviser as well as the lawyer of the NSDAP. In 1933, Frank joined the Hitler Cabinet as Reich Minister without portfolio. After the German invasion of Poland in 1939, Frank was appointed Governor-General of the occupied Polish territories.",
-    "Birth_Date_ISO": "1900-05-23",
-    "Zodiac_Sign": "Gemelli"
-  },
-  {
-    "Rank": "567",
-    "Name": "Prescott Bush",
-    "Details": "Dec. at 77 (1895-1972)",
-    "Biography": "Prescott Sheldon Bush (May 15, 1895 – October 8, 1972) was an American banker and politician. After working as a Wall Street executive investment banker, he represented Connecticut in the United States Senate from 1952 to 1963. A member of the Bush family, he was the father of Vice President and President George H. W. Bush, and the paternal grandfather of Texas Governor and President George W.",
-    "Birth_Date_ISO": "1895-05-15",
-    "Zodiac_Sign": "Toro"
-  },
-  {
     "Rank": "568",
     "Name": "Nikita Khrushchev",
     "Details": "Dec. at 77 (1894-1971)",
@@ -4050,14 +3939,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1902-04-18",
     "Zodiac_Sign": "Ariete"
   },
-  {
-    "Rank": "572",
-    "Name": "Jesse Helms",
-    "Details": "Dec. at 86 (1921-2008)",
-    "Biography": "Jesse Alexander Helms Jr. (October 18, 1921 – July 4, 2008) was an American politician and a leader in the conservative movement. He served from 1973 until 2003, and was elected five times as a Republican to the United States Senate from North Carolina. As chairman of the Senate Foreign Relations Committee from 1995 to 2001 he had a major voice in foreign policy. Helms helped organize and fund the conservative resurgence in the 1970s, focusing on Ronald Reagan's quest for the White House as well as helping many local and regional candidates.",
-    "Birth_Date_ISO": "1921-10-18",
-    "Zodiac_Sign": "Bilancia"
-  },
+  
   {
     "Rank": "573",
     "Name": "Karl Marx",
@@ -4098,47 +3980,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1945-06-29",
     "Zodiac_Sign": "Cancro"
   },
-  {
-    "Rank": "578",
-    "Name": "Charles Koch",
-    "Details": "Age: 90",
-    "Biography": "Charles de Ganahl Koch (; born November 1, 1935) is an American businessman and political donor. As of March 2019, he was ranked as the 11th-richest person in the world, with an estimated net worth of $50.5 billion. Koch has been co-owner, chairman, and chief executive officer of Koch Industries since 1967, while his late brother David Koch served as executive vice president. Charles and David each owned 42% of the conglomerate. The brothers inherited the business from their father, Fred C.",
-    "Birth_Date_ISO": "1935-11-01",
-    "Zodiac_Sign": "Scorpione"
-  },
-
-  {
-    "Rank": "581",
-    "Name": "Nancy Pelosi",
-    "Details": "Age: 86",
-    "Biography": "Nancy Pelosi, born on March 26, 1940 in Baltimore, Maryland, has widely been recognized as a trailblazer in American politics. Raised in a politically active family, she embarked on her political career by volunteering for the Democratic Party and was first elected to Congress in 1987. Pelosi made history when she became the first woman to hold the position of House Speaker, one of the highest-ranking roles in the U.S. government, in 2007. Pelosi's leadership in Congress has been marked by significant policy triumphs.",
-    "Birth_Date_ISO": "1940-03-26",
-    "Zodiac_Sign": "Ariete"
-  },
-  {
-    "Rank": "582",
-    "Name": "Amy Chua",
-    "Details": "Age: 63",
-    "Biography": "http://iwontloveyoulongtime.blogspot.com.au/2011/01/amy-chua-tiger-monster.html  Tiger monster raising zombies",
-    "Birth_Date_ISO": "1962-10-26",
-    "Zodiac_Sign": "Scorpione"
-  },
-  {
-    "Rank": "583",
-    "Name": "Rick Santorum",
-    "Details": "Age: 67",
-    "Biography": "Richard John Santorum (born May 10, 1958) is an American politician, attorney, author, and political commentator. A member of the Republican Party, he served as a United States Senator from Pennsylvania from 1995 to 2007 and was the Senate's third-ranking Republican from 2001 to 2007. Santorum ran for the 2012 Republican presidential nomination, finishing second to Mitt Romney. Santorum was elected to the United States Senate from Pennsylvania in 1994. He served two terms until losing his 2006 reelection bid.",
-    "Birth_Date_ISO": "1958-05-10",
-    "Zodiac_Sign": "Toro"
-  },
-  {
-    "Rank": "584",
-    "Name": "David H. Koch",
-    "Details": "Age: 85",
-    "Biography": "David Hamilton Koch (; May 3, 1940 – August 23, 2019) was an American businessman, philanthropist, political activist, and chemical engineer. He joined the family business Koch Industries, the second-largest privately held company in the United States, in 1970. He became president of the subsidiary Koch Engineering in 1979, and he became a co-owner of Koch Industries, with elder brother Charles, in 1983. He served as an executive vice president until his retirement in 2018. Upon retirement in June 2018 due to health issues, Koch received the title of director emeritus.",
-    "Birth_Date_ISO": "1940-05-03",
-    "Zodiac_Sign": "Toro"
-  },
+ 
   {
     "Rank": "585",
     "Name": "Agathocles of Syracuse",
@@ -4283,14 +4125,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1585-09-09",
     "Zodiac_Sign": "Vergine"
   },
-  {
-    "Rank": "604",
-    "Name": "Ken Cuccinelli",
-    "Details": "Age: 57",
-    "Biography": "Kenneth Thomas Cuccinelli II ( KOO-chi-NEL-ee; born July 30, 1968) is an American politician and lawyer who served as the 46th attorney general of Virginia from 2010 until 2014, and currently works in the Trump administration as acting Director of the Citizenship and Immigration Services (CIS) office. He was in the Virginia Senate, representing the 37th District in Fairfax County from 2002 until he took office as attorney general in 2010. On May 18, 2013, Cuccinelli won the Republican Party's gubernatorial nomination at the state party convention. Cuccinelli was the Republican nominee for Governor of Virginia in the 2013 Virginia gubernatorial election, losing to the Democratic nominee, Terry McAuliffe, by 56,435 votes or 2.5% of the total votes cast.A self-described opponent of homosexuality, Cuccinelli in his position as Virginia Attorney General defended anti-sodomy laws and prohibitions on same-sex marriage. Cuccinelli rejects the scientific consensus on climate change, and in his position as Attorney General investigated climate scientists, who he argued were engaged in fraud.",
-    "Birth_Date_ISO": "1968-07-30",
-    "Zodiac_Sign": "Leone"
-  },
+
   {
     "Rank": "605",
     "Name": "Barney Frank",
@@ -4347,14 +4182,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1955-05-15",
     "Zodiac_Sign": "Toro"
   },
-  {
-    "Rank": "612",
-    "Name": "Sam Brownback",
-    "Details": "Age: 69",
-    "Biography": "Samuel Dale Brownback (born September 12, 1956) is an American attorney, politician, diplomat and member of the Republican Party who has served as the United States Ambassador at Large for International Religious Freedom since February 2018. Brownback previously served as the Secretary of Agriculture of Kansas (1986–93), as the U.S. Representative for Kansas's 2nd congressional district (1995–96), as a United States Senator from Kansas (1996–2011) and the 46th Governor of Kansas (2011–18). He also ran for the Republican nomination for President in 2008. Born in Garnett, Kansas, Brownback grew up on the family farm in Parker, Kansas.",
-    "Birth_Date_ISO": "1956-09-12",
-    "Zodiac_Sign": "Vergine"
-  },
+
   {
     "Rank": "613",
     "Name": "Theodor Eicke",
@@ -4395,14 +4223,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1491-10-23",
     "Zodiac_Sign": "Scorpione"
   },
-  {
-    "Rank": "618",
-    "Name": "Pamela Geller",
-    "Details": "Age: 67",
-    "Biography": "Pamela Geller (born 1957/1958) is an American political activist, blogger and commentator who is known for her anti-Muslim views and activism. She stirred controversy in 2006 for reprinting controversial cartoons of Muhammad on her blog. She came to prominence in 2010 for leading the campaign against the proposed Park51 Islamic community center, which Geller called the \"Ground Zero Mega Mosque\". Since 2013, she has stirred controversy by buying anti-Muslim ads on public transit networks in various cities. The British government barred Geller's entry into the UK in 2013, citing her anti-Muslim activism, and saying her presence would \"not be conducive to the public good\".",
-    "Birth_Date_ISO": "1958-04-22",
-    "Zodiac_Sign": "Toro"
-  },
+
   {
     "Rank": "619",
     "Name": "Nicolas Sarkozy",
@@ -4467,14 +4288,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1968-11-10",
     "Zodiac_Sign": "Scorpione"
   },
-  {
-    "Rank": "627",
-    "Name": "Marion Barry",
-    "Details": "Age: 90",
-    "Biography": "Marion Shepilov Barry (born Marion Barry Jr.; March 6, 1936 – November 23, 2014) was an American politician who served as the second mayor of the District of Columbia from 1979 to 1991, and again as the fourth mayor from 1995 to 1999. A Democrat, Barry had served three tenures on the Council of the District of Columbia, representing as an at-large member from 1975 to 1979 and in Ward 8 from 1993 to 1995, and again from 2005 to 2014. In the 1960s he was involved in the civil rights movement, first as a member of the Nashville Student Movement and then serving as the first chairman of the Student Nonviolent Coordinating Committee (SNCC). Barry came to national prominence as mayor of the national capital, the first prominent civil rights activist to become chief executive of a major American city. He gave the presidential nomination speech for Jesse Jackson at the 1984 Democratic National Convention.",
-    "Birth_Date_ISO": "1936-03-06",
-    "Zodiac_Sign": "Pesci"
-  },
+
   {
     "Rank": "628",
     "Name": "Edson Izidoro Guimarães",
@@ -4483,14 +4297,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1957-04-22",
     "Zodiac_Sign": "Toro"
   },
-  {
-    "Rank": "629",
-    "Name": "Brigham Young",
-    "Details": "Dec. at 76 (1801-1877)",
-    "Biography": "Brigham Young (; June 1, 1801 – August 29, 1877) was an American religious leader, politician, and settler. He was the second president of The Church of Jesus Christ of Latter-day Saints (LDS Church) from 1847 until his death in 1877. He founded Salt Lake City and he served as the first governor of the Utah Territory. Young also led the foundings of the precursors to the University of Utah and Brigham Young University. Young had many nicknames, among the most popular being \"American Moses\" (alternatively, the \"Modern Moses\" or \"Mormon Moses\"), because, like the biblical figure, Young led his followers, the Mormon pioneers, in an exodus through a desert, to what they saw as a promised land.",
-    "Birth_Date_ISO": "1801-06-01",
-    "Zodiac_Sign": "Gemelli"
-  },
+
   {
     "Rank": "630",
     "Name": "Pope Leo X",
@@ -4499,14 +4306,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1475-12-11",
     "Zodiac_Sign": "Sagittario"
   },
-  {
-    "Rank": "632",
-    "Name": "Rick Scott",
-    "Details": "Age: 73",
-    "Biography": "Richard Lynn Scott (né Myers, December 1, 1952) is an American politician who has been serving as the junior United States senator from Florida since 2019. A member of the Republican Party, he previously served as the 45th governor of Florida from 2011 to 2019. Scott is a graduate of the University of Missouri, Kansas City and of Southern Methodist University Dedman School of Law. In 1987, after serving in the United States Navy and becoming a law firm partner, he co-founded Columbia Hospital Corporation. Columbia later merged with another corporation to form Columbia/HCA, which eventually became the largest private for-profit health care company in the United States.",
-    "Birth_Date_ISO": "1952-12-01",
-    "Zodiac_Sign": "Sagittario"
-  },
+
   {
     "Rank": "633",
     "Name": "Jose Eduardo Derbez",
@@ -4515,30 +4315,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1992-04-14",
     "Zodiac_Sign": "Ariete"
   },
-  {
-    "Rank": "634",
-    "Name": "Eric Cantor",
-    "Details": "Age: 62",
-    "Biography": "Eric Ivan Cantor (born June 6, 1963) is a former American politician, lawyer, and banker, who served as the United States representative for Virginia's 7th congressional district from 2001 until 2014. As a member of the Republican Party, he became House Majority Leader when the 112th Congress convened on January 3, 2011. He previously served as House Minority Whip from 2009 until 2011. His district included most of the northern and western sections of Richmond, along with most of Richmond's western suburbs and, until redistricting in 2013, portions of the Shenandoah Valley. Cantor was the highest-ranking Jewish member of Congress in its history, and at the time of his resignation, the only non-Christian Republican in either house.In June 2014, in his bid for re-election, Cantor lost the Republican primary to economics professor Dave Brat in an upset that greatly surprised political analysts.",
-    "Birth_Date_ISO": "1963-06-06",
-    "Zodiac_Sign": "Gemelli"
-  },
-  {
-    "Rank": "635",
-    "Name": "Paul Ryan",
-    "Details": "Age: 56",
-    "Biography": "Paul Davis Ryan (born January 29, 1970) is an American politician who served as the 54th speaker of the United States House of Representatives from October 2015 to January 2019. He was also the 2012 vice presidential nominee of the Republican Party, running unsuccessfully alongside Mitt Romney. Ryan, a native of Janesville, Wisconsin, graduated from Miami University in 1992. He spent five years working for Republicans in Washington, D.C. and returned to Wisconsin in 1997 to work at his family's construction company.",
-    "Birth_Date_ISO": "1970-01-29",
-    "Zodiac_Sign": "Acquario"
-  },
-  {
-    "Rank": "636",
-    "Name": "Lindsey Graham",
-    "Details": "Age: 70",
-    "Biography": "Lindsey Olin Graham (born July 9, 1955) is an American politician serving as a Republican, and also the senior United States Senator from South Carolina, a seat he has held since 2003. Since 2019, he has been the Chair of the Senate Committee on the Judiciary. A native of Central, South Carolina, Graham received his Juris Doctor degree from the University of South Carolina School of Law in 1981. Most of his active duty within his span of military service happened from 1982 to 1988 when he served with the Judge Advocate General's Corps in the United States Air Force, as a defense attorney and then with the Air Force's chief prosecutor in Europe based in West Germany. Later his entire service in the Air Force Reserve ran concurrent with his congressional career.",
-    "Birth_Date_ISO": "1955-07-09",
-    "Zodiac_Sign": "Cancro"
-  },
+
   {
     "Rank": "638",
     "Name": "Timothy Geithner",
@@ -4588,14 +4365,6 @@ export const criminals: Criminal[] = [
     "Zodiac_Sign": "Leone"
   },
   {
-    "Rank": "645",
-    "Name": "Cordell Hull",
-    "Details": "Dec. at 83 (1871-1955)",
-    "Biography": "Cordell Hull (October 2, 1871 – July 23, 1955) was an American politician from Tennessee best known as the longest-serving U.S. Secretary of State, holding the position for 11 years (1933–1944) in the administration of President Franklin Delano Roosevelt during most of World War II. Hull received the Nobel Peace Prize in 1945 for his role in establishing the United Nations, and was referred to by President Roosevelt as the \"Father of the United Nations\".Born in Olympus, Tennessee, he pursued a legal career after graduating from the Cumberland School of Law. He won election to the Tennessee House of Representatives and served in Cuba during the Spanish–American War. He represented Tennessee in the United States House of Representatives from 1907 to 1921 and from 1923 to 1931.",
-    "Birth_Date_ISO": "1871-10-02",
-    "Zodiac_Sign": "Bilancia"
-  },
-  {
     "Rank": "646",
     "Name": "Harry Frederick Oppenheimer",
     "Details": "Dec. at 91 (1908-2000)",
@@ -4610,23 +4379,6 @@ export const criminals: Criminal[] = [
     "Biography": "David William Donald Cameron (born 9 October 1966) is a British politician who served as Prime Minister of the United Kingdom from 2010 to 2016. He was the Member of Parliament (MP) for Witney from 2001 to 2016 and Leader of the Conservative Party from 2005 to 2016. He identifies as a one-nation conservative, and has been associated with both economically liberal and socially liberal policies. Born in London to an upper-middle-class family, Cameron was educated at Heatherdown School, Eton College, and Brasenose College, Oxford. From 1988 to 1993 he worked at the Conservative Research Department, assisting the Conservative Prime Minister John Major, before leaving politics to work for Carlton Communications in 1994.",
     "Birth_Date_ISO": "1966-10-09",
     "Zodiac_Sign": "Bilancia"
-  },
-  {
-    "Rank": "648",
-    "Name": "Simone Veil",
-    "Details": "Age: 98",
-    "Biography": "Simone Annie Liline Veil, DBE (French: [simɔn vɛj] (listen), née Jacob; 13 July 1927 – 30 June 2017) was a French lawyer and politician who served as Minister of Health under Valéry Giscard d'Estaing, President of the European Parliament and member of the Constitutional Council of France. A survivor of the Auschwitz-Birkenau concentration camp where she lost part of her family during the Holocaust; she served as the first president of the Fondation pour la Mémoire de la Shoah, from 2000 to 2007, and subsequently as honorary president. She was elected to the Académie française in November 2008. She was best known for pushing forward the law legalizing abortion in France on 17 January 1975. She and her husband were buried in the Panthéon on July 1, 2018.",
-    "Birth_Date_ISO": "1927-07-13",
-    "Zodiac_Sign": "Cancro"
-  },
-
-  {
-    "Rank": "651",
-    "Name": "Loretta E. Lynch",
-    "Details": "Age: 66",
-    "Biography": "For the country singer, see Loretta Lynn.Loretta Elizabeth Lynch (born May 21, 1959) is an American lawyer who served as the 83rd Attorney General of the United States from 2015 to 2017. She was appointed by President Barack Obama to succeed Eric Holder and previously served as the United States Attorney for the Eastern District of New York under both President Bill Clinton (1999–2001) and Barack Obama (2010–2015). As a U.S. Attorney, Lynch oversaw federal prosecutions in Brooklyn, Queens, Staten Island and Long Island. Born in Greensboro, North Carolina, Lynch graduated from Harvard Law School in 1984.",
-    "Birth_Date_ISO": "1959-05-21",
-    "Zodiac_Sign": "Gemelli"
   },
   {
     "Rank": "652",
@@ -4650,22 +4402,6 @@ export const criminals: Criminal[] = [
     "Details": "Age: 71",
     "Biography": "George Galloway (born 16 August 1954) is a British politician, broadcaster and writer. Between 1987 and 2015, except for a period between 2010–2012, he was a Member of Parliament for four constituencies, firstly for the Labour Party and later the Respect Party. After becoming the youngest ever chair of the Scottish Labour Party in 1981, he was general secretary of the London-based charity War on Want from 1983 until elected as MP for Glasgow Hillhead (later Glasgow Kelvin) at the 1987 general election. In 2003, Galloway was expelled from the Labour Party for bringing the party into disrepute, including having called on Arabs to fight British troops.In 2004, he became a member of Respect–The Unity Coalition, later known as the Respect Party, becoming party leader by late 2013. Having decided not to seek re-election for Glasgow Kelvin, he stood for Respect in the 2005 general election for Bethnal Green and Bow, defeating the sitting Labour MP, Oona King, and served for one parliamentary term.",
     "Birth_Date_ISO": "1954-08-16",
-    "Zodiac_Sign": "Leone"
-  },
-  {
-    "Rank": "655",
-    "Name": "Rush Limbaugh",
-    "Details": "Age: 75",
-    "Biography": "Rush Limbaugh, born in 1951, was a prominent figure in American media. He is best known for his conservative political commentary on The Rush Limbaugh Show, one of the most-listened-to talk radio shows in the United States. Born into a family of lawyers in Cape Girardeau, Missouri, Limbaugh found his passion in radio at an early age. He began his career as a disc jockey during high school, a pursuit he continued after dropping out of Southeast Missouri State University. While Limbaugh's radio career had modest beginnings, it skyrocketed to fame in the 1980s.",
-    "Birth_Date_ISO": "1951-01-12",
-    "Zodiac_Sign": "Capricorno"
-  },
-  {
-    "Rank": "656",
-    "Name": "Janet Yellen",
-    "Details": "Age: 79",
-    "Biography": "Janet Louise Yellen (born August 13, 1946) is an American economist who was the 15th chair of the Federal Reserve from 2014 to 2018, the first woman to hold the role. She is a professor emerita at Haas School of Business at the University of California, Berkeley. She was vice-chair from 2010 to 2014. President Joe Biden has announced that he will nominate Yellen to serve in his Cabinet as United States Secretary of the Treasury. Yellen was a member of the Federal Reserve Board of Governors from 1994 to 1997 and again from 2010 to 2018.",
-    "Birth_Date_ISO": "1946-08-13",
     "Zodiac_Sign": "Leone"
   },
   {
@@ -4739,14 +4475,6 @@ export const criminals: Criminal[] = [
     "Biography": "Lawrencia Ann \"Bambi\" Bembenek (August 15, 1958 – November 20, 2010), known as Laurie Bembenek, was an American former police officer convicted of murdering her husband's ex-wife. Her story garnered national attention after she escaped from Taycheedah Correctional Institution and was recaptured in Canada, an episode which inspired books, movies and the slogan \"Run, Bambi, Run\". Upon winning a new trial, she pleaded no contest to second-degree murder and was sentenced to time served and ten years probation in December 1992. Four years after, she sought to have the sentence overturned.Prior to her arrest, Bembenek was fired by the Milwaukee Police Department and had gone on to sue the department, claiming that it engaged in sexual discrimination and other illegal activities. She worked briefly as a waitress at the Lake Geneva, Wisconsin, Playboy Club.",
     "Birth_Date_ISO": "1958-08-15",
     "Zodiac_Sign": "Leone"
-  },
-  {
-    "Rank": "667",
-    "Name": "James Wolfensohn",
-    "Details": "Age: 92",
-    "Biography": "James David Wolfensohn, KBE, AO (born 1 December 1933) is an Australian-American lawyer, investment banker, and economist who served as the ninth president of the World Bank Group (1995–2005). He was born in Sydney, Australia, and is a graduate of the University of Sydney and Harvard Business School; he was also an Olympic fencer. He worked for various companies in Britain and the United States before forming his own investment firm. Wolfensohn became an American citizen in 1980, requiring him to renounce his Australian citizenship although he eventually regained it in 2010. He served two terms as President of the World Bank on the nomination of U.S.",
-    "Birth_Date_ISO": "1933-12-01",
-    "Zodiac_Sign": "Sagittario"
   },
   {
     "Rank": "669",
@@ -4885,14 +4613,7 @@ export const criminals: Criminal[] = [
     "Zodiac_Sign": "Vergine"
   },
 
-  {
-    "Rank": "690",
-    "Name": "Scott Walker",
-    "Details": "Age: 58",
-    "Biography": "Scott Kevin Walker (born November 2, 1967) is an American politician who served as the 45th Governor of Wisconsin from 2011 to 2019. He is a member of the Republican Party. Born in Colorado Springs, Colorado, Walker was raised in Iowa and in Delavan, Wisconsin. He was elected to the Wisconsin State Assembly in 1992, representing a district in western Milwaukee County. In 2002, Walker was elected Milwaukee County Executive in a special election following the resignation of F.",
-    "Birth_Date_ISO": "1943-01-09",
-    "Zodiac_Sign": "Capricorno"
-  },
+
   {
     "Rank": "691",
     "Name": "50 Cent",
@@ -4951,38 +4672,6 @@ export const criminals: Criminal[] = [
     "Zodiac_Sign": "Cancro"
   },
   {
-    "Rank": "700",
-    "Name": "Debbie Wasserman Schultz",
-    "Details": "Age: 59",
-    "Biography": "Deborah Wasserman Schultz (; born September 27, 1966) is an American politician serving as the U.S. Representative from Florida's 23rd congressional district, first elected to Congress in 2004. A member of the Democratic Party, she is a former Chair of the Democratic National Committee. Wasserman Schultz served in the Florida House of Representatives and the Florida Senate and was a national campaign co-chair for Hillary Clinton's 2008 run for president. She is the first Jewish representative elected from Florida.",
-    "Birth_Date_ISO": "1966-09-27",
-    "Zodiac_Sign": "Bilancia"
-  },
-  {
-    "Rank": "701",
-    "Name": "Flemming Rose",
-    "Details": "Age: 68",
-    "Biography": "Flemming Rose (born 11 March 1958) is a Danish journalist, author and Senior Fellow at the Cato Institute. He previously served as foreign affairs editor at the Danish newspaper Jyllands-Posten. As culture editor of the same newspaper, he was principally responsible for the September 2005 publication of the cartoons that initiated the Jyllands-Posten Muhammad cartoons controversy early the next year, and since then he has been an international advocate of the freedom of speech.",
-    "Birth_Date_ISO": "2005-09-22",
-    "Zodiac_Sign": "Vergine"
-  },
-  {
-    "Rank": "702",
-    "Name": "John Edwards",
-    "Details": "Age: 72",
-    "Biography": "Johnny Reid \"John\" Edwards (born June 10, 1953) is an American lawyer and former politician who served as a U.S. Senator from North Carolina. He was the Democratic nominee for Vice President in 2004, and was a candidate for the Democratic presidential nomination in 2004 and 2008. Edwards defeated incumbent Republican Lauch Faircloth in North Carolina's 1998 Senate election. Towards the end of his single six-year term, he sought the Democratic Party's nomination in the 2004 presidential election.",
-    "Birth_Date_ISO": "1953-06-10",
-    "Zodiac_Sign": "Gemelli"
-  },
-  {
-    "Rank": "703",
-    "Name": "Frank Luntz",
-    "Details": "Age: 64",
-    "Biography": "Frank Ian Luntz (born February 23, 1962) is an American political consultant, pollster, and \"public opinion guru\" best known for developing talking points and other messaging for Republican causes. His work has included assistance with messaging for Newt Gingrich's Contract with America, and public relations support for pro-Israel policies in the Israeli–Palestinian conflict. He advocated use of vocabulary crafted to produce a desired effect; including use of the term death tax instead of estate tax, and climate change instead of global warming. Luntz has frequently contributed to Fox News as a commentator and analyst, as well as running focus groups during and after presidential debates on CBSN. Luntz describes his specialty as \"testing language and finding words that will help his clients sell their product or turn public opinion on an issue or a candidate.\" He is also an author of business books dealing with communication strategies and public opinion.",
-    "Birth_Date_ISO": "1962-02-23",
-    "Zodiac_Sign": "Pesci"
-  },
-  {
     "Rank": "704",
     "Name": "Louis XIV of France",
     "Details": "Dec. at 76 (1638-1715)",
@@ -5027,24 +4716,8 @@ export const criminals: Criminal[] = [
     "Name": "Pontius Pilate",
     "Details": "",
     "Biography": "Pontius Pilate (; Latin: Pontius Pīlātus [ˈpɔn.ti.ʊs piːˈɫaː.tʊs]; Ancient Greek: Πόντιος Πιλάτος, Pontios Pilatos) was the fifth governor of the Roman province of Judaea, serving under Emperor Tiberius from 26/27 to 36/37 CE. He is best known today for being the official who presided over the trial of Jesus and ordered his crucifixion. Pilate's importance in modern Christianity is underscored by his prominent place in both the Apostles and Nicene Creeds. The Coptic and Ethiopian Churches venerate Pilate as a saint.Although Pilate is the best-attested governor of Judaea, few sources on his rule have survived. He appears to have belonged to the well-attested Pontii family, but nothing is known for certain about his life before he became governor of Judaea, nor of the circumstances that led to his appointment to the governorship.",
-    "Birth_Date_ISO": "2026-04-01",
+    "Birth_Date_ISO": "0000-04-01",
     "Zodiac_Sign": "Ariete"
-  },
-  {
-    "Rank": "712",
-    "Name": "Arseniy Yatsenyuk",
-    "Details": "Age: 51",
-    "Biography": "Arseniy Petrovych Yatsenyuk (Ukrainian: Арсеній Петрович Яценюк, Ukrainian pronunciation: [ɐrˈsɛnʲij pɛtˈrɔvɪtʃ jɐtsɛˈnʲuk]; born 22 May 1974) is a Ukrainian politician, economist and lawyer who served as the 13th Prime Minister of Ukraine from 27 February 2014 to 14 April 2016. Yatsenyuk's first government post was as Minister of Economy from 2005 to 2006; subsequently he was Foreign Minister of Ukraine in 2007 and Chairman of the Verkhovna Rada (parliament) from 2007 to 2008. Yatsenyuk was one of the leaders of Ukraine's second biggest party All-Ukrainian Union \"Fatherland\", and former leader of its parliamentary faction. He became the Prime Minister of Ukraine following the 2014 revolution that removed Viktor Yanukovych from power. In September 2014, Yatsenyuk started the new party People's Front.",
-    "Birth_Date_ISO": "1974-05-22",
-    "Zodiac_Sign": "Gemelli"
-  },
-  {
-    "Rank": "714",
-    "Name": "Malcolm X",
-    "Details": "Dec. at 39 (1925-1965)",
-    "Biography": "Malcolm X, born Malcolm Little on May 19, 1925, in Omaha, Nebraska, was a prominent figure in the Civil Rights Movement of the United States. Known for his persuasive public speaking and unwavering advocacy for African American rights, Malcolm X's life was marked by deeply impactful events and experiences that shaped his transformative journey. Tragedy struck early in Malcolm's life when his father, an outspoken civil rights activist himself, was allegedly murdered by white supremacists. His mother was later institutionalized for mental health issues, leading to Malcolm and his siblings being separated and sent to foster homes. It was during his time in prison for larceny that Malcolm began his intellectual journey, immersing himself in books and eventually joining the Nation of Islam, an African American political and religious movement.",
-    "Birth_Date_ISO": "1925-05-19",
-    "Zodiac_Sign": "Toro"
   },
   {
     "Rank": "715",
@@ -5070,14 +4743,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1953-08-18",
     "Zodiac_Sign": "Leone"
   },
-  {
-    "Rank": "718",
-    "Name": "Nikki Haley",
-    "Details": "Age: 54",
-    "Biography": "Nimrata Haley (née Randhawa, January 20, 1972), known as Nikki Haley, is an American diplomat and politician who served as United States ambassador to the United Nations from 2017 to 2018. As a Republican, she previously served as Governor of South Carolina from 2011 to 2017 and in the legislature. Haley was the first female governor of South Carolina, and the second Indian-American (after fellow Republican, Governor Bobby Jindal) to serve as a governor in the United States. First elected in 2004, Haley served three terms in the South Carolina House of Representatives. In 2010, during her third term, she was elected governor, and was re-elected in November 2014.",
-    "Birth_Date_ISO": "1972-01-20",
-    "Zodiac_Sign": "Acquario"
-  },
+
   {
     "Rank": "719",
     "Name": "James R. Clapper",
@@ -5085,14 +4751,6 @@ export const criminals: Criminal[] = [
     "Biography": "James Robert Clapper Jr. (born March 14, 1941) is a retired lieutenant general in the United States Air Force and is the former Director of National Intelligence. Clapper has held several key positions within the United States Intelligence Community. He served as director of the Defense Intelligence Agency (DIA) from 1992 until 1995. He was the first director of defense intelligence within the Office of the Director of National Intelligence and simultaneously the Under Secretary of Defense for Intelligence.",
     "Birth_Date_ISO": "1941-03-14",
     "Zodiac_Sign": "Pesci"
-  },
-  {
-    "Rank": "720",
-    "Name": "Barry Salzberg",
-    "Details": "",
-    "Biography": "Barry Salzberg is an American businessman, accountant, and lawyer. Salzberg is the global Chief Executive Officer of Deloitte Touche Tohmatsu Limited, a position he has held since June 2011.",
-    "Birth_Date_ISO": "2011-01-01",
-    "Zodiac_Sign": "Capricorno"
   },
   {
     "Rank": "721",
@@ -5118,14 +4776,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1924-01-01",
     "Zodiac_Sign": "Capricorno"
   },
-  {
-    "Rank": "725",
-    "Name": "John Boehner",
-    "Details": "Age: 76",
-    "Biography": "John Andrew Boehner ( BAY-nər; born November 17, 1949) is an American politician who served as the 53rd speaker of the United States House of Representatives from 2011 to 2015. A member of the Republican Party, he was the U.S. Representative for Ohio's 8th congressional district from 1991 to 2015. The district included several rural and suburban areas near Cincinnati and Dayton. Boehner previously served as the House Minority Leader from 2007 until 2011, and House Majority Leader from 2006 until 2007.",
-    "Birth_Date_ISO": "1949-11-17",
-    "Zodiac_Sign": "Scorpione"
-  },
+
   {
     "Rank": "726",
     "Name": "Jia Sidao",
@@ -5166,14 +4817,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1940-01-28",
     "Zodiac_Sign": "Acquario"
   },
-  {
-    "Rank": "733",
-    "Name": "Rick Perry",
-    "Details": "Age: 76",
-    "Biography": "James Richard \"Rick\" Perry (born March 4, 1950) is an American politician who is the 14th and current United States Secretary of Energy, serving in the Cabinet of Donald Trump. Prior to becoming Secretary of Energy, Perry served as the 47th Governor of Texas from December 2000 to January 2015. Perry was elected Lieutenant Governor of Texas in 1998 and assumed the governorship in December 2000 when Governor George W. Bush resigned to become president. Perry is the longest-serving governor in Texas history.",
-    "Birth_Date_ISO": "1950-03-04",
-    "Zodiac_Sign": "Pesci"
-  },
+ 
   {
     "Rank": "734",
     "Name": "Chad Hurley",
@@ -5270,14 +4914,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1950-12-18",
     "Zodiac_Sign": "Sagittario"
   },
-  {
-    "Rank": "751",
-    "Name": "Sharron Angle",
-    "Details": "Age: 76",
-    "Biography": "Sharron Elaine Angle (née Ott; born July 26, 1949) is an American politician who served as a Republican member of the Nevada Assembly from 1999 to 2007. She ran unsuccessfully as the 2010 Republican nominee for the U.S. Senate seat in Nevada, garnering 45 percent of the vote. On September 15, 2013, she was unanimously elected the fifth President of the National Federation of Republican Assemblies, and resigned in 2016 to run again for the Nevada U.S. Senator position being vacated by Harry Reid but failed to win the Republican primary.",
-    "Birth_Date_ISO": "1949-07-26",
-    "Zodiac_Sign": "Leone"
-  },
+
   {
     "Rank": "752",
     "Name": "Jawed Karim",
@@ -5294,14 +4931,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "0852-12-05",
     "Zodiac_Sign": "Sagittario"
   },
-  {
-    "Rank": "754",
-    "Name": "Condoleezza Rice",
-    "Details": "Age: 71",
-    "Biography": "Condoleezza Rice, an accomplished scholar and diplomat, is known for her pivotal role in American politics. Born on November 14, 1954, in Birmingham, Alabama, Rice's early life was marked by the tumultuous era of the civil rights movement, deeply influencing her perspective and determination to succeed. She excelled acadically, completing a bachelor's degree in political science from the University of Denver, a master's degree from the University of Notre Dame, and a PhD from the Graduate School of International Studies at the University of Denver. Rice's scholarly pursuits led her to Stanford University in 1981, where she served as a professor of political science. Her expertise in Soviet and East European affairs caught the attention of the political sphere, leading to her appointment as the National Security Council's senior director of Soviet and East European Affairs under President George H.W.",
-    "Birth_Date_ISO": "1954-11-14",
-    "Zodiac_Sign": "Scorpione"
-  },
+ 
   {
     "Rank": "755",
     "Name": "William the Conqueror",
@@ -5326,14 +4956,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1574-01-17",
     "Zodiac_Sign": "Capricorno"
   },
-  {
-    "Rank": "758",
-    "Name": "Sarah Palin",
-    "Details": "Age: 62",
-    "Biography": "Sarah Palin, a dynamic and popular figure in the American political landscape, emerged from humble beginnings to become one of the most recognized faces in the country. Born on February 11, 1964, in Sandpoint, Idaho, she grew up in Alaska, where her father worked as a science teacher and track coach. Her early life was steeped in the rugged Alaskan wilderness, which shaped her love for outdoor activities and planted the seeds for her conservative political views. Palin attended the University of Idaho, where she earned a bachelor's degree in communications with an emphasis in journalism. Palin's political career began with her election to the Wasilla City Council in 1992, before becoming the city's mayor in 1996.",
-    "Birth_Date_ISO": "1964-02-11",
-    "Zodiac_Sign": "Acquario"
-  },
+
   {
     "Rank": "759",
     "Name": "Fred C. Koch",
@@ -5390,14 +5013,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1972-05-05",
     "Zodiac_Sign": "Toro"
   },
-  {
-    "Rank": "768",
-    "Name": "Jeb Bush",
-    "Details": "Age: 73",
-    "Biography": "John Ellis \"Jeb\" Bush (born February 11, 1953) is an American politician who served as the 43rd Governor of Florida from 1999 to 2007. Bush, who grew up in Houston, is the second son of former President George H. W. Bush and former First Lady Barbara Bush, and a younger brother of former President George W. Bush.",
-    "Birth_Date_ISO": "1953-02-11",
-    "Zodiac_Sign": "Acquario"
-  },
+
 
   {
     "Rank": "770",
@@ -5415,14 +5031,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "0642-04-22",
     "Zodiac_Sign": "Toro"
   },
-  {
-    "Rank": "772",
-    "Name": "Trent Lott",
-    "Details": "Age: 84",
-    "Biography": "Chester Trent Lott Sr. (born October 9, 1941) is an American politician and author. A former United States Senator from Mississippi, Lott served in numerous leadership positions in both the United States House of Representatives and the Senate. He entered Congress as one of the first of a wave of Republicans winning seats in Southern states that had been solidly Democratic. He became Senate Majority Leader, then stepped down from power after praising Strom Thurmond's 1948 segregationist Dixiecrat presidential bid.",
-    "Birth_Date_ISO": "1941-10-09",
-    "Zodiac_Sign": "Bilancia"
-  },
+ 
  
   {
     "Rank": "774",
@@ -5497,22 +5106,6 @@ export const criminals: Criminal[] = [
     "Zodiac_Sign": "Sagittario"
   },
   {
-    "Rank": "788",
-    "Name": "William Walker",
-    "Details": "Dec. at 36 (1824-1860)",
-    "Biography": "William Walker (May 8, 1824 – September 12, 1860) was an American physician, lawyer, journalist and mercenary who organized several private military expeditions into Latin America, with the intention of establishing English-speaking colonies under his personal control, an enterprise then known as \"filibustering\". Walker usurped the presidency of the Republic of Nicaragua in 1856 and ruled until 1857, when he was defeated by a coalition of Central American armies. He returned in an attempt to reestablish his control of the region and was captured and executed by the government of Honduras in 1860.",
-    "Birth_Date_ISO": "1824-05-08",
-    "Zodiac_Sign": "Toro"
-  },
-  {
-    "Rank": "789",
-    "Name": "Julian Huxley",
-    "Details": "Dec. at 87 (1887-1975)",
-    "Biography": "Sir Julian Sorell Huxley (22 June 1887 – 14 February 1975) was a British evolutionary biologist, eugenicist, and internationalist. He was a proponent of natural selection, and a leading figure in the mid-twentieth century modern synthesis. He was secretary of the Zoological Society of London (1935–1942), the first Director of UNESCO, a founding member of the World Wildlife Fund and the first President of the British Humanist Association. Huxley was well known for his presentation of science in books and articles, and on radio and television. He directed an Oscar-winning wildlife film.",
-    "Birth_Date_ISO": "1887-06-22",
-    "Zodiac_Sign": "Cancro"
-  },
-  {
     "Rank": "790",
     "Name": "Ingrid Newkirk",
     "Details": "Age: 76",
@@ -5520,14 +5113,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1949-06-11",
     "Zodiac_Sign": "Gemelli"
   },
-  {
-    "Rank": "791",
-    "Name": "Kelly Ayotte",
-    "Details": "Age: 57",
-    "Biography": "Kelly Ann Ayotte (; born June 27, 1968) is an American attorney and politician who served as a United States Senator from 2011 to 2017 and Attorney General for New Hampshire from 2004 to 2009. She is a Republican. Born and raised in Nashua, New Hampshire, Ayotte is a graduate of Nashua High School, Pennsylvania State University and Villanova University School of Law. She worked as a law clerk for the New Hampshire Supreme Court before entering private practice. She also worked as a prosecutor for the New Hampshire Department of Justice, and briefly served as the legal counsel to New Hampshire Governor Craig Benson, before returning to the Department of Justice to serve as Deputy Attorney General of New Hampshire.",
-    "Birth_Date_ISO": "1968-06-27",
-    "Zodiac_Sign": "Cancro"
-  },
+
   {
     "Rank": "792",
     "Name": "Katherine Knight",
@@ -5552,30 +5138,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1944-12-23",
     "Zodiac_Sign": "Capricorno"
   },
-  {
-    "Rank": "795",
-    "Name": "Madison Grant",
-    "Details": "Dec. at 71 (1865-1937)",
-    "Biography": "Madison Grant (November 19, 1865 – May 30, 1937) was an American lawyer, writer, and zoologist known primarily for his work as a eugenicist/racist and conservationist as one of the leading thinkers and activists of the Progressive Era. As a eugenicist/racist, Grant was responsible for one of the most notorious works of scientific racism, and played an active role in crafting strong immigration restriction and anti-miscegenation laws in the United States. As a conservationist, Grant is credited with the saving of many different species of animals, founding many different environmental and philanthropic organizations and developing much of the discipline of wildlife management.",
-    "Birth_Date_ISO": "1865-11-19",
-    "Zodiac_Sign": "Scorpione"
-  },
-  {
-    "Rank": "796",
-    "Name": "Huey Long",
-    "Details": "Dec. at 42 (1893-1935)",
-    "Biography": "Huey Pierce Long Jr. (August 30, 1893 – September 10, 1935), nicknamed \"The Kingfish\", was an American politician who served as the 40th governor of Louisiana from 1928 to 1932 and was a member of the United States Senate from 1932 until his assassination in 1935. As the political leader of Louisiana, he commanded wide networks of supporters and was willing to take forceful and dictatorial action. He established the long-term political dominance and dynasty of the Long family. During Long's years in power, large expansions were made in infrastructure, education and health care.",
-    "Birth_Date_ISO": "1893-08-30",
-    "Zodiac_Sign": "Vergine"
-  },
-  {
-    "Rank": "797",
-    "Name": "Phil Bryant",
-    "Details": "Age: 71",
-    "Biography": "Dewey Phillip Bryant (born December 9, 1954) is an American politician serving as the 64th Governor of Mississippi since 2012. He previously served as the 31st Lieutenant Governor of Mississippi from 2008 to 2012 and 40th State Auditor of Mississippi from 1996 to 2008. A Republican, Bryant was elected governor in the 2011 gubernatorial election, having defeated the Democratic nominee, Mayor Johnny DuPree of Hattiesburg. He was reelected in the 2015 election, defeating truck driver Robert Gray.",
-    "Birth_Date_ISO": "1954-12-09",
-    "Zodiac_Sign": "Sagittario"
-  },
+
   {
     "Rank": "799",
     "Name": "Benjamin Disraeli",
@@ -5600,14 +5163,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1914-03-26",
     "Zodiac_Sign": "Ariete"
   },
-  {
-    "Rank": "803",
-    "Name": "Mitt Romney",
-    "Details": "Age: 79",
-    "Biography": "Willard \"Mitt\" Romney was seemingly destined to become a politician, the son of George, a former Michigan governor, and Lenore, who made an unsuccessful run for a seat on the U.S. Senate from the state in 1970. Born in 1947, Romney was raised as a member of the Church of Jesus Christ of Latter-day Saints. During his senior year of high school, he met his future wife, Ann, who he would marry several years later after the two reconnected when he returned from a period serving as a Mormon missionary in France. After doing undergraduate work at Stanford and BYU, where he transferred to be with Ann, Romney earned a law degree from Harvard in 1975.",
-    "Birth_Date_ISO": "1947-03-12",
-    "Zodiac_Sign": "Pesci"
-  },
+
   {
     "Rank": "805",
     "Name": "Álvaro Uribe",
@@ -5616,30 +5172,8 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1952-07-04",
     "Zodiac_Sign": "Cancro"
   },
-  {
-    "Rank": "806",
-    "Name": "Oliver North",
-    "Details": "Age: 82",
-    "Biography": "Oliver Laurence North (born October 7, 1943) is an American political commentator, television host, military historian, author, and retired United States Marine Corps lieutenant colonel. He was convicted in the Iran–Contra affair of the late 1980s, but his convictions were vacated and reversed, and all charges against him dismissed in 1991. North is primarily remembered for his term as a National Security Council staff member during the Iran-Contra affair, a political scandal of the late 1980s. The scandal involved the illegal sale of weapons to Iran to encourage the release of U.S. hostages then held in Lebanon.",
-    "Birth_Date_ISO": "1943-10-07",
-    "Zodiac_Sign": "Bilancia"
-  },
-  {
-    "Rank": "808",
-    "Name": "George Allen",
-    "Details": "Age: 74",
-    "Biography": "George Felix Allen (born March 8, 1952) is an American politician. A member of the Republican Party, he served as the 67th Governor of Virginia from 1994 to 1998 and as a United States Senator from Virginia from 2001 to 2007. The son of National Football League head coach George Allen, he served in the Virginia House of Delegates from 1983 to 1991, resigning after he won a special election for Virginia's 7th congressional district in November 1991. After his district was eliminated during redistricting, he declined to run for a full term in 1992, instead running for Governor of Virginia in the 1993 election. He defeated Democratic Attorney General of Virginia Mary Sue Terry by 58.3% against 40.9%.",
-    "Birth_Date_ISO": "1918-04-29",
-    "Zodiac_Sign": "Toro"
-  },
-  {
-    "Rank": "810",
-    "Name": "Kofi Annan",
-    "Details": "Age: 88",
-    "Biography": "Kofi Atta Annan (; 8 April 1938 – 18 August 2018) was a Ghanaian diplomat who served as the seventh Secretary-General of the United Nations from January 1997 to December 2006. Annan and the UN were the co-recipients of the 2001 Nobel Peace Prize. He was the founder and chairman of the Kofi Annan Foundation, as well as chairman of The Elders, an international organization founded by Nelson Mandela.Annan studied economics at Macalester College, international relations at the Graduate Institute Geneva, and management at MIT. Annan joined the UN in 1962, working for the World Health Organization's Geneva office. He went on to work in several capacities at the UN Headquarters including serving as the Under-Secretary-General for peacekeeping between March 1992 and December 1996.",
-    "Birth_Date_ISO": "1938-04-08",
-    "Zodiac_Sign": "Ariete"
-  },
+
+
   {
     "Rank": "811",
     "Name": "Golda Meir",
@@ -5656,14 +5190,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1943-06-17",
     "Zodiac_Sign": "Gemelli"
   },
-  {
-    "Rank": "814",
-    "Name": "Ken Starr",
-    "Details": "Age: 79",
-    "Biography": "Kenneth Winston Starr (July 21, 1946-September 13, 2022) was an American lawyer and judge who authored the Starr Report, which led to the impeachment of Bill Clinton. He headed an investigation of members of the Clinton administration, known as the Whitewater controversy, from 1994 to 1998.",
-    "Birth_Date_ISO": "1946-07-21",
-    "Zodiac_Sign": "Cancro"
-  },
+ 
   {
     "Rank": "815",
     "Name": "Chiang Kai-shek",
@@ -5696,14 +5223,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1946-12-09",
     "Zodiac_Sign": "Sagittario"
   },
-  {
-    "Rank": "819",
-    "Name": "John Roberts",
-    "Details": "Age: 71",
-    "Biography": "John Glover Roberts Jr. (born January 27, 1955) is an American lawyer and jurist who serves as Chief Justice of the United States. Roberts has authored the majority opinion in several landmark cases, including Shelby County v. Holder, National Federation of Independent Business v. Sebelius, King v.",
-    "Birth_Date_ISO": "1955-01-27",
-    "Zodiac_Sign": "Acquario"
-  },
+ 
 
   {
     "Rank": "823",
@@ -5787,38 +5307,6 @@ export const criminals: Criminal[] = [
     "Zodiac_Sign": "Scorpione"
   },
   {
-    "Rank": "834",
-    "Name": "Rand Paul",
-    "Details": "Age: 63",
-    "Biography": "Randal Howard Paul (born January 7, 1963) is an American politician and physician serving as the junior United States Senator from Kentucky since 2011, alongside Majority Leader Mitch McConnell. He is the son of former U.S. Representative Ron Paul of Texas who was a presidential candidate in 1988, 2008 and 2012. Born in Pittsburgh, Pennsylvania, Paul attended Baylor University and is a graduate of the Duke University School of Medicine. Paul began practicing ophthalmology in 1993 in Bowling Green, Kentucky, and established his own clinic in December 2007.",
-    "Birth_Date_ISO": "1963-01-07",
-    "Zodiac_Sign": "Capricorno"
-  },
-  {
-    "Rank": "835",
-    "Name": "Greg Abbott",
-    "Details": "Age: 68",
-    "Biography": "Gregory Wayne Abbott (born November 13, 1957) is an American attorney and politician who has served as the 48th Governor of Texas since January 20, 2015. A Republican, Abbott previously served as the 50th Attorney General of Texas from 2002 to 2015. He is the first governor of any U.S. state since George Wallace to permanently use a wheelchair.Abbott was the second Republican to serve as Attorney General of Texas since Reconstruction. Prior to assuming the office of attorney general, he was a justice of the Texas Supreme Court, a position to which he was initially appointed in 1995 by then-Governor George W.",
-    "Birth_Date_ISO": "1957-11-13",
-    "Zodiac_Sign": "Scorpione"
-  },
-  {
-    "Rank": "836",
-    "Name": "Bobby Jindal",
-    "Details": "Age: 54",
-    "Biography": "Piyush \"Bobby\" Jindal (born June 10, 1971) is an American politician who served as the 55th Governor of Louisiana from 2008 to 2016. Jindal previously served as a member of the U.S. House of Representatives and as the vice chair of the Republican Governors Association.In 1996, Jindal was appointed secretary of the Louisiana Department of Health and Hospitals. In 1999, he was appointed president of the University of Louisiana System. At 28, Jindal became the youngest person to hold the position.",
-    "Birth_Date_ISO": "1971-06-10",
-    "Zodiac_Sign": "Gemelli"
-  },
-  {
-    "Rank": "837",
-    "Name": "W. Averell Harriman",
-    "Details": "Dec. at 94 (1891-1986)",
-    "Biography": "William Averell Harriman (November 15, 1891 – July 26, 1986), better known as Averell Harriman, was an American Democratic politician, businessman, and diplomat. The son of railroad baron E. H. Harriman, he served as Secretary of Commerce under President Harry S. Truman and later as the 48th Governor of New York.",
-    "Birth_Date_ISO": "1891-11-15",
-    "Zodiac_Sign": "Scorpione"
-  },
-  {
     "Rank": "838",
     "Name": "Alice Bailey",
     "Details": "Dec. at 69 (1880-1949)",
@@ -5827,36 +5315,12 @@ export const criminals: Criminal[] = [
     "Zodiac_Sign": "Gemelli"
   },
   {
-    "Rank": "839",
-    "Name": "John McCain",
-    "Details": "Dec. at 81 (1936-2018)",
-    "Biography": "John McCain, born in 1936 in the Panama Canal Zone, was a decorated figure in American political history. His life was characterized by tenacious service to his country and a commitment to principled leadership. His journey began with his enrollment in the U.S. Naval Academy, following in the footsteps of his father and grandfather, both four-star admirals. McCain's military service would prove to be a defining period in his life, marked by his five-year imprisonment during the Vietnam War, from 1967 to 1973.",
-    "Birth_Date_ISO": "1936-08-29",
-    "Zodiac_Sign": "Vergine"
-  },
-  {
     "Rank": "840",
     "Name": "Velupillai Prabhakaran",
     "Details": "Dec. at 54 (1954-2009)",
     "Biography": "Thiruvenkadam Velupillai Prabhakaran (listen (US English); Tamil: வேலுப்பிள்ளை பிரபாகரன்; Tamil pronunciation: [ˈʋeːlɯpːɨɭːɛi̯ prəˈbɑːɦərən], 26 November 1954 – 19 May 2009) was the founder and leader of the Liberation Tigers of Tamil Eelam (the LTTE or the Tamil Tigers), a militant organization that sought to create an independent Tamil state in the north and east of Sri Lanka.For over 25 years, the LTTE waged war in Sri Lanka to create an independent state for the Sri Lankan Tamil people. Founded in 1976, the LTTE rocketed to prominence in 1983 after they ambushed a patrol of the Sri Lanka Army outside Jaffna, resulting in the deaths of 13 soldiers. This ambush, along with the subsequent rioting which resulted in the deaths of hundreds of Tamil civilians, is generally considered the start of the Sri Lankan Civil War. After years of fighting, including the intervention of the Indian Army (IPKF), the conflict was halted after international mediation in 2001. By then, the LTTE also known as the Tamil Tigers controlled large swathes of land in the north and east of the country, running a de facto state with Prabhakaran serving as its leader.",
     "Birth_Date_ISO": "1954-11-26",
     "Zodiac_Sign": "Sagittario"
-  },
-  {
-    "Rank": "841",
-    "Name": "William E. Dannemeyer",
-    "Details": "Age: 96",
-    "Biography": "William Edwin Dannemeyer (September 22, 1929 – July 9, 2019) was a conservative American politician, activist, and author, known for his opposition to LGBT rights. He served as U.S. Representative from the 39th Congressional District of California from 1979 to 1993, during which time he, along with friend and fellow Republican U.S. Rep. Robert K.",
-    "Birth_Date_ISO": "1929-09-22",
-    "Zodiac_Sign": "Vergine"
-  },
-  {
-    "Rank": "842",
-    "Name": "William Tecumseh Sherman",
-    "Details": "Dec. at 71 (1820-1891)",
-    "Biography": "William Tecumseh Sherman (February 8, 1820 – February 14, 1891) was an American soldier, businessman, educator, and author. He served as a general in the Union Army during the American Civil War (1861–65), for which he received recognition for his outstanding command of military strategy as well as criticism for the harshness of the scorched earth policies he implemented in conducting total war against the Confederate States.Sherman was born into a prominent political family. He graduated from the United States Military Academy in 1840 and was stationed in California. He married Ellen Ewing Sherman and together they raised eight children. Sherman's wife and children were all devout Catholics, while Sherman was originally a member of the faith but later left it.",
-    "Birth_Date_ISO": "1820-02-08",
-    "Zodiac_Sign": "Acquario"
   },
   {
     "Rank": "844",
@@ -5874,14 +5338,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1936-03-11",
     "Zodiac_Sign": "Pesci"
   },
-  {
-    "Rank": "848",
-    "Name": "Henry Fairfield Osborn",
-    "Details": "Dec. at 78 (1857-1935)",
-    "Biography": "Henry Fairfield Osborn, Sr. (August 8, 1857 – November 6, 1935) was an American paleontologist and geologist. He was the president of the American Museum of Natural History for 25 years.",
-    "Birth_Date_ISO": "1857-08-08",
-    "Zodiac_Sign": "Leone"
-  },
+
   {
     "Rank": "851",
     "Name": "Kent Hovind",
@@ -5923,37 +5380,12 @@ export const criminals: Criminal[] = [
     "Zodiac_Sign": "Gemelli"
   },
   {
-    "Rank": "858",
-    "Name": "Patrick Leahy",
-    "Details": "Age: 86",
-    "Biography": "Patrick Joseph Leahy (; born March 31, 1940) is an American politician serving as the senior United States Senator from Vermont, a seat to which he was first elected in 1974. A member of the Democratic Party, Leahy held the position of president pro tempore of the United States Senate from December 17, 2012 to January 6, 2015, and was thus during that time third in the presidential line of succession. Now in his eighth six-year term of office, he is currently (since the December 2012 death of Daniel Inouye) the most senior member of the Senate, and is also the last of the Senate's \"Watergate Babies\" – Democrats first elected to Congress in 1974, following President Richard Nixon's August 9, 1974 resignation over the Watergate scandal. Additionally, Leahy remains the only sitting U.S. Senator to have served during the presidency of Gerald Ford.",
-    "Birth_Date_ISO": "1940-03-31",
-    "Zodiac_Sign": "Ariete"
-  },
-
-  {
-    "Rank": "862",
-    "Name": "Jan Brewer",
-    "Details": "Age: 81",
-    "Biography": "Janice Kay Brewer (born September 26, 1944) is an American politician and author who served as Governor of Arizona, from 2009 to 2015. A member of the Republican Party, Brewer is the fourth woman, and was the third consecutive woman, to serve as Governor of Arizona. Brewer became governor of Arizona as part of the line of succession, as determined by the Arizona Constitution, when Governor Janet Napolitano resigned to become secretary of Homeland Security. Brewer had served as secretary of state of Arizona from January 2003 to January 2009. Born in California, Brewer attended Glendale Community College, from where she received a radiological technologist certificate; she has never earned a college degree.",
-    "Birth_Date_ISO": "1944-09-26",
-    "Zodiac_Sign": "Bilancia"
-  },
-  {
     "Rank": "863",
     "Name": "Bohdan Khmelnytsky",
     "Details": "Dec. at 61 (1595-1657)",
     "Biography": "Zynoviy Bohdan Khmelnytsky (Ruthenian: Ѕѣнові Богдан Хмелнiцкiи; modern Ukrainian: Богдан Зиновій Михайлович Хмельницький, romanized: Bohdan Zynoviy Mykhailovych Khmelnytsky; c. 1595 – 6 August 1657) was a Ukrainian Hetman of the Zaporozhian Host, then in the Polish Crown of the Polish–Lithuanian Commonwealth (now part of Ukraine). He led an uprising against the Commonwealth and its magnates (1648–1654) that resulted in the creation of a state led by the Cossacks. In 1654, he concluded the Treaty of Pereyaslav with the Russian Tsardom and thus allied the state with Russia.",
     "Birth_Date_ISO": "1595-04-22",
     "Zodiac_Sign": "Toro"
-  },
-  {
-    "Rank": "864",
-    "Name": "William Rehnquist",
-    "Details": "Dec. at 80 (1924-2005)",
-    "Biography": "William Hubbs Rehnquist (; October 1, 1924 – September 3, 2005) was an American jurist and lawyer who served on the Supreme Court of the United States for 33 years, first as an Associate Justice from 1972 to 1986, and then as the 16th Chief Justice of the United States from 1986 until his death in 2005. Considered a conservative, Rehnquist favored a conception of federalism that emphasized the Tenth Amendment's reservation of powers to the states. Under this view of federalism, the court, for the first time since the 1930s, struck down an act of Congress as exceeding its power under the Commerce Clause. Born in Shorewood, Wisconsin, Rehnquist pursued a legal career in Phoenix, Arizona after graduating from Stanford Law School. He clerked for Associate Justice Robert H.",
-    "Birth_Date_ISO": "1924-10-01",
-    "Zodiac_Sign": "Bilancia"
   },
 
   {
@@ -5964,14 +5396,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1912-11-03",
     "Zodiac_Sign": "Scorpione"
   },
-  {
-    "Rank": "869",
-    "Name": "Monica Lewinsky",
-    "Details": "Age: 52",
-    "Biography": "Monica Lewinsky",
-    "Birth_Date_ISO": "1973-07-23",
-    "Zodiac_Sign": "Leone"
-  },
+
   {
     "Rank": "870",
     "Name": "Norman Schwarzkopf, Jr.",
