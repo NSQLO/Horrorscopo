@@ -468,7 +468,7 @@ export const criminals: Criminal[] = [
     "Rank": "65",
     "Name": "Omar al-Bashir",
     "Details": "Age: 82",
-    "Biography": "Omar Hassan Ahmad al-Bashir (Arabic: عمر حسن أحمد البشير‎, pronounced [ba'ʃiːr]; born 29 February 1944) is a Sudanese politician who served as the seventh President of Sudan from 1989 to 2019 and founder of the National Congress Party. He came to power in 1989 when, as a brigadier in the Sudanese Army, he led a group of officers in a military coup that ousted the democratically elected government of prime minister Sadiq al-Mahdi after it began negotiations with rebels in the south. Since then, he has been elected three times as President in elections that have been under scrutiny for electoral fraud. In March 2009, al-Bashir became the first sitting president to be indicted by the International Criminal Court (ICC), for allegedly directing a campaign of mass killing, rape, and pillage against civilians in Darfur.In October 2005, al-Bashir's government negotiated an end to the Second Sudanese Civil War, leading to a referendum in the South, resulting in the separation of the south as the country of South Sudan. In the Darfur region, he oversaw the war in Darfur that has resulted in death tolls that are about 10,000 according to the Sudanese Government, but most sources suggest between 200,000 and 400,000.",
+    "Biography": "Omar Hassan Ahmad al-Bashir (born 29 February 1944) is a Sudanese politician who served as the seventh President of Sudan from 1989 to 2019 and founder of the National Congress Party. He came to power in 1989 when, as a brigadier in the Sudanese Army, he led a group of officers in a military coup that ousted the democratically elected government of prime minister Sadiq al-Mahdi after it began negotiations with rebels in the south. Since then, he has been elected three times as President in elections that have been under scrutiny for electoral fraud. In March 2009, al-Bashir became the first sitting president to be indicted by the International Criminal Court (ICC), for allegedly directing a campaign of mass killing, rape, and pillage against civilians in Darfur.In October 2005, al-Bashir's government negotiated an end to the Second Sudanese Civil War, leading to a referendum in the South, resulting in the separation of the south as the country of South Sudan. In the Darfur region, he oversaw the war in Darfur that has resulted in death tolls that are about 10,000 according to the Sudanese Government, but most sources suggest between 200,000 and 400,000.",
     "Birth_Date_ISO": "1944-01-01",
     "Zodiac_Sign": "Capricorno"
   },
@@ -649,14 +649,6 @@ export const criminals: Criminal[] = [
     "Zodiac_Sign": "Toro"
   },
   {
-    "Rank": "90",
-    "Name": "Edward Bernays",
-    "Details": "Dec. at 103 (1891-1995)",
-    "Biography": "Edward Louis Bernays (; German: [bɛɐ̯ˈnaɪs]; November 22, 1891 − March 9, 1995) was an Austrian-American pioneer in the field of public relations and propaganda, referred to in his obituary as \"the father of public relations\". Bernays was named one of the 100 most influential Americans of the 20th century by Life. He was the subject of a full length biography by Larry Tye called The Father of Spin (1999) and later an award-winning 2002 documentary for the BBC by Adam Curtis called The Century of the Self. His best-known campaigns include a 1929 effort to promote female smoking by branding cigarettes as feminist \"Torches of Freedom\" and his work for the United Fruit Company connected with the CIA-orchestrated overthrow of the democratically elected Guatemalan government in 1954. He worked for dozens of major American corporations including Procter & Gamble and General Electric, and for government agencies, politicians, and non-profit organizations.",
-    "Birth_Date_ISO": "1891-11-22",
-    "Zodiac_Sign": "Sagittario"
-  },
-  {
     "Rank": "91",
     "Name": "Gertrude Baniszewski",
     "Details": "Dec. at 60 (1929-1990)",
@@ -816,14 +808,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1893-10-12",
     "Zodiac_Sign": "Bilancia"
   },
-  {
-    "Rank": "114",
-    "Name": "Mengistu Haile Mariam",
-    "Details": "Age: 88",
-    "Biography": "Mengistu Haile Mariam (Amharic: መንግስቱ ኃይለ ማርያም, pronounced [mənɡɨstu haɪlə marjam]; born 21 May 1937) is an Ethiopian soldier and politician who was the leader of Ethiopia from 1977 to 1991. He was the chairman of the Derg, the military junta that governed Ethiopia, from 1977–87, and the President of the People's Democratic Republic of Ethiopia (PDRE) from 1987–91. The Derg took power in the Ethiopian Revolution following the overthrow of Emperor Haile Selassie I in 1974, marking the end of the Solomonic dynasty which had ruled Ethiopia since the 13th century. Mengistu purged rivals for power from the Derg and made himself Ethiopia's dictator, attempting to modernize Ethiopia's feudal economy through Marxist-Leninist-inspired policies such as nationalization and land redistribution. His bloody consolidation of power in 1977–78 is known as the Ethiopian Red Terror, a brutal crackdown on opposition groups and civilians following a failed assassination attempt by the Ethiopian People's Revolutionary Party (EPRP) in September 1976, after they had ignored the Derg's invitation to join the union of socialist parties.",
-    "Birth_Date_ISO": "1937-05-21",
-    "Zodiac_Sign": "Gemelli"
-  },
+
   {
     "Rank": "115",
     "Name": "Serhiy Tkach",
@@ -1008,14 +993,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1955-03-02",
     "Zodiac_Sign": "Pesci"
   },
-  {
-    "Rank": "141",
-    "Name": "Fidel Castro",
-    "Details": "Age: 99",
-    "Biography": "Fidel Alejandro Castro Ruz (American Spanish: [fiˈðel aleˈxandɾo ˈkastɾo ˈrus]; 13 August 1926 – 25 November 2016) was a Cuban communist revolutionary and politician who governed the Republic of Cuba as Prime Minister from 1959 to 1976 and then as President from 1976 to 2008. A Marxist–Leninist and Cuban nationalist, Castro also served as the First Secretary of the Communist Party of Cuba from 1961 until 2011. Under his administration, Cuba became a one-party communist state, while industry and business were nationalized and state socialist reforms were implemented throughout society. Born in Birán, Oriente as the son of a wealthy Spanish farmer, Castro adopted leftist anti-imperialist politics while studying law at the University of Havana. After participating in rebellions against right-wing governments in the Dominican Republic and Colombia, he planned the overthrow of Cuban President Fulgencio Batista, launching a failed attack on the Moncada Barracks in 1953.",
-    "Birth_Date_ISO": "1926-08-13",
-    "Zodiac_Sign": "Leone"
-  },
+
   {
     "Rank": "142",
     "Name": "John Wilkes Booth",
@@ -1101,7 +1079,7 @@ export const criminals: Criminal[] = [
     "Rank": "154",
     "Name": "Lavrentiy Beriya",
     "Details": "Dec. at 54 (1899-1953)",
-    "Biography": "Lavrentiy Pavlovich Beria (; Russian: Лавре́нтий Па́влович Бе́рия, IPA: [ˈbʲerʲiə]; Georgian: ლავრენტი პავლეს ძე ბერია, translit.: lavrent'i p'avles dze beria, IPA: [bɛriɑ]; 29 March [17 March old style] 1899 – 23 December 1953) was a Soviet politician, Marshal of the Soviet Union and state security administrator, chief of the Soviet security and secret police apparatus (NKVD) under Joseph Stalin during World War II, and promoted to deputy premier under Stalin from 1941. He later officially joined the Politburo in 1946. Beria was the longest-lived and most influential of Stalin's secret police chiefs, wielding his most substantial influence during and after World War II. Following the Soviet invasion of Poland in 1939 he was responsible for organizing the Katyn massacre. He simultaneously administered vast sections of the Soviet state and acted as the de facto Marshal of the Soviet Union in command of NKVD field units responsible for barrier troops and Soviet partisan intelligence and sabotage operations on the Eastern Front during World War II.",
+    "Biography": "Lavrentiy Pavlovich Beria (; Russian: Лавре́нтий Па́влович Бе́рия,; 29 March 1899 – 23 December 1953) was a Soviet politician, Marshal of the Soviet Union and state security administrator, chief of the Soviet security and secret police apparatus (NKVD) under Joseph Stalin during World War II, and promoted to deputy premier under Stalin from 1941. He later officially joined the Politburo in 1946. Beria was the longest-lived and most influential of Stalin's secret police chiefs, wielding his most substantial influence during and after World War II. Following the Soviet invasion of Poland in 1939 he was responsible for organizing the Katyn massacre. He simultaneously administered vast sections of the Soviet state and acted as the de facto Marshal of the Soviet Union in command of NKVD field units responsible for barrier troops and Soviet partisan intelligence and sabotage operations on the Eastern Front during World War II.",
     "Birth_Date_ISO": "1899-03-29",
     "Zodiac_Sign": "Ariete"
   },
@@ -1128,14 +1106,6 @@ export const criminals: Criminal[] = [
     "Biography": "Miranda Barbour gained notoriety for her alleged involvement in a series of violent crimes. Her claims of committing multiple murders shocked the public and earned her a notorious reputation, enveloping her actions in mystery and infamy within criminal history.",
     "Birth_Date_ISO": "1994-12-01",
     "Zodiac_Sign": "Sagittario"
-  },
-  {
-    "Rank": "158",
-    "Name": "Hassan al-Turabi",
-    "Details": "Age: 94",
-    "Biography": "Hassan 'Abd Allah al-Turabi (1 February 1932 – 5 March 2016) was a Sudanese politician. He has been called \"one of the most influential figures in modern Sudanese politics\", and a \"longtime hard-line ideological leader\". He was instrumental in institutionalizing sharia (Islamic law) in the northern part of the country and was frequently imprisoned in Sudan, but these \"periods of detention\" were \"interspersed with periods of high political office\".Al-Turabi was leader of the National Islamic Front (NIF) (which changed its name to National Congress in the late 1990s), a political movement that developed considerable political power in Sudan while never obtaining significant popularity among Sudanese voters. It embraced a \"top down\" approach to Islamisation by placing party members in high posts in government and security services. Turabi and the NIF reached the peak of their power from 1989 following a military coup d'état, until 2001, as what observers have called \"the power behind the throne\", head of the only Sunni Islamist movement to take control of a state.Turabi oversaw highly controversial policies such as the creation of the \"NIF police state\" and associated NIF militias which consolidated Islamist power and prevented a popular uprising, but reportedly committed many human rights abuses, including \"summary executions, torture, ill treatment, arbitrary detentions, denial of freedoms of speech, assembly, and religion, and violations of the rules of war, particularly in the south\".",
-    "Birth_Date_ISO": "1932-02-01",
-    "Zodiac_Sign": "Acquario"
   },
   {
     "Rank": "159",
@@ -1306,14 +1276,6 @@ export const criminals: Criminal[] = [
     "Zodiac_Sign": "Capricorno"
   },
   {
-    "Rank": "185",
-    "Name": "Georges Clémenceau",
-    "Details": "Dec. at 88 (1841-1929)",
-    "Biography": "Georges Eugène Benjamin Clemenceau (, also US: , French: [ʒɔʁʒ bɛ̃ʒamɛ̃ klemɑ̃so]; 28 September 1841 – 24 November 1929) was a French politician who was Prime Minister of France during the First World War. A leading independent Radical, he played a central role in the politics of the French Third Republic. Clemenceau was Prime Minister of France from 1906 to 1909 and from 1917 to 1920. Demanding a total victory over Germany, he wanted reparations, colonies, Alsace-Lorraine, and strict rules to prevent Germany from rearming. He achieved these goals in the Treaty of Versailles imposed on Germany at the Paris Peace Conference of 1919.",
-    "Birth_Date_ISO": "1841-09-28",
-    "Zodiac_Sign": "Bilancia"
-  },
-  {
     "Rank": "186",
     "Name": "Aileen Wuornos",
     "Details": "Dec. at 46 (1956-2002)",
@@ -1442,14 +1404,6 @@ export const criminals: Criminal[] = [
     "Zodiac_Sign": "Toro"
   },
   {
-    "Rank": "205",
-    "Name": "Manuel Noriega",
-    "Details": "Age: 92",
-    "Biography": "Manuel Antonio Noriega Moreno (Spanish pronunciation: [maˈnwel noˈɾjeɣa]; February 11, 1934 – May 29, 2017) was a Panamanian politician and military officer who was the de facto ruler of Panama from 1983 to 1989. He had longstanding ties to United States intelligence agencies; however, he was removed from power by the U.S. invasion of Panama. Born in Panama City to a poor mestizo family, Noriega studied at the Chorrillos Military School in Lima and at the School of the Americas. He became an officer in the Panamanian army, and rose through the ranks in alliance with Omar Torrijos.",
-    "Birth_Date_ISO": "1934-02-11",
-    "Zodiac_Sign": "Acquario"
-  },
-  {
     "Rank": "206",
     "Name": "Bolesław Bierut",
     "Details": "Dec. at 63 (1892-1956)",
@@ -1522,14 +1476,6 @@ export const criminals: Criminal[] = [
     "Zodiac_Sign": "Capricorno"
   },
   {
-    "Rank": "217",
-    "Name": "Anastas Mikoyan",
-    "Details": "Dec. at 82 (1895-1978)",
-    "Biography": "Anastas Ivanovich Mikoyan (Armenian: Անաստաս Հովհաննեսի Միկոյան; Russian: Анаста́с Ива́нович Микоя́н)(English: ; 25 November 1895 – 21 October 1978) was a Soviet revolutionary, Old Bolshevik and statesman during the mandates of Lenin, Stalin, Khrushchev and Brezhnev. He was the only Soviet politician who managed to remain at the highest levels of power within the Communist Party of the Soviet Union, as that power oscillated between the Central Committee and the Politburo, from the latter days of Lenin's rule, throughout the eras of Stalin and Khrushchev, until his peaceful retirement after the first months of Brezhnev's rule. Mikoyan became an early convert to the Bolshevik cause. He was a strong supporter of Stalin during the immediate post-Lenin years. During Stalin's rule, Mikoyan held several high governmental posts, including that of Minister of Foreign Trade.",
-    "Birth_Date_ISO": "1895-11-25",
-    "Zodiac_Sign": "Sagittario"
-  },
-  {
     "Rank": "218",
     "Name": "Yasser Arafat",
     "Details": "Dec. at 75 (1929-2004)",
@@ -1561,14 +1507,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1934-08-03",
     "Zodiac_Sign": "Leone"
   },
-  {
-    "Rank": "223",
-    "Name": "Ho Chi Minh",
-    "Details": "Dec. at 79 (1890-1969)",
-    "Biography": "Hồ Chí Minh (; Vietnamese: [hò cǐ mīŋ̟] (listen), Saigon: [hò cǐ mɨ̄n] (listen); Chữ nôm: 胡志明; 19 May 1890 – 2 September 1969), born Nguyễn Sinh Cung, also known as Nguyễn Tất Thành, Nguyễn Ái Quốc, Bác Hồ (\"Uncle Ho\") or simply Bác (\"Uncle\"), was a Vietnamese revolutionary and politician. He served as Prime Minister of North Vietnam from 1945 to 1955 and then its President from 1945 to 1969. Ideologically a Marxist-Leninist, he served as Chairman and First Secretary of the Workers' Party of Vietnam. Hồ Chí Minh led the Việt Minh independence movement from 1941 onward, establishing the Communist-ruled Democratic Republic of Vietnam in 1945 and defeating the French Union in 1954 at the battle of Điện Biên Phủ. He officially stepped down from power in 1965 due to health problems.",
-    "Birth_Date_ISO": "1890-05-19",
-    "Zodiac_Sign": "Toro"
-  },
+
   {
     "Rank": "224",
     "Name": "Talaat Pasha",
@@ -1625,14 +1564,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1216-04-22",
     "Zodiac_Sign": "Toro"
   },
-  {
-    "Rank": "231",
-    "Name": "Ferdinand Marcos",
-    "Details": "Dec. at 72 (1917-1989)",
-    "Biography": "Ferdinand Emmanuel Edralin Marcos Sr. (September 11, 1917 – September 28, 1989) was a Filipino politician and kleptocrat who was the tenth President of the Philippines from 1965 to 1986. A leading member of the far-right New Society Movement, he ruled as a dictator under martial law from 1972 until 1981. His regime was infamous for its corruption, extravagance, and brutality.Marcos claimed an active part in World War II, including fighting alongside the Americans in the Bataan Death March and being the \"most decorated war hero in the Philippines\". A number of his claims were found to be false and the United States Army documents described Marcos's wartime claims as \"fraudulent\" and \"absurd\".Marcos started as an attorney, then served in the Philippine House of Representatives from 1949 to 1959 and the Philippine Senate from 1959 to 1965.",
-    "Birth_Date_ISO": "1917-09-11",
-    "Zodiac_Sign": "Vergine"
-  },
+
   {
     "Rank": "232",
     "Name": "Eddie Leonski",
@@ -1704,14 +1636,6 @@ export const criminals: Criminal[] = [
     "Biography": "Ezzelino III da Romano (April 25, 1194, Tombolo – October 7, 1259) was an Italian feudal lord, a member of the Ezzelino family, in the March of Treviso (in the modern Veneto). He was a close ally of the emperor Frederick II (r. 1220–1250), and ruled Verona, Vicenza and Padua for almost two decades. He became infamous as a cruel tyrant, and was, in fact, the most \"notorious\" of the \"early tyrants\".",
     "Birth_Date_ISO": "1194-04-25",
     "Zodiac_Sign": "Toro"
-  },
-  {
-    "Rank": "242",
-    "Name": "Thomas P. M. Barnett",
-    "Details": "Age: 64",
-    "Biography": "Thomas Barnett may refer to: Thomas Barnett (musician) (born 1973), American singer and songwriter Thomas P. Barnett (1870–1929), American architect and painter Thomas P. M. Barnett (born 1962), American military geostrategist Thomas Speakman Barnett (1909–2003), Canadian politician Thomas Barnett (Niagara Falls), museum proprietor, collector and innkeeper Tom Barnett (American football) (born 1937), former professional American football player Tom Barnett (footballer) (born 1936), English footballer Tommy Barnett (footballer) (1908–1986), English footballer Tommy Barnett (pastor), author and pastor",
-    "Birth_Date_ISO": "1962-05-28",
-    "Zodiac_Sign": "Gemelli"
   },
   {
     "Rank": "243",
@@ -1817,14 +1741,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1960-02-22",
     "Zodiac_Sign": "Pesci"
   },
-  {
-    "Rank": "257",
-    "Name": "Mátyás Rákosi",
-    "Details": "Dec. at 78 (1892-1971)",
-    "Biography": "Mátyás Rákosi [ˈmaːcaːʃ ˈraːkoʃi] (9 March 1892 – 5 February 1971) was a Hungarian communist politician. He was born Mátyás Rosenfeld in Ada (today in Serbia). He was the leader of Hungary's Communist Party from 1945 to 1956 — first as General Secretary of the Hungarian Communist Party (1945–1948) and later holding the same post with the Hungarian Working People's Party (1948–1956). As such, from 1949 to 1956, he was the de facto ruler of Communist Hungary. An ardent Stalinist, his government was very loyal to the Soviet Union, and he presided over the mass imprisonment of hundreds of thousands of people and the deaths of thousands.",
-    "Birth_Date_ISO": "1892-03-09",
-    "Zodiac_Sign": "Pesci"
-  },
+
   {
     "Rank": "259",
     "Name": "Sirhan Sirhan",
@@ -1841,14 +1758,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1934-02-07",
     "Zodiac_Sign": "Acquario"
   },
-  {
-    "Rank": "261",
-    "Name": "José Manuel Barroso",
-    "Details": "Age: 70",
-    "Biography": "José Manuel Durão Barroso (Portuguese: [ʒuˈzɛ mɐˈnwɛl duˈɾɐ̃w bɐˈʁozu]; born 23 March 1956) is a Portuguese politician and university teacher, currently serving as non-executive Chairman of Goldman Sachs International. He previously served as the 11th President of the European Commission and the 115th Prime Minister of Portugal.",
-    "Birth_Date_ISO": "1956-03-23",
-    "Zodiac_Sign": "Ariete"
-  },
+
   {
     "Rank": "262",
     "Name": "Geng Zhongming",
@@ -1953,14 +1863,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1988-05-06",
     "Zodiac_Sign": "Toro"
   },
-  {
-    "Rank": "277",
-    "Name": "Nay Win",
-    "Details": "Dec. at 91 (1911-2002)",
-    "Biography": "Ne Win (Burmese: နေဝင်း IPA: [nè wɪ́ɴ]; 10 July 1910, or 14 or 24 May 1911 – 5 December 2002) was a Burmese politician and military commander who served as Prime Minister of Burma from 1958 to 1960 and 1962 to 1974, and also President of Burma from 1962 to 1981. Ne Win was Burma's dictator during the Socialist Burma period from 1962 to 1988. Ne Win founded the Burma Socialist Programme Party (BSPP) and overthrew the democratic Union Parliament of U Nu in the 1962 Burmese coup d'état, establishing Burma as a totalitarian, one-party socialist state under the Burmese Way to Socialism ideology. Ne Win was Burma's de facto leader as chairman of the BSPP, serving in various official titles as part of his military government, and was known by his supporters as U Ne Win. His rule was characterized by isolationism, political violence, sinophobia, economic collapse, and is credited with turning Burma into one of the poorest and least developed countries in the world.",
-    "Birth_Date_ISO": "1987-04-25",
-    "Zodiac_Sign": "Toro"
-  },
+
   {
     "Rank": "278",
     "Name": "Kamau Kambon",
@@ -2017,14 +1920,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1873-01-02",
     "Zodiac_Sign": "Capricorno"
   },
-  {
-    "Rank": "285",
-    "Name": "Radovan Karadžić",
-    "Details": "Age: 80",
-    "Biography": "Radovan Karadžić (Serbian Cyrillic: Радован Караџић, pronounced [râdoʋaːn kâradʒitɕ]; born 19 June 1945) is a Bosnian Serb former politician and convicted war criminal who served as the President of Republika Srpska during the Bosnian War and sought the unification of that entity with Serbia.Trained as a psychiatrist, he co-founded the Serb Democratic Party in Bosnia and Herzegovina and served as the first President of Republika Srpska from 1992 to 1996. He was a fugitive from 1996 until July 2008 after having been indicted for war crimes by the International Criminal Tribunal for the former Yugoslavia (ICTY). The indictment concluded there were reasonable grounds for believing he committed war crimes, including genocide against Bosniak and Croat civilians during the Bosnian War (1992–95). While a fugitive, he worked at a private clinic in Belgrade, specializing in alternative medicine and psychology under an alias. His nephew, Dragan Karadžić, has claimed in an interview to the Corriere della Sera that Radovan Karadžić attended Serie A football matches and that he visited Venice using a different alias (Petar Glumac).He was arrested in Belgrade on 21 July 2008 and brought before Belgrade's War Crimes Court a few days later.",
-    "Birth_Date_ISO": "1945-06-19",
-    "Zodiac_Sign": "Gemelli"
-  },
+
   {
     "Rank": "286",
     "Name": "Reuben Sturman",
@@ -2170,14 +2066,6 @@ export const criminals: Criminal[] = [
     "Zodiac_Sign": "Vergine"
   },
   {
-    "Rank": "309",
-    "Name": "Béla Kun",
-    "Details": "Dec. at 53 (1886-1939)",
-    "Biography": "Béla Kun (20 February 1886 – 29 August 1938), born Béla Kohn, was a Hungarian Communist revolutionary and politician who was the de facto leader of the Hungarian Soviet Republic in 1919. Following the fall of the Hungarian revolution, Kun emigrated to the Soviet Union, where he worked as a functionary in the Communist International bureaucracy as the head of the Crimean Revolutionary Committee from 1920. He was an organizer and an active participant of the Red Terror in Crimea (1920–1921), following which he participated in the March Action (1921), a failed socialist uprising in Germany. During the Great Purge of the late 1930s, Kun was arrested, interrogated, tried, and executed in quick succession. He was posthumously rehabilitated in 1956, following the death of Joseph Stalin and the critical reassessment of Stalinism.",
-    "Birth_Date_ISO": "1886-02-20",
-    "Zodiac_Sign": "Pesci"
-  },
-  {
     "Rank": "310",
     "Name": "Berel Lazar",
     "Details": "Age: 61",
@@ -2226,28 +2114,12 @@ export const criminals: Criminal[] = [
     "Zodiac_Sign": "Cancro"
   },
   {
-    "Rank": "318",
-    "Name": "Lionel Nathan de Rothschild",
-    "Details": "Dec. at 60 (1882-1942)",
-    "Biography": "Lionel Nathan de Rothschild, OBE (25 January 1882 – 28 January 1942), also Major Lionel de Rothschild, was a British banker and Conservative politician best remembered as the creator of Exbury Gardens by the New Forest in Hampshire. He was the eldest son of Leopold de Rothschild (1845–1917) and a part of the prominent Rothschild banking family of England. In 1910, he was elected to the House of Commons. In 1917, he co-founded the anti-Zionist League of British Jews.",
-    "Birth_Date_ISO": "1808-11-22",
-    "Zodiac_Sign": "Sagittario"
-  },
-  {
     "Rank": "319",
     "Name": "Béla Kiss",
     "Details": "Age: 149",
     "Biography": "Béla Kiss (; Hungarian: [ˈbeːlɒ ˈkiʃ]; 28 July 1877 – after 1932) was a Hungarian serial killer. He is thought to have murdered at least 23 young women and one man, and attempted to pickle their bodies in giant metal drums that he kept on his property.",
     "Birth_Date_ISO": "1877-04-22",
     "Zodiac_Sign": "Toro"
-  },
-  {
-    "Rank": "320",
-    "Name": "Rafael Trujillo",
-    "Details": "Dec. at 69 (1891-1961)",
-    "Biography": "Rafael Leónidas Trujillo Molina ( troo-HEE-yoh, Spanish: [rafaˈel leˈoniðas tɾuˈxiʝo]; 24 October 1891 – 30 May 1961), nicknamed El Jefe (Spanish: [el ˈxefe], \"The Chief\" or \"The Boss\"), was a Dominican politician, soldier, and dictator, who ruled the Dominican Republic from February 1930 until his assassination in May 1961. He served as president from 1930 to 1938 and again from 1942 to 1952, ruling for the rest of the time as an unelected military strongman under figurehead presidents. His 31 years in power, to Dominicans known as the Trujillo Era (Spanish: El Trujillato), are considered one of the bloodiest eras ever in the Americas, as well as a time of a personality cult, when monuments to Trujillo were in abundance. Trujillo and his regime were responsible for many deaths, including between 20,000 and 30,000 Haitians in the infamous Parsley massacre.During this long period of oppression and death, the Trujillo government extended its policy of state terrorism beyond national borders. Notorious examples of Trujillo’s reach abroad are the unsuccessful assassination attempt in Caracas against Venezuelan President Rómulo Betancourt (1960), the abduction and subsequent disappearance in New York City of the Spaniard Jesús Galíndez (1956), the murder of writer José Almoina in Mexico, also a Spaniard, and crimes committed against Cubans, Costa Ricans, Nicaraguans, Puerto Ricans, as well as United States citizens.The Trujillo era unfolded in a Hispanic Caribbean environment that was particularly fertile for dictatorial regimes.",
-    "Birth_Date_ISO": "1891-10-24",
-    "Zodiac_Sign": "Scorpione"
   },
   {
     "Rank": "321",
@@ -2297,15 +2169,6 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1726-04-22",
     "Zodiac_Sign": "Toro"
   },
-
-  {
-    "Rank": "333",
-    "Name": "Yan Gamarnik",
-    "Details": "Dec. at 43 (1894-1937)",
-    "Biography": "Yan Gamarnik (birth name Jakov Tzudikovich Gamarnik (Russian: Я́ков Цу́дикович Гама́рник), sometimes known as Yakov Gamarnik (Russian: Я́ков Гама́рник) (June 14 [O.S. June 2] 1894 — May 31, 1937) was a Soviet military absolute commander of the Red Army of 1930 to 1937 Supreme Comissar of Belarus and politician of Jewish ethnicity.",
-    "Birth_Date_ISO": "1894-06-14",
-    "Zodiac_Sign": "Gemelli"
-  },
   {
     "Rank": "334",
     "Name": "Anjem Choudary",
@@ -2315,37 +2178,12 @@ export const criminals: Criminal[] = [
     "Zodiac_Sign": "Capricorno"
   },
   {
-    "Rank": "335",
-    "Name": "Meles Zenawi",
-    "Details": "Dec. at 57 (1955-2012)",
-    "Biography": "Meles Zenawi Asres (Ge'ez: መለስ ዜናዊ አስረስ, mäläs zenawi asräs; pronounced [ˈmɛlɛs ˈzɛnawi asrəs] listen , name by birth:- Legesse Zenawi Asres; 9 May 1955 – 20 August 2012) was an Ethiopian politician who was the 13th Prime Minister of Ethiopia from 1995 to his death in 2012. From 1989, he was the chairman of the Tigray People's Liberation Front (TPLF), and the head of the Ethiopian People's Revolutionary Democratic Front (EPRDF) since its formation in 1991. Before becoming Prime Minister in 1995, he served as President of the Transitional Government of Ethiopia from 1991 to 1995.In 1975, he left Haile Selassie I University to join the TPLF and fight Derg (the Mengistu Haile Mariam-led brutal military dictatorship in Ethiopia). After the overthrow of the Derg's military government, he became President of the transitional government and later Prime Minister. Meles lifted his country from the ruins of civil war and transformed it into one of Africa’s fastest-growing economies",
-    "Birth_Date_ISO": "1955-05-08",
-    "Zodiac_Sign": "Toro"
-  },
-  {
     "Rank": "336",
     "Name": "Hernán Cortés",
     "Details": "Dec. at 62 (1485-1547)",
     "Biography": "Don Hernán Cortés de Monroy y Pizarro Altamirano, Marquis of the Valley of Oaxaca (; Spanish: [eɾˈnaŋ koɾˈtes ðe monˈroj i piˈθaro]; 1485 – December 2, 1547) was a Spanish Conquistador who led an expedition that caused the fall of the Aztec Empire and brought large portions of what is now mainland Mexico under the rule of the King of Castile in the early 16th century. Cortés was part of the generation of Spanish colonizers who began the first phase of the Spanish colonization of the Americas. Born in Medellín, Spain, to a family of lesser nobility, Cortés chose to pursue adventure and riches in the New World. He went to Hispaniola and later to Cuba, where he received an encomienda (the right to the labor of certain subjects). For a short time, he served as alcalde (magistrate) of the second Spanish town founded on the island.",
     "Birth_Date_ISO": "1485-04-22",
     "Zodiac_Sign": "Toro"
-  },
- 
-  {
-    "Rank": "339",
-    "Name": "Jean-Paul Marat",
-    "Details": "Dec. at 50 (1743-1793)",
-    "Biography": "Jean-Paul Marat (French: [ʒɑ̃pɔl maʁa]; 24 May 1743 – 13 July 1793) was a French political theorist, physician, and scientist. He was a journalist and politician during the French Revolution. He was a vigorous defender of the sans-culottes and seen as a radical voice. He published his views in pamphlets, placards and newspapers. His periodical L'Ami du peuple (Friend of the People) made him an unofficial link with the radical Jacobin group that came to power after June 1793.",
-    "Birth_Date_ISO": "1743-05-24",
-    "Zodiac_Sign": "Gemelli"
-  },
-  {
-    "Rank": "340",
-    "Name": "Cesare Borgia",
-    "Details": "Dec. at 31 (1475-1507)",
-    "Biography": "Cesare Borgia (Italian pronunciation: [ˈtʃeːzare ˈbɔrdʒa, ˈtʃɛː-]; Valencian: Cèsar Borja [ˈsɛzaɾ ˈbɔɾdʒa]; Spanish: César Borja [ˈθesaɾ ˈβoɾxa]; 13 September 1475 – 12 March 1507), Duke of Valentinois, was an Italian condottiero (military leader), nobleman, politician, and cardinal with Aragonese and Italian origins, whose fight for power was a major inspiration for The Prince by Machiavelli. He was the son of Pope Alexander VI (r. 1492–1503, born Rodrigo Borgia) and his long-term mistress Vannozza dei Cattanei. He was the brother of Lucrezia Borgia; Giovanni Borgia (Juan), Duke of Gandia; and Gioffre Borgia (Jofré in Catalan), Prince of Squillace. He was half-brother to Don Pedro Luis de Borja (1460–88) and Girolama de Borja, children of unknown mothers.After initially entering the church and becoming a cardinal on his father's election to the Papacy, he became, after the death of his brother in 1498, the first person to resign a cardinalate.",
-    "Birth_Date_ISO": "1475-09-13",
-    "Zodiac_Sign": "Vergine"
   },
   {
     "Rank": "341",
@@ -2386,14 +2224,6 @@ export const criminals: Criminal[] = [
     "Biography": "Stanislav Frantsevich Redens (Russian: Станислав Францевич Реденс, Polish: Stanisław Redens; May 17, 1892 – January 21, 1940) was a Soviet secret police official, one of those responsible for conducting mass repressions under Joseph Stalin. Redens was himself executed in 1940, after being arrested at the end of the Great Purge in 1938.",
     "Birth_Date_ISO": "1892-06-12",
     "Zodiac_Sign": "Gemelli"
-  },
-  {
-    "Rank": "346",
-    "Name": "Elena Ceaușescu",
-    "Details": "Dec. at 73 (1916-1989)",
-    "Biography": "Elena Ceaușescu (Romanian pronunciation: [eˈlena t͡ʃe̯auˈʃesku]; née Lenuța Petrescu; 7 January 1916 – 25 December 1989) was a Romanian communist politician who was the wife of Nicolae Ceaușescu, General Secretary of the Romanian Communist Party and leader of the Socialist Republic of Romania. She was also the Deputy Prime Minister of Romania.",
-    "Birth_Date_ISO": "1919-01-20",
-    "Zodiac_Sign": "Acquario"
   },
   {
     "Rank": "347",
@@ -2452,14 +2282,6 @@ export const criminals: Criminal[] = [
     "Zodiac_Sign": "Capricorno"
   },
   {
-    "Rank": "354",
-    "Name": "Enver Hoxha",
-    "Details": "Dec. at 76 (1908-1985)",
-    "Biography": "Enver Halil Hoxha (; Albanian: [ɛnˈvɛɾ ˈhɔdʒa] (listen); 16 October 1908 – 11 April 1985) was an Albanian communist politician who served as the head of state of Albania from 1944 until his death in 1985, as the First Secretary of the Party of Labour of Albania. He was chairman of the Democratic Front of Albania and commander-in-chief of the armed forces from 1944 until his death. He served as the 22nd Prime Minister of Albania from 1944 to 1954 and at various times served as foreign minister and defence minister as well. Born in Gjirokastër in 1908, Hoxha became a teacher in grammar school in 1936. Following Italy's invasion of Albania, he joined the Party of Labour of Albania at its creation in 1941.",
-    "Birth_Date_ISO": "1908-10-16",
-    "Zodiac_Sign": "Bilancia"
-  },
-  {
     "Rank": "355",
     "Name": "Meyer Lansky",
     "Details": "Dec. at 80 (1902-1983)",
@@ -2498,14 +2320,6 @@ export const criminals: Criminal[] = [
     "Biography": "Theodore Newman Kaufman (February 22, 1910 – April 1, 1986), sometimes given incorrectly as Theodore Nathan Kaufmann, was an American Jewish businessman and writer known for his racist and eliminationist views on Germans. In 1939, he published pamphlets as \"chairman of the American Federation of Peace\" that argued that Americans should be sterilized so that their children will no longer have to fight in foreign wars.In 1941, he wrote and published Germany Must Perish! which called for the sterilization of the German people and the distribution of the German lands. The text was used extensively in Nazi propaganda, often as a justification for the persecution of Jews and was specifically cited as a reason to round up the Jews of Hanover, Germany.",
     "Birth_Date_ISO": "1910-02-22",
     "Zodiac_Sign": "Pesci"
-  },
-  {
-    "Rank": "361",
-    "Name": "Subramanian Swamy",
-    "Details": "Age: 86",
-    "Biography": "Subramanian Swamy (born 15 September 1939) is an Indian politician, economist and statistician who serves as a nominated Member of Parliament in Rajya Sabha, the upper house of the Indian Parliament. Swamy has served as a member of the Planning Commission of India and was a Cabinet Minister in the Chandra Shekhar government. Earlier in November 1978, Swamy was member of the Group of Eminent persons and was called to Geneva, Switzerland to prepare a report of the United Nations Conference on Trade and Development (UNCTAD) on Economic Co-operation between Developing countries (ECDC). Swamy also simplified trade procedures and formulated a new export strategy which became the forerunner of trade reform adopted subsequently. In 1994, Swamy was Chairman of the Commission on Labour Standards and International Trade by former Prime Minister P.",
-    "Birth_Date_ISO": "1939-09-15",
-    "Zodiac_Sign": "Vergine"
   },
   {
     "Rank": "362",
@@ -2668,14 +2482,6 @@ export const criminals: Criminal[] = [
     "Zodiac_Sign": "Scorpione"
   },
   {
-    "Rank": "384",
-    "Name": "Dominique Strauss-Kahn",
-    "Details": "Age: 76",
-    "Biography": "Dominique Gaston André Strauss-Kahn (French pronunciation: ​[dɔminik stʁos kan]; born 25 April 1949) is a French politician, former managing director of the International Monetary Fund (IMF), and a controversial figure in the French Socialist Party due to his involvement in several financial and sexual scandals. He is often referred to in the media, and by himself, by his initials DSK. Strauss-Kahn was appointed managing director of the IMF on 28 September 2007, with the backing of his country's conservative president, Nicolas Sarkozy. He served in that capacity until his resignation on 18 May 2011 in the wake of allegations that he had sexually assaulted a hotel maid. Other allegations followed.",
-    "Birth_Date_ISO": "1949-04-25",
-    "Zodiac_Sign": "Toro"
-  },
-  {
     "Rank": "385",
     "Name": "Alfred Kinsey",
     "Details": "Dec. at 62 (1894-1956)",
@@ -2748,22 +2554,6 @@ export const criminals: Criminal[] = [
     "Zodiac_Sign": "Ariete"
   },
   {
-    "Rank": "394",
-    "Name": "Ante Pavelić",
-    "Details": "Dec. at 70 (1889-1959)",
-    "Biography": "Ante Pavelić (Croatian pronunciation: [ǎːnte pǎʋelit͡ɕ] (listen); 14 July 1889 – 28 December 1959) was a Croatian general and military dictator who founded and headed the fascist ultranationalist organization known as the Ustaše in 1929 and governed the Independent State of Croatia (Croatian: Nezavisna Država Hrvatska, NDH), a fascist Nazi puppet state built out of Yugoslavia by the authorities of Nazi Germany and Fascist Italy, from 1941 to 1945. Pavelić and the Ustaše persecuted many racial minorities and political opponents in the NDH during the war, including Serbs, Jews, Romani, and anti-fascist Croats.At the start of his career, Pavelić was a lawyer and a politician of the Croatian Party of Rights in the Kingdom of Yugoslavia known for his nationalist beliefs and support for an independent Croatia. By the end of the 1920s, his political activity became more radical as he called on Croats to revolt against Yugoslavia, and schemed an Italian protectorate of Croatia separate from Yugoslavia. After King Alexander I declared his 6 January Dictatorship in 1929 and banned all political parties, Pavelić went abroad and plotted with the Internal Macedonian Revolutionary Organization (IMRO) to undermine the Yugoslav state, which prompted the Yugoslav authorities to try him in absentia and sentence him to death. In the meantime, Pavelić had moved to fascist Italy where he founded the Ustaše, a Croatian nationalist movement with the goal of creating an independent Croatia by any means, including the use of terror.",
-    "Birth_Date_ISO": "1889-07-14",
-    "Zodiac_Sign": "Cancro"
-  },
-  {
-    "Rank": "395",
-    "Name": "Anthony Eden",
-    "Details": "Dec. at 79 (1897-1977)",
-    "Biography": "Robert Anthony Eden, 1st Earl of Avon, (12 June 1897 – 14 January 1977) was a British Conservative politician who served three periods as Foreign Secretary and then a relatively brief term as Prime Minister of the United Kingdom from 1955 to 1957. Achieving rapid promotion as a young Member of Parliament, he became Foreign Secretary aged 38, before resigning in protest at Neville Chamberlain's appeasement policy towards Mussolini's Italy. He again held that position for most of the Second World War, and a third time in the early 1950s. Having been deputy to Winston Churchill for almost 15 years, he succeeded him as the leader of the Conservative Party and prime minister in April 1955, and a month later won a general election. Eden's worldwide reputation as an opponent of appeasement, a \"man of peace\", and a skilled diplomat was overshadowed in 1956 when the United States refused to support the Anglo-French military response to the Suez Crisis, which critics across party lines regarded as an historic setback for British foreign policy, signalling the end of British predominance in the Middle East.",
-    "Birth_Date_ISO": "1897-06-12",
-    "Zodiac_Sign": "Gemelli"
-  },
-  {
     "Rank": "396",
     "Name": "William Rockefeller",
     "Details": "Dec. at 81 (1841-1922)",
@@ -2778,14 +2568,6 @@ export const criminals: Criminal[] = [
     "Biography": "Friedrich Engels ( ENG-(g)əlz; German: [ˈfʁiːdʁɪç ˈʔɛŋl̩s]; sometimes anglicised Frederick Engels; 28 November 1820 – 5 August 1895) was a German philosopher, communist, social scientist, journalist and businessman. His father was an owner of large textile factories in Salford, England and in Barmen, Prussia (what is now in Wuppertal, Germany). Engels developed what is now known as Marxist theory together with Karl Marx and in 1845 he published The Condition of the Working Class in England, based on personal observations and research in English cities. In 1848, Engels co-authored The Communist Manifesto with Marx and also authored and co-authored (primarily with Marx) many other works. Later, Engels supported Marx financially, allowing him to do research and write Das Kapital.",
     "Birth_Date_ISO": "1820-11-28",
     "Zodiac_Sign": "Sagittario"
-  },
-  {
-    "Rank": "400",
-    "Name": "Grigory Zinoviev",
-    "Details": "Dec. at 52 (1883-1936)",
-    "Biography": "Grigory Yevseyevich Zinoviev (September 23 [O.S. September 11] 1883 – August 25, 1936), born Hirsch Apfelbaum, known also under the name Ovsei-Gershon Aronovich Radomyslsky, was a Bolshevik revolutionary and a Soviet Communist politician. Zinoviev was one of the seven members of the first Politburo, founded in 1917 in order to manage the Bolshevik Revolution: Lenin, Zinoviev, Kamenev, Trotsky, Stalin, Sokolnikov and Bubnov. Zinoviev is best remembered as the longtime head of the Communist International and the architect of several failed attempts to transform Germany into a communist country during the early 1920s. He was in competition against Joseph Stalin who eliminated him from the Soviet political leadership in 1926.",
-    "Birth_Date_ISO": "1883-09-23",
-    "Zodiac_Sign": "Bilancia"
   },
   {
     "Rank": "401",
@@ -2835,22 +2617,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1889-07-13",
     "Zodiac_Sign": "Cancro"
   },
-  {
-    "Rank": "407",
-    "Name": "Lin Biao",
-    "Details": "Dec. at 63 (1907-1971)",
-    "Biography": "Lin Biao (December 5, 1907 – September 13, 1971) was a Marshal of the People's Republic of China who was pivotal in the Communist victory in the Chinese Civil War, especially in Northeast China. Lin was the general who commanded the decisive Liaoshen and Pingjin Campaigns, in which he co-led the Manchurian Field Army to victory and led the People's Liberation Army into Beijing. He crossed the Yangtze River in 1949, decisively defeated the Kuomintang and took control of the coastal provinces in Southeast China. He ranked third among the Ten Marshals. Zhu De and Peng Dehuai were considered senior to Lin, and Lin ranked directly ahead of He Long and Liu Bocheng.",
-    "Birth_Date_ISO": "1907-12-05",
-    "Zodiac_Sign": "Sagittario"
-  },
-  {
-    "Rank": "408",
-    "Name": "Jacob Zuma",
-    "Details": "Age: 84",
-    "Biography": "Jacob Gedleyihlekisa Zuma (born 12 April 1942) is a South African politician who served as the fourth President of South Africa from the 2009 general election until his resignation on 14 February 2018. Zuma is also referred to by his initials JZ and his clan name Msholozi.Zuma served as Deputy President of South Africa from 1999 to 2005, but was dismissed by President Thabo Mbeki in 2005 after Zuma's financial adviser, Schabir Shaik, was convicted of soliciting a bribe for Zuma. Zuma was nonetheless elected President of the African National Congress (ANC) on 18 December 2007 after defeating Mbeki at the ANC conference in Polokwane. On 20 September 2008, Mbeki announced his resignation after being recalled by the ANC's National Executive Committee. The recall came after South African High Court Judge Christopher Nicholson ruled Mbeki had improperly interfered with the operations of the National Prosecuting Authority (NPA), including the prosecution of Jacob Zuma for corruption.",
-    "Birth_Date_ISO": "1942-04-12",
-    "Zodiac_Sign": "Ariete"
-  },
+
   {
     "Rank": "409",
     "Name": "Hissène Habré",
@@ -2858,14 +2625,6 @@ export const criminals: Criminal[] = [
     "Biography": "Hissène Habré (Arabic: حسين حبري Ḥusaīn Ḥabrī, Chadian Arabic: pronounced [hiˈsɛn ˈhabre]; French pronunciation: ​[isɛn abʁe]; born 13 September 1942), also spelled Hissen Habré, is a Chadian politician who served as the President of Chad from 1982 until he was deposed in 1990. He was brought to power with the support of France and the United States, who provided training, arms and financing.In May 2016, he was found guilty by a court in Senegal of human-rights abuses, including rape, sexual slavery and ordering the killing of 40,000 people, and sentenced to life in prison. He is the first former head of state to be convicted for human rights abuses in the court of another nation.",
     "Birth_Date_ISO": "1942-08-13",
     "Zodiac_Sign": "Leone"
-  },
-  {
-    "Rank": "410",
-    "Name": "Lev Kamenev",
-    "Details": "Dec. at 53 (1883-1936)",
-    "Biography": "Lev Borisovich Kamenev (born Leo Rosenfeld or Lev Borisovich Rozenfeld; 18 July [O.S. 6 July] 1883 – 25 August 1936) was a Bolshevik revolutionary and a prominent Soviet politician. He was one of the seven members of the first Politburo, founded in 1917 to manage the Bolshevik Revolution: Lenin, Zinoviev, Kamenev, Trotsky, Stalin, Sokolnikov and Bubnov.Kamenev was the brother-in-law of Leon Trotsky. He served briefly as the equivalent of the first head of state of Soviet Russia in 1917, and from 1923-24 as acting Premier in the last year of Vladimir Lenin's life. Joseph Stalin viewed him as a cause of discontent and opposition to his own leadership.",
-    "Birth_Date_ISO": "1883-07-18",
-    "Zodiac_Sign": "Cancro"
   },
   {
     "Rank": "411",
@@ -2900,29 +2659,12 @@ export const criminals: Criminal[] = [
     "Zodiac_Sign": "Scorpione"
   },
   {
-    "Rank": "415",
-    "Name": "Nikolay Shvernik",
-    "Details": "Dec. at 82 (1888-1970)",
-    "Biography": "Nikolay Mikhailovich Shvernik (Russian: Никола́й Миха́йлович Шве́рник, 19 May [O.S. 7 May] 1888 – 24 December 1970) was a Soviet politician and Chairman of the Presidium of the Supreme Soviet (or President of the USSR) from 19 March 1946 until 15 March 1953. Though the titular Soviet head of state, Shvernik had, in fact, little power because the real authority lay with Joseph Stalin as General Secretary of the Communist Party of the Soviet Union.",
-    "Birth_Date_ISO": "1888-05-07",
-    "Zodiac_Sign": "Toro"
-  },
-
-  {
     "Rank": "418",
     "Name": "Thomas Lamont",
     "Details": "Dec. at 77 (1870-1948)",
     "Biography": "Thomas William Lamont, Jr. (September 30, 1870 – February 2, 1948) was an American banker.",
     "Birth_Date_ISO": "1870-09-30",
     "Zodiac_Sign": "Bilancia"
-  },
-  {
-    "Rank": "419",
-    "Name": "Leonid Brezhnev",
-    "Details": "Dec. at 75 (1906-1982)",
-    "Biography": "Leonid Ilyich Brezhnev (; Russian: Леонид Ильич Брежнев, IPA: [lʲɪɐˈnʲid ɪˈlʲjidʑ ˈbrʲeʐnʲɪf] (listen); Ukrainian: Леонід Ілліч Брежнєв, 19 December 1906 (O.S. 6 December 1906) – 10 November 1982) was a Soviet politician. The fifth leader of the Soviet Union, he served as General Secretary of the Central Committee of the governing Communist Party of the Soviet Union (CPSU) from 1964 until his death in 1982. Ideologically, he was a Marxist-Leninist. He presided over the Soviet Union's greatest involvement in world affairs, including détente with the West, and also increasingly confronted the Sino-Soviet split, which had divided and weakened communist parties across the world.",
-    "Birth_Date_ISO": "1906-12-19",
-    "Zodiac_Sign": "Sagittario"
   },
   {
     "Rank": "420",
@@ -2964,14 +2706,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1938-08-04",
     "Zodiac_Sign": "Leone"
   },
-  {
-    "Rank": "425",
-    "Name": "Xi Jinping",
-    "Details": "Age: 72",
-    "Biography": "Xi Jinping (; Chinese: 习近平; Mandarin pronunciation: [ɕǐ tɕîn.pʰǐŋ]; born 15 June 1953) is a Chinese politician serving as General Secretary of the Communist Party of China (CPC), President of the People's Republic of China (PRC), and Chairman of the Central Military Commission (CMC). Often described as China's \"paramount leader\" since 2012, he officially received the title of \"core leader\" from the CPC in 2016. As general secretary, Xi holds an ex-officio seat on the Politburo Standing Committee of the Communist Party of China, China's top decision-making body.Xi is the first general secretary born after the Second World War and the establishment of the People's Republic of China. The son of Chinese Communist veteran Xi Zhongxun, he was exiled to rural Yanchuan County as a teenager following his father's purge during the Cultural Revolution, and lived in a cave in the village of Liangjiahe, where he worked as the party secretary. After studying at the Tsinghua University as a \"Worker-Peasant-Soldier student\", Xi rose through the ranks politically in China's coastal provinces.",
-    "Birth_Date_ISO": "1953-06-15",
-    "Zodiac_Sign": "Gemelli"
-  },
+ 
   {
     "Rank": "426",
     "Name": "Archibald Hall",
@@ -3028,14 +2763,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1918-03-09",
     "Zodiac_Sign": "Pesci"
   },
-  {
-    "Rank": "433",
-    "Name": "Agathe Habyarimana",
-    "Details": "Dec. at 51 (1942-1994)",
-    "Biography": "Agathe Kanziga Habyarimana (née Kanziga) (born 1942 in Karago, Gisenyi prefecture, Western Province, Rwanda) is the widow of former President of Rwanda Juvénal Habyarimana and former First Lady of Rwanda from 1973 until 1994. Kanziga is part of a Hutu lineage that long ruled an independent principality until the late nineteenth century. She was arrested by French authorities on 2 March 2010 in France following the French President Nicolas Sarkozy's visit to Rwanda.She was frequently regarded as one of the powers behind the throne during her husband's 20-year presidency, and her family connections to powerful Hutu politicians are often regarded as having provided necessary political capital for Habyarimana. She was the centre of a powerful clique of northern Hutus called le clan de madame or akazu (Kinyarwanda for \"little house\"), an informal organization of Hutu extremists whose members contributed strongly to the 1994 Rwandan Genocide. On April 9, 1994, immediately following Habyarimana's assassination and the beginning of the Rwandan genocide, she was airlifted out of Rwanda by French troops and arrived in Paris 8 days later.",
-    "Birth_Date_ISO": "1942-01-21",
-    "Zodiac_Sign": "Acquario"
-  },
+
   {
     "Rank": "434",
     "Name": "Enriqueta Martí",
@@ -3206,14 +2934,6 @@ export const criminals: Criminal[] = [
     "Zodiac_Sign": "Ariete"
   },
   {
-    "Rank": "458",
-    "Name": "Suharto",
-    "Details": "Dec. at 86 (1921-2008)",
-    "Biography": "Suharto (, Indonesian pronunciation ; 8 June 1921 – 27 January 2008) was an Indonesian military leader and politician who served as the second President of Indonesia, holding the office for 31 years, from the ousting of Sukarno in 1967 until his resignation in 1998. He was widely regarded by foreign commentators as a dictator. However, his legacy is still debated at home and abroad.Suharto was born in a small village, Kemusuk, in the Godean area near the city of Yogyakarta, during the Dutch colonial era. He grew up in humble circumstances. His Javanese Muslim parents divorced not long after his birth, and he lived with foster parents for much of his childhood.",
-    "Birth_Date_ISO": "1921-06-08",
-    "Zodiac_Sign": "Gemelli"
-  },
-  {
     "Rank": "460",
     "Name": "Donald E Cameron",
     "Details": "Dec. at 65 (1901-1967)",
@@ -3254,22 +2974,6 @@ export const criminals: Criminal[] = [
     "Zodiac_Sign": "Sagittario"
   },
   {
-    "Rank": "466",
-    "Name": "Mona Sahlin",
-    "Details": "Age: 69",
-    "Biography": "Mona Ingeborg Sahlin (Swedish pronunciation: [²moːna saˈliːn] née Andersson; born 9 March 1957) is a Swedish politician who was leader of the opposition and leader of the Swedish Social Democratic Party from 2007 to 2011. Sahlin was a Member of Parliament, representing Stockholm County, from 1982 to 1996 and again from 2002 to 2011. She has also held various ministerial posts in the Swedish government from 1990 to 1991, from 1994 to 1995 and from 1998 to 2006. Sahlin was elected new leader of the Social Democratic Party on 17 March 2007, succeeding Göran Persson who resigned as leader following the defeat in the 2006 general election. Sahlin is the first female leader of the Swedish Social Democratic Party and became in 2011 the first since Claes Tholin in 1907 to leave that position without having served as Prime Minister of Sweden.",
-    "Birth_Date_ISO": "1957-03-09",
-    "Zodiac_Sign": "Pesci"
-  },
-  {
-    "Rank": "467",
-    "Name": "Larry Page",
-    "Details": "Age: 53",
-    "Biography": "Lawrence Edward Page (born March 26, 1973) is an American computer scientist and Internet entrepreneur who co-founded Google with Sergey Brin.Page is the chief executive officer of Alphabet Inc. (Google's parent company). After stepping aside as Google CEO in August 2001, in favor of Eric Schmidt, he re-assumed the role in April 2011. He announced his intention to step aside a second time in July 2015, to become CEO of Alphabet, under which Google's assets would be reorganized. Under Page, Alphabet is seeking to deliver major advancements in a variety of industries.As of June 2019, Page is the 12th-richest person in the world, with a net worth of $51.1 billion.",
-    "Birth_Date_ISO": "1973-03-26",
-    "Zodiac_Sign": "Ariete"
-  },
-  {
     "Rank": "469",
     "Name": "Charles Whitman",
     "Details": "Dec. at 25 (1941-1966)",
@@ -3277,14 +2981,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1941-06-24",
     "Zodiac_Sign": "Cancro"
   },
-  {
-    "Rank": "470",
-    "Name": "Giuseppe Mazzini",
-    "Details": "Dec. at 66 (1805-1872)",
-    "Biography": "Giuseppe Mazzini (UK: , US: , Italian: [dʒuˈzɛppe matˈtsiːni]; 22 June 1805 – 10 March 1872) was an Italian politician, journalist, activist for the unification of Italy, and spearhead of the Italian revolutionary movement. His efforts helped bring about the independent and unified Italy in place of the several separate states, many dominated by foreign powers, that existed until the 19th century. He also helped define the modern European movement for popular democracy in a republican state.Mazzini's thoughts had a very considerable influence on the Italian and European republican movements, in the Constitution of Italy, about Europeanism, and, more nuanced, on many politicians of a later period: among them, men like U.S. President Woodrow Wilson and British Prime Minister David Lloyd George, but also post-colonial leaders such as Gandhi, Savarkar, Golda Meir, David Ben-Gurion, Kwame Nkrumah, Jawaharlal Nehru and Sun Yat-sen.",
-    "Birth_Date_ISO": "1805-06-22",
-    "Zodiac_Sign": "Cancro"
-  },
+
   {
     "Rank": "471",
     "Name": "Earnest Hooton",
@@ -3341,22 +3038,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1947-05-24",
     "Zodiac_Sign": "Gemelli"
   },
-  {
-    "Rank": "480",
-    "Name": "Nirupama Rajapaksa",
-    "Details": "Age: 64",
-    "Biography": "Nirupama Deepika Rajapaksa (born 13 April 1962) is a Sri Lankan politician, a former member of the Parliament of Sri Lanka and a former deputy minister. She herself, a Sinhalese Buddhist is married to an ethnic Tamil Hindu, Thirukkumaran Nadesan. Rajapaksa is the niece of former Sri Lankan President Mahinda Rajapaksa and his siblings, the elder ones, Chamal and Jayanthi Rajapaksa as well as the younger ones, Chandra, Basil, Gotabhaya, Dudley, Preethi and Gandani Rajapaksa since her late father, George and them were first cousins (her late paternal grandfather, D. M. Rajapaksa and their late father, D.",
-    "Birth_Date_ISO": "1962-04-13",
-    "Zodiac_Sign": "Ariete"
-  },
-  {
-    "Rank": "482",
-    "Name": "François Hollande",
-    "Details": "Age: 71",
-    "Biography": "François Gérard Georges Nicolas Hollande (French: [fʁɑ̃swa ʒeʁaʁ ʒɔʁʒ nikɔla ɔlɑ̃d] (listen); born 12 August 1954) is a French politician who served as President of France and ex officio Co-Prince of Andorra from 2012 to 2017. He was previously the First Secretary of the Socialist Party from 1997 to 2008, Mayor of Tulle from 2001 to 2008, and President of the Corrèze General Council from 2008 to 2012. Hollande also served in the National Assembly of France twice for the department of Corrèze's 1st constituency from 1988 to 1993, and again from 1997 to 2012. Born in Rouen and raised in Neuilly-sur-Seine, Hollande began his political career as a special advisor to newly elected President François Mitterrand, before serving as a staffer for Max Gallo, the government's spokesman. He became a member of the National Assembly in 1988 and was elected First Secretary of the Socialist Party in 1997.",
-    "Birth_Date_ISO": "1954-08-12",
-    "Zodiac_Sign": "Leone"
-  },
+
   {
     "Rank": "483",
     "Name": "Ted Haggard",
@@ -3381,23 +3063,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1940-05-01",
     "Zodiac_Sign": "Toro"
   },
-  {
-    "Rank": "488",
-    "Name": "Herman Van Rompuy",
-    "Details": "Age: 78",
-    "Biography": "Herman Achille, Count Van Rompuy (Dutch: Herman Achille, Graaf Van Rompuy, pronounced [ˈɦɛrmɑn vɑn ˈrɔmpœy] (listen); born 31 October 1947) is a Belgian politician, who served as Prime Minister of Belgium from 2008 to 2009 and then as the first permanent President of the European Council from 2009 to 2014. A politician from Belgium's Christian Democratic and Flemish party, Van Rompuy served as the 49th prime minister of Belgium from 30 December 2008 until Yves Leterme (who was also his predecessor) succeeded him on 25 November 2009. On 19 November 2009 Van Rompuy was selected by the members of the European Council, which is the institution of the European Union (EU) comprising the heads of state or government of the EU member states, as the first full-time President of that Council under the Treaty of Lisbon. He was appointed for the period from 1 December 2009 until 31 May 2012, though he only took up his position officially on 1 January 2010. On 1 March 2012 he was re-elected for a second (and last) term, to last from 1 June 2012 until 30 November 2014.",
-    "Birth_Date_ISO": "1947-10-31",
-    "Zodiac_Sign": "Scorpione"
-  },
-  
-  {
-    "Rank": "490",
-    "Name": "Imelda Marcos",
-    "Details": "Age: 96",
-    "Biography": "Imelda Romualdez Marcos (born Imelda Trinidad Romualdez; 2 July 1929) is a Filipino politician who was First Lady of the Philippines for 21 years, during which she and her husband are widely believed to have illegally amassed a multi-billion US dollar personal fortune, the bulk of which still remains unrecovered.She married Ferdinand Marcos in 1954 and became First Lady in 1965 when he became President of the Philippines. Her behaviour of initiating numerous grand architectural projects using public funds, came to be described in common parlance as Imeldific.She and her family gained notoriety for living a lavish lifestyle during a period of economic crisis and civil unrest in the country. She spent much of her time abroad on state visits, extravagant parties, and shopping sprees, and spent much of the State's money on her personal jewelry and shoe collections. Her collection of over 1,000 pairs of luxury shoes earned her the sobriquet \"Marie Antoinette, with shoes.\" The People Power Revolution in February 1986 unseated the Marcoses and forced the family into exile. In 1991, President Corazon Aquino allowed the Marcos family to return to the Philippines after the 1989 death of Ferdinand Marcos.",
-    "Birth_Date_ISO": "1929-07-02",
-    "Zodiac_Sign": "Cancro"
-  },
+
   {
     "Rank": "491",
     "Name": "Henri Christophe",
@@ -3430,14 +3096,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1946-06-14",
     "Zodiac_Sign": "Gemelli"
   },
-  {
-    "Rank": "495",
-    "Name": "Dilma Rousseff",
-    "Details": "Age: 78",
-    "Biography": "Dilma Vana Rousseff (Brazilian Portuguese: [ˈdʒiwmɐ ˈvɐ̃nɐ ʁuˈsɛf(i)]; born 14 December 1947) is a Brazilian economist and politician who served as the 36th President of Brazil, holding the position from 2011 until her impeachment and removal from office on 31 August 2016. She was the first woman to hold the Brazilian presidency and had previously served as Chief of Staff to former president Luiz Inácio Lula da Silva from 2005 to 2010.The daughter of a Bulgarian immigrant, Rousseff was raised in an upper middle class household in Belo Horizonte. She became a socialist in her youth and after the 1964 coup d'état joined left-wing and Marxist urban guerrilla groups that fought against the military dictatorship. Rousseff was captured, tortured, and jailed from 1970 to 1972.After her release, Rousseff rebuilt her life in Porto Alegre with Carlos Araújo, who was her husband for 30 years. They both helped to found the Democratic Labour Party (PDT) in Rio Grande do Sul, and participated in several of the party's electoral campaigns.",
-    "Birth_Date_ISO": "1947-12-14",
-    "Zodiac_Sign": "Sagittario"
-  },
+
   {
     "Rank": "496",
     "Name": "Jerry Falwell",
@@ -3445,30 +3104,6 @@ export const criminals: Criminal[] = [
     "Biography": "Jerry Lamon Falwell Sr. (; August 11, 1933 – May 15, 2007) was an American Southern Baptist pastor, televangelist, and conservative activist. He was the founding pastor of the Thomas Road Baptist Church, a megachurch in Lynchburg, Virginia. He founded Lynchburg Christian Academy (now Liberty Christian Academy) in 1967 and Liberty University in 1971 and co-founded the Moral Majority in 1979. On May 15, 2007, Jerry Falwell died suddenly of cardiac arrhythmia in his office at Liberty University at the age of 73.",
     "Birth_Date_ISO": "1933-08-11",
     "Zodiac_Sign": "Leone"
-  },
-  {
-    "Rank": "497",
-    "Name": "Luiz Inácio Lula da Silva",
-    "Details": "Age: 80",
-    "Biography": "Luiz Inácio Lula da Silva (born 27 October 1945), popularly known simply as Lula, is a Brazilian politician and former union leader who served as the 35th President of Brazil from 1 January 2003 to 31 December 2010. A popular and ambitious politician, he began serving a 12 year prison sentence in 2018 for numerous corruption charges. Lula was a founding member of the Workers' Party (PT) and ran unsuccessfully for President three times before achieving victory in the 2002 election, being re-elected in the 2006 election.The introduction of social programs such as Bolsa Família and Fome Zero were hallmarks of his time in office. As President, Lula played a prominent role in international matters including activities related to the nuclear program of Iran and global warming, being described as \"a man with audacious ambitions to alter the balance of power among nations\". Succeeded by his former Chief of Staff, Dilma Rousseff, he left an enduring mark on Brazilian politics in the form of Lulism.",
-    "Birth_Date_ISO": "1945-10-27",
-    "Zodiac_Sign": "Scorpione"
-  },
-  {
-    "Rank": "498",
-    "Name": "Leon Trotsky",
-    "Details": "Dec. at 60 (1879-1940)",
-    "Biography": "Lev Davidovich Bronstein (7 November [O.S. 26 October] 1879 – 21 August 1940), better known as Leon Trotsky (), was a Russian revolutionary, Marxist theorist, and Soviet politician whose particular strain of Marxist thought is known as Trotskyism. Initially supporting the Menshevik-Internationalists faction within the Russian Social Democratic Labour Party, he joined the Bolsheviks (\"majority\") just before the 1917 October Revolution, immediately becoming a leader within the Communist Party. He would go on to become one of the seven members of the first Politburo, founded in 1917 to manage the Bolshevik Revolution.During the early days of the Russian Soviet Federative Socialist Republic (RSFSR) and the Soviet Union, he served first as People's Commissar for Foreign Affairs and later as the founder and commander of the Red Army, with the title of People's Commissar of Military and Naval Affairs. He became a major figure in the Bolshevik victory in the Russian Civil War (1918–1922).After leading a failed struggle of the Left Opposition against the policies and rise of Joseph Stalin in the 1920s and against the increasing role of bureaucracy in the Soviet Union, Trotsky was removed as Commissar for Military and Naval Affairs (January 1925), removed from the Politburo (October 1926), removed from the Central Committee (October 1927), expelled from the Communist Party (November 1927), exiled to Alma–Ata (January 1928), and exiled from the Soviet Union (February 1929).",
-    "Birth_Date_ISO": "1879-11-07",
-    "Zodiac_Sign": "Scorpione"
-  },
-  {
-    "Rank": "499",
-    "Name": "Cecil Rhodes",
-    "Details": "Dec. at 48 (1853-1902)",
-    "Biography": "Cecil John Rhodes (5 July 1853 – 26 March 1902) was a British businessman, mining magnate and politician in southern Africa who served as Prime Minister of the Cape Colony from 1890 to 1896. An ardent believer in British imperialism, Rhodes and his British South Africa Company founded the southern African territory of Rhodesia (now Zimbabwe and Zambia), which the company named after him in 1895. South Africa's Rhodes University is also named after him. Rhodes set up the provisions of the Rhodes Scholarship, which is funded by his estate. He also put much effort towards his vision of a Cape to Cairo Railway through British territory.The son of a vicar, Rhodes grew up in Bishop's Stortford, Hertfordshire, and was a sickly child.",
-    "Birth_Date_ISO": "1853-07-05",
-    "Zodiac_Sign": "Cancro"
   },
   {
     "Rank": "500",
@@ -3493,14 +3128,6 @@ export const criminals: Criminal[] = [
     "Biography": "Eva Sybille Haule-Frimpong (born 16 July 1954) is a former terrorist associated with the third generation Red Army Faction (RAF). She took her abitur in Stuttgart before going underground in 1984.",
     "Birth_Date_ISO": "1954-07-16",
     "Zodiac_Sign": "Cancro"
-  },
-  {
-    "Rank": "506",
-    "Name": "Ehud Olmert",
-    "Details": "Age: 80",
-    "Biography": "Ehud Olmert (Hebrew: אֶהוּד אוֹלְמֶרְט, IPA: [eˈhud ˈolmeʁt] (listen); born 30 September 1945) is an Israeli politician and lawyer. He served as the 12th Prime Minister of Israel from 2006 to 2009 and before that as a cabinet minister from 1988 to 1992 and from 2003 to 2006. Between his first and second stints as a cabinet member, he served as mayor of Jerusalem from 1993 to 2003. After serving as PM he was sentenced to serve a prison term over convictions for accepting bribes and for obstruction of justice during his terms as mayor of Jerusalem and as trade minister.",
-    "Birth_Date_ISO": "1945-09-30",
-    "Zodiac_Sign": "Bilancia"
   },
   {
     "Rank": "507",
@@ -3592,14 +3219,6 @@ export const criminals: Criminal[] = [
     "Zodiac_Sign": "Toro"
   },
   {
-    "Rank": "522",
-    "Name": "Ahmet Davutoğlu",
-    "Details": "Age: 67",
-    "Biography": "Ahmet Davutoğlu (Turkish pronunciation: [ahˈmet davuˈtoːɫu] (listen); born 26 February 1959) is a Turkish academic, politician and former diplomat who served as the 26th Prime Minister of Turkey and Leader of the Justice and Development Party (AKP) from 2014 to 2016. He previously served as Minister of Foreign Affairs from 2009 to 2014 and chief advisor to Prime Minister Recep Tayyip Erdoğan from 2003 to 2009. He was elected as an AKP Member of Parliament for Konya in the 2011 general election and was reelected as an MP in both the June and November 2015 general elections. He resigned as Prime Minister on 22 May 2016.Following the election of serving Prime Minister and AKP Leader Recep Tayyip Erdoğan as the 12th President of Turkey, Davutoğlu was announced by the AKP Central Executive Committee as a candidate for the party leadership. He was unanimously elected as leader during the first AKP extraordinary congress and consequently succeeded Erdoğan as prime minister, forming the 62nd Government of the Turkish Republic.",
-    "Birth_Date_ISO": "1959-02-26",
-    "Zodiac_Sign": "Pesci"
-  },
-  {
     "Rank": "523",
     "Name": "Israel Zangwill",
     "Details": "Dec. at 62 (1864-1926)",
@@ -3646,14 +3265,6 @@ export const criminals: Criminal[] = [
     "Biography": "Herod (; Hebrew: הוֹרְדוֹס, Modern: Hordus, Tiberian: Hōreḏōs, Greek: Ἡρῴδης, Hērōdēs; 74/73 BCE – c. 4 BCE), also known as Herod the Great and Herod I, was a Roman client king of Judea, referred to as the Herodian kingdom. The history of his legacy has polarized opinion, as he is known for his colossal building projects throughout Judea, including his expansion of the Second Temple in Jerusalem (Herod's Temple), the construction of the port at Caesarea Maritima, the fortress at Masada, and Herodium. Vital details of his life are recorded in the works of the 1st century CE Roman–Jewish historian Josephus. Herod also appears in the Christian Gospel of Matthew as the ruler of Judea who orders the Massacre of the Innocents at the time of the birth of Jesus.",
     "Birth_Date_ISO": "2072-04-22",
     "Zodiac_Sign": "Toro"
-  },
-  {
-    "Rank": "529",
-    "Name": "Kwame Kilpatrick",
-    "Details": "Age: 55",
-    "Biography": "Kwame Malik Kilpatrick (born June 8, 1970) is an American former politician, having served as a Democratic Michigan state representative and mayor of Detroit from 2002 to 2008. Kilpatrick resigned as mayor in September 2008 after being convicted of perjury and obstruction of justice. He was sentenced to four months in jail and was released on probation after serving 99 days. On May 25, 2010, Kilpatrick was sentenced to eighteen months to five years in state prison for violating his probation, and served time at the Oaks Correctional Facility in northwest Michigan. On March 11, 2013, he was convicted on 24 federal felony counts, including mail fraud, wire fraud, and racketeering.",
-    "Birth_Date_ISO": "1970-06-08",
-    "Zodiac_Sign": "Gemelli"
   },
   {
     "Rank": "530",
@@ -3713,22 +3324,6 @@ export const criminals: Criminal[] = [
     "Zodiac_Sign": "Leone"
   },
   {
-    "Rank": "538",
-    "Name": "Antonio Gramsci",
-    "Details": "Dec. at 46 (1891-1937)",
-    "Biography": "Antonio Francesco Gramsci (UK: , US: , Italian: [anˈtɔːnjo franˈtʃesko ˈɡramʃi] (listen); 22 January 1891 – 27 April 1937) was an Italian Marxist philosopher and communist politician. He wrote on political theory, sociology and linguistics. He attempted to break from the economic determinism of traditional Marxist thought and so is considered a key neo-Marxist. He was a founding member and one-time leader of the Communist Party of Italy and was imprisoned by Benito Mussolini's Fascist regime. He wrote more than 30 notebooks and 3,000 pages of history and analysis during his imprisonment.",
-    "Birth_Date_ISO": "1891-01-22",
-    "Zodiac_Sign": "Acquario"
-  },
-  {
-    "Rank": "539",
-    "Name": "Dustin Moskovitz",
-    "Details": "Age: 41",
-    "Biography": "Dustin Aaron Moskovitz (; born May 22, 1984) is an American Internet entrepreneur who co-founded Facebook with Mark Zuckerberg, Eduardo Saverin, Andrew McCollum and Chris Hughes. In 2008, he left Facebook to co-found Asana with Justin Rosenstein. In March 2011, Forbes reported Moskovitz to be the youngest self-made billionaire in history, on the basis of his 2.34% share in Facebook.",
-    "Birth_Date_ISO": "1984-05-22",
-    "Zodiac_Sign": "Gemelli"
-  },
-  {
     "Rank": "540",
     "Name": "Joseph McCarthy",
     "Details": "Dec. at 48 (1908-1957)",
@@ -3752,15 +3347,6 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1938-01-02",
     "Zodiac_Sign": "Capricorno"
   },
-  {
-    "Rank": "543",
-    "Name": "Mahmoud Ahmadinejad",
-    "Details": "Age: 69",
-    "Biography": "Mahmoud Ahmadinejad (Persian: محمود احمدی‌نژاد‎, romanized: Mahmud Ahmadinezhād [mæhmuːd(-e) æhmædiːneʒɒːd] (listen)), born Mahmoud Sabbaghian (Persian: صباغیان‎, romanized: Sabbāghyān, 28 October 1956), is an Iranian politician who served as the sixth President of Iran from 2005 to 2013. He was also the main political leader of the Alliance of Builders of Islamic Iran, a coalition of conservative political groups in the country. An engineer and teacher from a poor background, ideologically shaped by thinkers such as Navvab Safavi, Jalal Al-e-Ahmad and Ahmad Fardid, Ahmadinejad joined the Office for Strengthening Unity after the Iranian Revolution. Appointed a provincial governor, he was removed after the election of President Mohammad Khatami and returned to teaching. Tehran's council elected him mayor in 2003.",
-    "Birth_Date_ISO": "1956-10-28",
-    "Zodiac_Sign": "Scorpione"
-  },
-
   {
     "Rank": "545",
     "Name": "Mani Shankar Aiyar",
@@ -3858,14 +3444,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1937-05-15",
     "Zodiac_Sign": "Toro"
   },
-  {
-    "Rank": "562",
-    "Name": "Than Shwe",
-    "Details": "Age: 93",
-    "Biography": "Than Shwe (Burmese: သန်းရွှေ; pronounced [θáɴ ʃwè]; born 2 February 1933) is a Burmese strongman politician who was the head of state of Burma from 1992 to 2011 as Chairman of the State Peace and Development Council (SPDC). During this period, he held key positions of power including Prime Minister of Burma, Commander-in-chief of Myanmar Defense Services and head of the Union Solidarity and Development Association. In March 2011 he officially stepped down as head of state in favour of his hand-picked successor, Thein Sein, and as head of the Armed Forces, being replaced by general Min Aung Hlaing.",
-    "Birth_Date_ISO": "1933-02-02",
-    "Zodiac_Sign": "Acquario"
-  },
+
   {
     "Rank": "563",
     "Name": "Miguel Treviño Morales",
@@ -3898,14 +3477,6 @@ export const criminals: Criminal[] = [
     "Biography": "Curtis Emerson LeMay (November 15, 1906 – October 1, 1990)is credited with designing and implementing an effective, but also controversial, systematic strategic bombing campaign in the Pacific theater of World War II. He served as Chief of Staff of the United States Air Force from 1961 to 1965. LeMay joined the United States Army Air Corps while studying civil engineering at Ohio State University. He had risen to the rank of major by the time of the Japanese Attack on Pearl Harbor. He commanded the 305th Operations Group from October 1942 until September 1943, and the 3rd Air Division in the European theatre of World War II until August 1944, when he was transferred to the China Burma India Theater.",
     "Birth_Date_ISO": "1906-11-15",
     "Zodiac_Sign": "Scorpione"
-  },
-  {
-    "Rank": "570",
-    "Name": "Tom DeLay",
-    "Details": "Age: 79",
-    "Biography": "Thomas Dale DeLay (; born April 8, 1947) is a former member of the United States House of Representatives, representing Texas's 22nd congressional district from 1985 until 2006. He was Republican Party (GOP) House Majority Leader from 2003 to 2005. DeLay began his career as a politician in 1978 when he was elected to the Texas House of Representatives. In 1988, he was appointed Deputy Minority Whip. In 1994 he helped Newt Gingrich orchestrate the Republican Revolution, which gave the Republicans the victory in the 1994 midterm election and swept Democrats from power in both houses of Congress, putting Republicans in control of the House of Representatives for the first time in forty years.",
-    "Birth_Date_ISO": "1947-04-08",
-    "Zodiac_Sign": "Ariete"
   },
   {
     "Rank": "571",
@@ -3947,16 +3518,7 @@ export const criminals: Criminal[] = [
     "Biography": "Erich Moritz Warburg (15 April 1900 – 9 July 1990) was a German and American businessman and a member of the prominent Warburg family of German-Jewish bankers.",
     "Birth_Date_ISO": "1900-04-15",
     "Zodiac_Sign": "Ariete"
-  },
-  {
-    "Rank": "577",
-    "Name": "Chandrika Kumaratunga",
-    "Details": "Age: 80",
-    "Biography": "Chandrika Bandaranaike Kumaratunga (Sinhala: චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග,Tamil: சந்திரிகா பண்டாரநாயக்க குமாரதுங்க; born 29 June 1945) is a Sri Lankan politician who served as the fifth President of Sri Lanka, from 12 November 1994 to 19 November 2005. The country's only female president to date, she is the daughter of two former prime ministers and was the leader of the Sri Lanka Freedom Party (SLFP) until the end of 2005. In 2015 she was appointed as the chairperson of office for national unity and reconciliation.",
-    "Birth_Date_ISO": "1945-06-29",
-    "Zodiac_Sign": "Cancro"
-  },
- 
+  }, 
   {
     "Rank": "585",
     "Name": "Agathocles of Syracuse",
@@ -4143,37 +3705,12 @@ export const criminals: Criminal[] = [
     "Zodiac_Sign": "Leone"
   },
   {
-    "Rank": "610",
-    "Name": "Yitzhak Shamir",
-    "Details": "Dec. at 96 (1915-2012)",
-    "Biography": "Yitzhak Shamir (Hebrew: יצחק שמיר, listen ; born Yitzhak Yezernitsky; October 22, 1915 – June 30, 2012) was an Israeli politician and the seventh Prime Minister of Israel, serving two terms, 1983–84 and 1986–1992. Before the establishment of the state of Israel, Shamir was a leader of the Zionist paramilitary group Lehi. After the establishment of the Israeli state he served in the Mossad between 1955 and 1965, a Knesset Member, a Knesset Speaker and a Foreign Affairs Minister. Shamir was the country's third longest-serving prime minister after David Ben-Gurion and Benjamin Netanyahu.",
-    "Birth_Date_ISO": "1915-10-22",
-    "Zodiac_Sign": "Bilancia"
-  },
-  {
-    "Rank": "611",
-    "Name": "Claudia Roth",
-    "Details": "Age: 70",
-    "Biography": "Claudia Benedikta Roth (born 15 May 1955 in Ulm) is a German Green Party politician. She was one of the two party chairs from 2004 to 2013 and currently serves as one of the vice presidents of the Bundestag.",
-    "Birth_Date_ISO": "1955-05-15",
-    "Zodiac_Sign": "Toro"
-  },
-
-  {
     "Rank": "613",
     "Name": "Theodor Eicke",
     "Details": "Dec. at 50 (1892-1943)",
     "Biography": "Theodor Eicke (17 October 1892 – 26 February 1943) was a German SS functionary during the Nazi era. He was one of the key figures in the development of the Nazi concentration camp system in Germany used to suppress dissent during the Holocaust. Eicke served as the second commandant of the Dachau concentration camp from June 1933 to July 1934, and together with his adjutant Michael Lippert, was one of the executioners of SA Chief Ernst Röhm during the Night of the Long Knives purge. In 1939, Eicke became commander of the SS Division Totenkopf of the Waffen-SS, leading the division during the Second World War on the Western and Eastern fronts, and continuing to expand and develop the concentration camp system. Eicke was killed on 26 February 1943, when his plane was shot down during the Third Battle of Kharkov.",
     "Birth_Date_ISO": "1892-10-17",
     "Zodiac_Sign": "Bilancia"
-  },
-  {
-    "Rank": "614",
-    "Name": "Jimmy Wales",
-    "Details": "Age: 59",
-    "Biography": "Jimmy Donal \"Jimbo\" Wales (born August 7, 1966) is an American Internet entrepreneur. He is known as a co-founder of the online non-profit encyclopedia Wikipedia and the for-profit web hosting company Wikia.Wales was born in Huntsville, Alabama, where he attended Randolph School, a university-preparatory school. Later, he earned bachelor's and master's degrees in finance from Auburn University and the University of Alabama respectively.While in graduate school, Wales taught at two universities; however, he departed before completing a PhD to take a job in finance and later worked as the Research Director of a Chicago futures and options firm. In 1996, he and two partners founded Bomis, an adult web portal featuring entertainment and adult content. The company would provide the initial funding for the peer-reviewed free encyclopedia, Nupedia (2000–2003), and its successor, Wikipedia.",
-    "Birth_Date_ISO": "1966-08-08",
-    "Zodiac_Sign": "Leone"
   },
   {
     "Rank": "615",
@@ -4198,15 +3735,6 @@ export const criminals: Criminal[] = [
     "Biography": "Saint Ignatius of Loyola (Basque: Ignazio Loiolakoa; Spanish: Ignacio de Loyola; Latin: Ignatius de Loyola; c.  23 October 1491 – 31 July 1556) was a Spanish Basque Catholic priest and theologian, who co-founded the religious order called the Society of Jesus (Jesuits) and became its first Superior General at Paris in 1541. The Jesuit order served the Pope as missionaries, and they were bound by a vow of special obedience to the sovereign pontiff in regard to the missions. They therefore emerged as an important force during the time of the Counter-Reformation.Ignatius is remembered as a talented spiritual director. He recorded his method in a celebrated treatise called the Spiritual Exercises, a simple set of meditations, prayers, and other mental exercises, first published in 1548. Ignatius was beatified in 1609, and then canonized, receiving the title of Saint on 12 March 1622.",
     "Birth_Date_ISO": "1491-10-23",
     "Zodiac_Sign": "Scorpione"
-  },
-
-  {
-    "Rank": "619",
-    "Name": "Nicolas Sarkozy",
-    "Details": "Age: 71",
-    "Biography": "Nicolas Paul Stéphane Sarközy de Nagy-Bocsa (; French: [nikɔla saʁkɔzi] (listen); born 28 January 1955) is a retired French politician who served as President of France and ex officio Co-Prince of Andorra from 16 May 2007 until 15 May 2012. Born in Paris, he is of 1/2 Hungarian Protestant, 1/4 Greek Jewish, and 1/4 French Catholic origin. Mayor of Neuilly-sur-Seine from 1983 to 2002, he was Minister of the Budget under Prime Minister Édouard Balladur (1993–1995) during François Mitterrand's second term. During Jacques Chirac's second presidential term he served as Minister of the Interior and as Minister of Finances. He was the leader of the Union for a Popular Movement (UMP) party from 2004 to 2007.",
-    "Birth_Date_ISO": "1955-01-28",
-    "Zodiac_Sign": "Acquario"
   },
   {
     "Rank": "620",
@@ -4325,14 +3853,6 @@ export const criminals: Criminal[] = [
     "Zodiac_Sign": "Acquario"
   },
   {
-    "Rank": "642",
-    "Name": "Cardinal Mazarin",
-    "Details": "Dec. at 58 (1602-1661)",
-    "Biography": "Cardinal Jules Mazarin (, also UK: , US: , French: [ʒyl mazaʁɛ̃]; 14 July 1602 – 9 March 1661), born Giulio Raimondo Mazzarino (Italian: [ˈdʒuːljo raiˈmondo madːzaˈriːno]) or Mazarini, was an Italian cardinal, diplomat and politician who served as the chief minister to the kings of France Louis XIII and Louis XIV from 1642 until his death in 1661. In 1654 he acquired the title Duke of Mayenne, and in 1659, 1st Duke of Rethel and Nevers. After serving as a papal diplomat for Pope Urban VIII, Mazarin offered his diplomatic services to Cardinal Richelieu and moved to Paris in 1640. Following the death of Richelieu, Mazarin took his place as first minister, and after that of Louis XIII in 1643, Mazarin acted as the head of the government for Anne of Austria, the regent for the young Louis XIV, and was also made responsible for the king's education until he came of age. The first years of Mazarin in office were marked by military victories in the Thirty Years' War, which he used to make France the main European power and establish the Peace of Westphalia (1646–48).",
-    "Birth_Date_ISO": "1602-07-14",
-    "Zodiac_Sign": "Cancro"
-  },
-  {
     "Rank": "644",
     "Name": "Birgit Hogefeld",
     "Details": "Age: 69",
@@ -4349,36 +3869,12 @@ export const criminals: Criminal[] = [
     "Zodiac_Sign": "Scorpione"
   },
   {
-    "Rank": "647",
-    "Name": "David Cameron",
-    "Details": "Age: 59",
-    "Biography": "David William Donald Cameron (born 9 October 1966) is a British politician who served as Prime Minister of the United Kingdom from 2010 to 2016. He was the Member of Parliament (MP) for Witney from 2001 to 2016 and Leader of the Conservative Party from 2005 to 2016. He identifies as a one-nation conservative, and has been associated with both economically liberal and socially liberal policies. Born in London to an upper-middle-class family, Cameron was educated at Heatherdown School, Eton College, and Brasenose College, Oxford. From 1988 to 1993 he worked at the Conservative Research Department, assisting the Conservative Prime Minister John Major, before leaving politics to work for Carlton Communications in 1994.",
-    "Birth_Date_ISO": "1966-10-09",
-    "Zodiac_Sign": "Bilancia"
-  },
-  {
     "Rank": "652",
     "Name": "Edward Teller",
     "Details": "Dec. at 95 (1908-2003)",
     "Biography": "Edward Teller (Hungarian: Teller Ede; January 15, 1908 – September 9, 2003) was a Hungarian-American theoretical physicist who is known colloquially as \"the father of the hydrogen bomb\" (see the Teller–Ulam design), although he did not care for the title. He made numerous contributions to nuclear and molecular physics, spectroscopy (in particular the Jahn–Teller and Renner–Teller effects), and surface physics. His extension of Enrico Fermi's theory of beta decay, in the form of Gamow–Teller transitions, provided an important stepping stone in its application, while the Jahn–Teller effect and the Brunauer–Emmett–Teller (BET) theory have retained their original formulation and are still mainstays in physics and chemistry. Teller also made contributions to Thomas–Fermi theory, the precursor of density functional theory, a standard modern tool in the quantum mechanical treatment of complex molecules. In 1953, along with Nicholas Metropolis, Arianna Rosenbluth, Marshall Rosenbluth, and his wife Augusta Teller, Teller co-authored a paper that is a standard starting point for the applications of the Monte Carlo method to statistical mechanics.",
     "Birth_Date_ISO": "1908-01-15",
     "Zodiac_Sign": "Capricorno"
-  },
-  {
-    "Rank": "653",
-    "Name": "Sergey Brin",
-    "Details": "Age: 52",
-    "Biography": "Sergey Mikhaylovich Brin (Russian: Серге́й Миха́йлович Брин; born August 21, 1973) is an American computer scientist and Internet entrepreneur. Together with Larry Page, he co-founded Google. Brin is the president of Google's parent company Alphabet Inc. As of June 2019, Brin is the 13th-richest person in the world, with an estimated net worth of US$50.1 billion.Brin immigrated to the United States with his family from the Soviet Union at the age of 6. He earned his bachelor's degree at the University of Maryland, College Park, following in his father's and grandfather's footsteps by studying mathematics, as well as computer science.",
-    "Birth_Date_ISO": "1973-08-21",
-    "Zodiac_Sign": "Leone"
-  },
-  {
-    "Rank": "654",
-    "Name": "George Galloway",
-    "Details": "Age: 71",
-    "Biography": "George Galloway (born 16 August 1954) is a British politician, broadcaster and writer. Between 1987 and 2015, except for a period between 2010–2012, he was a Member of Parliament for four constituencies, firstly for the Labour Party and later the Respect Party. After becoming the youngest ever chair of the Scottish Labour Party in 1981, he was general secretary of the London-based charity War on Want from 1983 until elected as MP for Glasgow Hillhead (later Glasgow Kelvin) at the 1987 general election. In 2003, Galloway was expelled from the Labour Party for bringing the party into disrepute, including having called on Arabs to fight British troops.In 2004, he became a member of Respect–The Unity Coalition, later known as the Respect Party, becoming party leader by late 2013. Having decided not to seek re-election for Glasgow Kelvin, he stood for Respect in the 2005 general election for Bethnal Green and Bow, defeating the sitting Labour MP, Oona King, and served for one parliamentary term.",
-    "Birth_Date_ISO": "1954-08-16",
-    "Zodiac_Sign": "Leone"
   },
   {
     "Rank": "657",
@@ -4421,28 +3917,12 @@ export const criminals: Criminal[] = [
     "Zodiac_Sign": "Bilancia"
   },
   {
-    "Rank": "662",
-    "Name": "Wojciech Jaruzelski",
-    "Details": "Dec. at 90 (1923-2014)",
-    "Biography": "Wojciech Witold Jaruzelski ( VOY-chekh YARR-oo-ZEL-skee, also UK: -⁠ YARR-uu-, US: -⁠ YAR-oo-, Polish: [ˈvɔjtɕɛɣ ˈvitɔlt jaruˈzɛlskʲi] (listen); 6 July 1923 – 25 May 2014) was a Polish military officer and politician. He was First Secretary of the Polish United Workers' Party from 1981 to 1989, and as such was the last leader of the People's Republic of Poland. He also served as Prime Minister from 1981 to 1985 and the country's head of state from 1985 to 1990 (titled as Chairman of the Council of State from 1985 to 1989 and as President from 1989 to 1990). He was also the last commander-in-chief of the Polish People's Army (LWP). He resigned after the Polish Round Table Agreement in 1989, which led to multi-party elections in Poland.",
-    "Birth_Date_ISO": "1923-07-06",
-    "Zodiac_Sign": "Cancro"
-  },
-  {
     "Rank": "663",
     "Name": "Ariel Sharon",
     "Details": "Dec. at 85 (1928-2014)",
     "Biography": "Ariel Sharon (Hebrew: אֲרִיאֵל שָׁרוֹן; IPA: [aʁiˈ(ʔ)el ʃaˈʁon] (listen), Ariʼēl Sharōn, also known by his diminutive Arik, אָרִיק, born Ariel Scheinermann, אֲרִיאֵל שַׁיינֶרְמָן; 26 February 1928 – 11 January 2014) was an Israeli general and politician who served as the 11th Prime Minister of Israel from March 2001 until April 2006.Sharon was a commander in the Israeli Army from its creation in 1948. As a soldier and then an officer, he participated prominently in the 1948 Palestine war, becoming a platoon commander in the Alexandroni Brigade and taking part in many battles, including Operation Bin Nun Alef. He was an instrumental figure in the creation of Unit 101 and the reprisal operations, as well as in the 1956 Suez Crisis, the Six-Day War of 1967, the War of Attrition, and the Yom-Kippur War of 1973. Yitzhak Rabin has called Sharon \"the greatest field commander in our history\".Upon retirement from the military, Sharon entered politics, joining the Likud party, and served in a number of ministerial posts in Likud-led governments in 1977–92 and 1996–99. As Minister of Defense, he directed the 1982 Lebanon War.",
     "Birth_Date_ISO": "1928-02-26",
     "Zodiac_Sign": "Pesci"
-  },
-  {
-    "Rank": "664",
-    "Name": "Lech Wałęsa",
-    "Details": "Age: 82",
-    "Biography": "Lech Wałęsa (Polish: [ˈlɛɣ vaˈwɛ̃sa] (listen); born 29 September 1943) is a Polish retired politician and labour activist. He co-founded and headed Solidarity (Solidarność), the Soviet bloc's first independent trade union, won the Nobel Peace Prize in 1983, and served as President of Poland from 1990 to 1995.While working at the Lenin Shipyard (now Gdańsk Shipyard), Wałęsa, an electrician, became a trade-union activist, for which he was persecuted by the Communist authorities, placed under surveillance, fired in 1976, and arrested several times. In August 1980 he was instrumental in political negotiations that led to the ground-breaking Gdańsk Agreement between striking workers and the government. He co-founded the Solidarity trade-union movement. After martial law was imposed in Poland and Solidarity was outlawed, Wałęsa was again arrested.",
-    "Birth_Date_ISO": "1943-09-29",
-    "Zodiac_Sign": "Bilancia"
   },
   {
     "Rank": "666",
@@ -4469,14 +3949,6 @@ export const criminals: Criminal[] = [
     "Zodiac_Sign": "Gemelli"
   },
   {
-    "Rank": "672",
-    "Name": "Kenan Evren",
-    "Details": "Age: 108",
-    "Biography": "Ahmet Kenan Evren (Turkish: [ˈce.nan ˈev.ɾen]; 17 July 1917 – 9 May 2015) was a Turkish politician and military officer, who served as the seventh President of Turkey from 1980 to 1989. He assumed the post by leading the 1980 military coup. On 18 June 2014, a Turkish court sentenced him to life imprisonment and demotion of his military rank down to private, from army general, for leading the military coup in 1980, obstructing democracy by deposing the prime minister Süleyman Demirel, abolishing the parliament and the senate and abolishing the constitution. This sentence was on appeal at the time of his death.Evren died at a military hospital in Ankara on 9 May 2015, aged 97.",
-    "Birth_Date_ISO": "1917-07-17",
-    "Zodiac_Sign": "Cancro"
-  },
-  {
     "Rank": "673",
     "Name": "Arnold Rothstein",
     "Details": "Dec. at 46 (1882-1928)",
@@ -4491,14 +3963,6 @@ export const criminals: Criminal[] = [
     "Biography": "Pope Gregory IX (Latin: Gregorius IX; born Ugolino di Conti; c. 1145 or before 1170 – 22 August 1241) was Pope from 19 March 1227 to his death in 1241. He is known for issuing the Decretales and instituting the Papal Inquisition in response to the failures of the episcopal inquisitions established during the time of Pope Lucius III through his papal bull Ad abolendam issued in 1184. The successor of Pope Honorius III, he fully inherited the traditions of Pope Gregory VII and of his own cousin Pope Innocent III and zealously continued their policy of Papal supremacy.",
     "Birth_Date_ISO": "1145-04-22",
     "Zodiac_Sign": "Toro"
-  },
-  {
-    "Rank": "676",
-    "Name": "Deng Xiaoping",
-    "Details": "Dec. at 92 (1904-1997)",
-    "Biography": "Deng Xiaoping (, also UK: ; courtesy name Xixian; 22 August 1904 – 19 February 1997) was a Chinese politician who was the paramount leader of the People's Republic of China from 1978 until his retirement in 1992. After Chairman Mao Zedong's death in 1976, Deng led China through far-reaching market-economy reforms and has been called the \"Architect of Modern China.\"Born into a peasant background in Sichuan province, Deng studied and worked in France in the 1920s, where he became a follower of Marxism–Leninism. He joined the Communist Party of China in 1923. Upon his return to China, he joined the party organization in Shanghai, then was a political commissar for the Red Army in rural regions and by the late 1930s was considered a \"revolutionary veteran\" because he participated in the Long March. Following the founding of the People's Republic in 1949, Deng worked in Tibet and the southwest region to consolidate Communist control.",
-    "Birth_Date_ISO": "1904-08-22",
-    "Zodiac_Sign": "Leone"
   },
   {
     "Rank": "677",
@@ -4533,14 +3997,6 @@ export const criminals: Criminal[] = [
     "Zodiac_Sign": "Vergine"
   },
   {
-    "Rank": "681",
-    "Name": "Ban Ki-moon",
-    "Details": "Age: 81",
-    "Biography": "Ban Ki-moon (; Korean: 반기문; Hanja: 潘基文; Korean pronunciation: [pan.ɡi.mun]; born 13 June 1944) is a South Korean politician and diplomat who served as the eighth Secretary-General of the United Nations from January 2007 to December 2016. Before becoming Secretary-General, Ban was a career diplomat in South Korea's Ministry of Foreign Affairs and in the United Nations. He entered diplomatic service the year he graduated from university, accepting his first post in New Delhi, India. Ban was the foreign minister of South Korea from January 2004 to November 2006. In February 2006 he began to campaign for the office of Secretary-General.",
-    "Birth_Date_ISO": "1944-06-13",
-    "Zodiac_Sign": "Gemelli"
-  },
-  {
     "Rank": "682",
     "Name": "Rajnikanth",
     "Details": "Age: 75",
@@ -4556,40 +4012,6 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1878-04-06",
     "Zodiac_Sign": "Ariete"
   },
-  {
-    "Rank": "684",
-    "Name": "Asif Ali Zardari",
-    "Details": "Age: 70",
-    "Biography": "Asif Ali Zardari (Urdu: آصف علی زرداری‎; Sindhi: آصف علي زرداري‎; born 26 July 1955) is a Pakistani politician and the former co-chairperson of Pakistan People's Party. He served as the 11th President of Pakistan from 2008 to 2013, the first president born after Partition. He is member of National Assembly of Pakistan since August 2018. The son of Hakim Ali Zardari, a landowner from Sindh, Zardari rose to prominence after his marriage to Benazir Bhutto in 1987, who became the Prime Minister of Pakistan after her election in 1988. When Bhutto's government was dismissed by President Ghulam Ishaq Khan in 1990, Zardari was widely criticized for involvement in corruption scandals that led to its collapse.",
-    "Birth_Date_ISO": "1955-07-26",
-    "Zodiac_Sign": "Leone"
-  },
-  {
-    "Rank": "686",
-    "Name": "Jiang Zemin",
-    "Details": "Age: 99",
-    "Biography": "Jiang Zemin (UK: , US: ; born 17 August 1926) is a retired Chinese politician who served as General Secretary of the Communist Party of China from 1989 to 2002 as Chairman of the Central Military Commission of the Communist Party of China from 1989 to 2004 and as President of the People's Republic of China from 1993 to 2003. Jiang has been described as the \"core of the third generation\" of Communist Party leaders since 1989. Jiang came to power unexpectedly as a 'compromise candidate' following the Tiananmen Square protests of 1989 when he replaced Zhao Ziyang as General Secretary after Zhao was ousted for his support for the student movement. With the waning influence of Eight Elders due to old age and with the death of Deng Xiaoping in 1997, Jiang consolidated his hold on power and became the \"paramount leader\" of the party and the country in the 1990s. Urged by Deng's southern tour in 1992 to accelerate \"opening up and reform\", Jiang officially introduced the term \"socialist market economy\" in his speech during the 14th National Congress of the Communist Party of China held later that year, ending a period of ideological uncertainty and economic stagnation following 1989.",
-    "Birth_Date_ISO": "1926-08-17",
-    "Zodiac_Sign": "Leone"
-  },
-  {
-    "Rank": "687",
-    "Name": "Édouard Daladier",
-    "Details": "Dec. at 86 (1884-1970)",
-    "Biography": "Édouard Daladier (French: [edwaʁ daladje]; 18 June 1884 – 10 October 1970) was a French Radical-Socialist (i.e. centre-left) politician and the Prime Minister of France at the outbreak of World War II. Daladier was born in Carpentras and began his political career before World War I. During the war, he fought on the Western Front and was decorated for his service. After the war he became a leading figure in the Radical Party and Prime Minister in 1933 and 1934.",
-    "Birth_Date_ISO": "1884-06-18",
-    "Zodiac_Sign": "Gemelli"
-  },
-  {
-    "Rank": "688",
-    "Name": "Nick Denton",
-    "Details": "Age: 59",
-    "Biography": "Nicholas Guido Anthony Denton (born 24 August 1966) is a British Internet entrepreneur, journalist and blogger, the founder and former proprietor of the blog collective Gawker Media, and was the managing editor of the New York-based Gawker.com, until a lawsuit by Terry Bollea bankrupted the company. For years after starting Gawker Media in 2002, Denton ran the company out of his apartment in SoHo.",
-    "Birth_Date_ISO": "1966-08-24",
-    "Zodiac_Sign": "Vergine"
-  },
-
-
   {
     "Rank": "691",
     "Name": "50 Cent",
@@ -4639,14 +4061,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1925-11-27",
     "Zodiac_Sign": "Sagittario"
   },
-  {
-    "Rank": "698",
-    "Name": "David Lammy",
-    "Details": "Age: 53",
-    "Biography": "David Lindon Lammy (born 19 July 1972) is a British Labour Party politician, who has been the Member of Parliament (MP) for Tottenham since 2000.",
-    "Birth_Date_ISO": "1972-07-19",
-    "Zodiac_Sign": "Cancro"
-  },
+  
   {
     "Rank": "704",
     "Name": "Louis XIV of France",
@@ -4662,14 +4077,6 @@ export const criminals: Criminal[] = [
     "Biography": "Leonard Dinnerstein is an award winning author.",
     "Birth_Date_ISO": "1934-05-05",
     "Zodiac_Sign": "Toro"
-  },
-  {
-    "Rank": "707",
-    "Name": "Xavier Bertrand",
-    "Details": "Age: 61",
-    "Biography": "Xavier René Louis Bertrand (French pronunciation: ​[ɡzavje bɛʁˈtʁɑ̃]; born 21 March 1965) is a French politician. He was Minister of Health from 2005 to 2007 in Dominique de Villepin's government under President Jacques Chirac, then served as Minister of Labour, Social Affairs and Solidarity from 2007 to 2009 and as Minister of Labour, Employment and Health from 2010 to 2012. He played a leading role in Nicolas Sarkozy's presidential campaign in 2007. After the 2015 regional elections, Bertrand became president of the regional council of Hauts-de-France. He was a member of Union for a Popular Movement, later The Republicans, until 11 December 2017, when he announced that was \"definitively leaving\" the party after Laurent Wauquiez was elected the leader of the party.",
-    "Birth_Date_ISO": "1965-03-21",
-    "Zodiac_Sign": "Ariete"
   },
   {
     "Rank": "709",
@@ -4728,14 +4135,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1941-03-14",
     "Zodiac_Sign": "Pesci"
   },
-  {
-    "Rank": "721",
-    "Name": "William Randolph Hearst",
-    "Details": "Dec. at 88 (1863-1951)",
-    "Biography": "William Randolph Hearst Sr. (; April 29, 1863 – August 14, 1951) was an American businessman, newspaper publisher, and politician known for developing the nation's largest newspaper chain and media company, Hearst Communications. His flamboyant methods of yellow journalism influenced the nation's popular media by emphasizing sensationalism and human interest stories. Hearst entered the publishing business in 1887 with Mitchell Trubitt after being given control of The San Francisco Examiner by his wealthy father. Moving to New York City, Hearst acquired the New York Journal and fought a bitter circulation war with Joseph Pulitzer's New York World.",
-    "Birth_Date_ISO": "1863-04-29",
-    "Zodiac_Sign": "Toro"
-  },
+
   {
     "Rank": "722",
     "Name": "Sukarno",
@@ -4759,14 +4159,6 @@ export const criminals: Criminal[] = [
     "Details": "Dec. at 62 (1213-1275)",
     "Biography": "Jia Sidao (1213-1275), courtesy name Shixian, was a chancellor of the late Song dynasty of China, the younger brother of a concubine of Emperor Lizong, who subsequently had a relationship of special favor with Emperor Duzong, and had roles in the Mongol-Song Battle of Xiangyang and an unpopular land nationalization program in the 1260s. Jia was assassinated by a court-designated sheriff charged with his custody after his court failures in 1275.",
     "Birth_Date_ISO": "1213-08-25",
-    "Zodiac_Sign": "Vergine"
-  },
-  {
-    "Rank": "727",
-    "Name": "Steve Chen",
-    "Details": "Age: 47",
-    "Biography": "Steven Shih Chen (traditional Chinese: 陳士駿; simplified Chinese: 陈士骏; pinyin: Chén Shìjùn; born August 25, 1978) is an American Internet entrepreneur who is one of the co-founders and previous chief technology officer of the video-sharing website YouTube. After having co-founded the company AVOS Systems, Inc. and built the video-sharing app MixBit, he joined Google Ventures in 2014.",
-    "Birth_Date_ISO": "1978-08-25",
     "Zodiac_Sign": "Vergine"
   },
   {
@@ -4874,31 +4266,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1954-09-06",
     "Zodiac_Sign": "Vergine"
   },
-  {
-    "Rank": "748",
-    "Name": "Luciana Berger",
-    "Details": "Age: 44",
-    "Biography": "Luciana Clare Berger (born 13 May 1981) is a British politician serving as Member of Parliament (MP) for Liverpool Wavertree since 2010. She is serving as an independent MP since 2019. Berger was a member of the Labour Party until 2019, when she resigned to form The Independent Group with other MPs. As a former member of the Opposition Shadow Cabinet, she was Shadow Minister for Public Health from 2013 to 2015, and then Shadow Minister for Mental Health from 2015 to 2016.Born in London to a Jewish family, Berger attained degrees at the University of Birmingham and Birkbeck, University of London. She served as a National Executive Committee member of the National Union of Students, but resigned to protest what she considered the committee's apathy towards antisemitism.",
-    "Birth_Date_ISO": "1981-05-13",
-    "Zodiac_Sign": "Toro"
-  },
-  {
-    "Rank": "749",
-    "Name": "Sarath Fonseka",
-    "Details": "Age: 75",
-    "Biography": "Field Marshal Gardihewa Sarath Chandralal Fonseka, RWP, RSP, VSV, USP, MP, rcds, psc (Sinhala: ගර්දිහේවා සරත් චන්ද්‍රලාල් ෆොන්සේකා, Tamil: சரத் பொன்சேகா; born 18 December 1950), commonly known as Sarath Fonseka, is a Sri Lankan politician and a military leader. He was the eighteenth Commander of Sri Lankan Army, and under his command the Sri Lankan Army ended the 26-year Sri Lankan Civil War in 2009, defeating the rebel Liberation Tigers of Tamil Eelam; he thereafter briefly served as the Chief of Defence Staff. After retiring from the Army with the rank of General, he entered politics as the common opposition candidate in the 2010 presidential election contesting against President Mahinda Rajapaksa. Following his controversial defeat in the presidential election he was elected to Parliament in the general election that followed. Soon after he was made a political prisoner and lost his parliamentary seat.",
-    "Birth_Date_ISO": "1950-12-18",
-    "Zodiac_Sign": "Sagittario"
-  },
 
-  {
-    "Rank": "752",
-    "Name": "Jawed Karim",
-    "Details": "Age: 47",
-    "Biography": "Jawed Karim (Bengali: জাভেদ করিম; born October 28, 1979) is an American computer scientist and internet entrepreneur of Bangladeshi-German heritage. He is the co-founder of YouTube, and the first person to upload a video to the site. This inaugural video, titled Me at the zoo, has been viewed over 72 million times as of July 2019. During Karim's time working at PayPal, where he met the fellow YouTube co-founders Steven Chen and Chad Hurley, he designed many of the core components including its real-time anti-internet-fraud system.",
-    "Birth_Date_ISO": "1979-10-28",
-    "Zodiac_Sign": "Scorpione"
-  },
   {
     "Rank": "753",
     "Name": "Emperor Taizu of Later Liang",
@@ -4915,55 +4283,6 @@ export const criminals: Criminal[] = [
     "Biography": "William I, usually known as William the Conqueror and sometimes William the Bastard, was the first Norman King of England, reigning from 1066 until his death in 1087. The descendant of Viking raiders, he had been Duke of Normandy since 1035 under the style William II. After a long struggle to establish his power, by 1060 his hold on Normandy was secure, and he launched the Norman conquest of England in 1066. The rest of his life was marked by struggles to consolidate his hold over England and his continental lands and by difficulties with his eldest son. William was the son of the unmarried Robert I, Duke of Normandy, by Robert's mistress Herleva.",
     "Birth_Date_ISO": "1028-04-22",
     "Zodiac_Sign": "Toro"
-  },
-  {
-    "Rank": "756",
-    "Name": "Michele Bachmann",
-    "Details": "Age: 70",
-    "Biography": "Michele Bachmann is an actress who appeared in \"Caucus,\" \"Évocateur: The Morton Downey Jr. Movie,\" and \"Janeane from Des Moines.\"",
-    "Birth_Date_ISO": "1956-04-06",
-    "Zodiac_Sign": "Ariete"
-  },
-  {
-    "Rank": "757",
-    "Name": "Robert Fludd",
-    "Details": "Dec. at 63 (1574-1637)",
-    "Biography": "Robert Fludd, also known as Robertus de Fluctibus (17 January 1574 – 8 September 1637), was a prominent English Paracelsian physician with both scientific and occult interests. He is remembered as an astrologer, mathematician, cosmologist, Qabalist and Rosicrucian apologist. Fludd is best known for his compilations in occult philosophy. He had a celebrated exchange of views with Johannes Kepler concerning the scientific and hermetic approaches to knowledge.",
-    "Birth_Date_ISO": "1574-01-17",
-    "Zodiac_Sign": "Capricorno"
-  },
-
-  {
-    "Rank": "759",
-    "Name": "Fred C. Koch",
-    "Details": "Dec. at 67 (1900-1967)",
-    "Biography": "Fred Chase Koch (; September 23, 1900 – November 17, 1967) was an American chemical engineer and entrepreneur who founded the oil refinery firm that later became Koch Industries, a privately held company which, under the principal ownership and leadership of Koch's sons, Charles and David, is listed by Forbes, as of 2015, as the second-largest privately held company in the United States.",
-    "Birth_Date_ISO": "1900-09-23",
-    "Zodiac_Sign": "Bilancia"
-  },
-  {
-    "Rank": "760",
-    "Name": "Larry King",
-    "Details": "Age: 92",
-    "Biography": "Larry King, born Lawrence Harvey Zeiger in 1933, was a significant figure in the world of American television and radio broadcasting. He began his career as a local journalist and radio interviewer in Florida during the 1950s, before rising to national prominence in the late '70s with his eponymous radio program, The Larry King Show. Known for his unique interviewing style - non-confrontational and open-ended - King quickly became a household name, setting the bar high for future talk show hosts. King's fame reached new heights in 1985 when he became the host of Larry King Live on CNN, a position he held for over two decades. The show was groundbreaking for its call-in format, allowing viewers from around the globe to interact directly with King and his guests.",
-    "Birth_Date_ISO": "1933-11-19",
-    "Zodiac_Sign": "Scorpione"
-  },
-  {
-    "Rank": "761",
-    "Name": "Curtis Scaparrotti",
-    "Details": "Age: 70",
-    "Biography": "Curtis Michael \"Mike\" Scaparrotti (born March 5, 1956) is a retired Four-Star General of the United States Army, who last served as the Commander of U.S. European Command. He concurrently served as NATO's Supreme Allied Commander Europe (SACEUR). Scaparrotti previously served as the Director of the Joint Staff. Prior to his tour with the Joint Staff, General Scaparrotti served as Commander, International Security Assistance Force Joint Command and Deputy Commander, U.S.",
-    "Birth_Date_ISO": "1956-03-05",
-    "Zodiac_Sign": "Pesci"
-  },
-  {
-    "Rank": "763",
-    "Name": "Scott Lively",
-    "Details": "Age: 68",
-    "Biography": "Scott Douglas Lively (born December 14, 1957) is an American activist, author, attorney, and former Massachusetts gubernatorial candidate. He is the president of Abiding Truth Ministries, a conservative Christian organization based in Temecula, California which is listed by the Southern Poverty Law Center as an anti-gay hate group. He is a cofounder of Watchmen on the Walls, an international evangelical ministry based in Riga, Latvia that describes itself as \"the international Christian movement that unites Christian leaders, Christian and social organizations and aims to protect Christian morals and values in society.\" He was the state director of the California branch of the American Family Association and a spokesman for the Oregon Citizens Alliance.Lively has called for the criminalization of \"the public advocacy of homosexuality\" as far back as 2007. He gave \"a series of talks\" to Ugandans and met with Ugandan lawmakers immediately before anti-gay legislation in Uganda was drafted, and he allegedly helped engineer the Anti-Homosexuality Bill in Uganda. He appeared in Russian television channel Russia-1's documentary titled Sodom in September 2014.He has been interviewed in radio and television about his involvement in the ex-gay movement and his opposition to LGBT rights.",
-    "Birth_Date_ISO": "1957-12-14",
-    "Zodiac_Sign": "Sagittario"
   },
   {
     "Rank": "764",
