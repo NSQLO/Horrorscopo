@@ -216,7 +216,7 @@ export default function App() {
           <div className="flex justify-between items-center mb-8 pr-8">
             <h2 className="text-3xl md:text-4xl text-[#ffc107] uppercase italic inline-flex flex-wrap items-center gap-4">
               <span className="bg-[#ffc107] text-black px-4 py-1 -skew-x-12 font-black">SQUADRA {userSign.toUpperCase()}</span>
-              <span className="text-xs font-bold tracking-widest text-[#e2e2e2] opacity-50">/// TOP 10 SOGGETTI CORRISPONDENTI ///</span>
+              <span className="text-xs font-bold tracking-widest text-[#e2e2e2] opacity-50">/// DREAM TEAM ///</span>
             </h2>
             
             <div className="flex gap-2">
