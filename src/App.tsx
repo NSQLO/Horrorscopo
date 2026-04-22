@@ -119,7 +119,7 @@ export default function App() {
           {/* Date Picker */}
           <div className="w-full lg:w-1/3 bg-black border-4 border-white p-8 shadow-[12px_12px_0px_0px_rgba(255,193,7,1)] -skew-x-[2deg] relative overflow-hidden group">
             <div className="absolute top-0 right-0 w-32 h-32 bg-[#ffc107] opacity-10 rounded-full -mr-16 -mt-16 group-hover:scale-150 transition-transform duration-500"></div>
-            <h2 className="text-2xl text-white mb-8 uppercase italic bg-black px-2 inline-block -skew-y-2 border-b-2 border-[#ffc107] pb-1 font-black">NATIVITÀ DEL SOGGETTO</h2>
+            <h2 className="text-2xl text-white mb-8 uppercase italic bg-black px-2 inline-block -skew-y-2 border-b-2 border-[#ffc107] pb-1 font-black">COMPLEANNO</h2>
             
             <div className="flex flex-col gap-8 relative z-10">
               <div className="flex flex-col relative">
@@ -154,7 +154,7 @@ export default function App() {
                 onClick={extractData}
                 className="mt-6 bg-[#ffc107] text-black border-4 border-black font-black uppercase py-5 shadow-[6px_6px_0px_0px_white] hover:translate-x-1 hover:translate-y-1 hover:shadow-none transition-all skew-x-2 text-xl"
               >
-                ESTRATTI DATI
+                CONFERMA
               </button>
             </div>
           </div>
@@ -192,7 +192,7 @@ export default function App() {
                   exit={{ opacity: 0, y: -20 }}
                   className="bg-[#ffc107] border-4 border-black p-8 -skew-x-1 relative shadow-[10px_10px_0px_0px_rgba(0,0,0,1)] z-10 lg:-mt-12 lg:ml-24 self-end w-full lg:w-[90%]"
                 >
-                  <div className="absolute -top-4 right-8 bg-black text-white font-bold px-4 py-1 italic skew-x-12 border-2 border-white shadow-xl">CASO PIÙ PROSSIMO</div>
+                  <div className="absolute -top-4 right-8 bg-black text-white font-bold px-4 py-1 italic skew-x-12 border-2 border-white shadow-xl">CASO PIÙ VICINO</div>
                   <div className="flex flex-col mt-4">
                     <div className="flex flex-col sm:flex-row justify-between items-start sm:items-end border-b-8 border-black pb-4 mb-6">
                       <h4 className="text-4xl font-black text-black uppercase tracking-tight leading-none mb-2 sm:mb-0">{selectedCriminal.Name}</h4>
@@ -242,7 +242,7 @@ export default function App() {
                 className="min-w-[340px] md:min-w-[420px] bg-[#fdfbf7] border-4 border-black p-8 flex flex-col gap-6 snap-start relative shadow-[10px_10px_0px_0px_rgba(255,193,7,1)]"
               >
                 <div className="absolute -top-4 -right-4 bg-black text-[#ffc107] font-black border-4 border-[#ffc107] w-16 h-16 flex items-center justify-center rotate-12 shadow-lg text-xl z-20">
-                  #{idx}
+                  #{idx+1}
                 </div>
                 <div className="absolute top-4 right-16 z-10">
                   <span className="rotate-[-10deg] border-4 border-red-500 text-red-500 px-3 py-1 font-black tracking-widest text-lg opacity-90 inline-block uppercase">
@@ -253,7 +253,7 @@ export default function App() {
                 <div className="flex flex-col font-mono text-black border-b-4 border-black border-dashed pb-6 mt-6">
                   <h4 className="font-black text-3xl uppercase tracking-widest bg-black text-white inline-block px-3 py-1 mb-4 self-start leading-none">{c.Name}</h4>
                   <p className="text-sm font-black">NASCITA: <span className="font-normal">{c.Birth_Date_ISO}</span></p>
-                  <p className="text-sm font-black uppercase">POSIZIONE: <span className="font-normal bg-yellow-200 px-2 font-black text-red-600">RANGO {c.Rank}</span></p>
+                  <p className="text-sm font-black uppercase">POSIZIONE: <span className="font-normal bg-yellow-200 px-2 font-black text-red-600"> {c.Rank}</span></p>
                 </div>
                 
                 <div className="font-mono text-black font-medium mt-2 text-base leading-relaxed max-h-48 overflow-hidden">
