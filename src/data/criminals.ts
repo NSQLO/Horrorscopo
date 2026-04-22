@@ -2170,14 +2170,6 @@ export const criminals: Criminal[] = [
     "Zodiac_Sign": "Vergine"
   },
   {
-    "Rank": "308",
-    "Name": "Caracalla",
-    "Details": "Dec. at 29 (188-217)",
-    "Biography": "Caracalla (; Latin: Marcus Aurelius Severus Antoninus Augustus; 4 April 188 – 8 April 217), formally known as Antoninus (Ancient Greek: Ἀντωνῖνος), ruled as Roman emperor from 198 to 217 AD. He was a member of the Severan dynasty, the elder son of Septimius Severus and Julia Domna. He was of Phoenician and Arab ethnicity. Co-ruler with his father from 198, he continued to rule with his brother Geta, emperor from 209, after their father's death in 211. He had his brother killed later that year, and reigned afterwards as sole ruler of the Roman Empire.",
-    "Birth_Date_ISO": "0188-04-04",
-    "Zodiac_Sign": "Ariete"
-  },
-  {
     "Rank": "309",
     "Name": "Béla Kun",
     "Details": "Dec. at 53 (1886-1939)",
@@ -2287,22 +2279,6 @@ export const criminals: Criminal[] = [
     "Details": "Dec. at 74 (1911-1986)",
     "Biography": "Lafayette Ronald Hubbard ( HUB-ərd;  March 13, 1911 – January 24, 1986) was an American author of science fiction and fantasy stories, and the founder of the Church of Scientology. In 1950, Hubbard authored Dianetics: The Modern Science of Mental Health and established a series of organizations to promote Dianetics. In 1952, Hubbard lost the rights to Dianetics in bankruptcy proceedings, and he subsequently founded Scientology. Thereafter Hubbard oversaw the growth of the Church of Scientology into a worldwide organization. Hubbard was cited by Smithsonian magazine as one of the 100 most significant Americans of all time.Born in Tilden, Nebraska, in 1911, Hubbard spent much of his childhood in Helena, Montana.",
     "Birth_Date_ISO": "1911-03-13",
-    "Zodiac_Sign": "Pesci"
-  },
-  {
-    "Rank": "326",
-    "Name": "Karl Popper",
-    "Details": "Dec. at 92 (1902-1994)",
-    "Biography": "Sir Karl Raimund Popper (28 July 1902 – 17 September 1994) was an Austrian-born British philosopher and professor.Generally regarded as one of the 20th century's greatest philosophers of science, Popper is known for his rejection of the classical inductivist views on the scientific method in favour of empirical falsification. A theory in the empirical sciences can never be proven, but it can be falsified, meaning that it can and should be scrutinised by decisive experiments. Popper is also known for his opposition to the classical justificationist account of knowledge, which he replaced with critical rationalism, namely \"the first non-justificational philosophy of criticism in the history of philosophy\".In political discourse, he is known for his vigorous defence of liberal democracy and the principles of social criticism that he believed made a flourishing open society possible. His political philosophy embraces ideas from all major democratic political ideologies and attempts to reconcile them, namely socialism/social democracy, libertarianism/classical liberalism and conservatism.",
-    "Birth_Date_ISO": "1902-07-28",
-    "Zodiac_Sign": "Leone"
-  },
-  {
-    "Rank": "329",
-    "Name": "Amschel Mayer Rothschild",
-    "Details": "Dec. at 82 (1773-1855)",
-    "Biography": "Baron Amschel Mayer von Rothschild (12 June 1773 – 6 December 1855) was a German Jewish banker of the wealthy Rothschild family. He was the second child and eldest son of Mayer Amschel Rothschild (1744–1812), the founder of the dynasty, and Gutlé Rothschild née Schnapper (1753–1849). On the death of Mayer Amschel in 1812, Amschel Mayer succeeded as head of the bank at Frankfurt am Main, his brothers having been dispatched to set up banking houses in Paris, London, Naples, and Vienna. As Amschel Mayer died childless, the sons of his brothers (Anselm, son of Salomon, and Mayer Carl and Wilhelm Carl, sons of Carl) assumed responsibility for the business from 1855. He was ennobled as Amschel Mayer von Rothschild in 1817 and became a Freiherr (Baron) in 1822.",
-    "Birth_Date_ISO": "1743-02-23",
     "Zodiac_Sign": "Pesci"
   },
   {
