@@ -3944,14 +3944,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1909-03-24",
     "Zodiac_Sign": "Ariete"
   },
-  {
-    "Rank": "554",
-    "Name": "Dwight D. Eisenhower",
-    "Details": "Dec. at 78 (1890-1969)",
-    "Biography": "Dwight D. Eisenhower, the 34th President of the United States, led a life filled with remarkable achievements and significant contributions. Born in Denison, Texas on October 14, 1890, his humble beginnings laid a strong foundation for his future endeavors. After graduating from West Point in 1915, Eisenhower embarked on a military career that spanned over three decades, culminating in his role as Supreme Commander of the Allied Forces during World War II. Eisenhower's military prowess was evident in his strategic leadership during the successful D-Day invasion of Normandy in 1944, which marked a turning point in the war.",
-    "Birth_Date_ISO": "1890-10-14",
-    "Zodiac_Sign": "Bilancia"
-  },
+
   {
     "Rank": "555",
     "Name": "Henry Morgenthau, Jr.",
@@ -4000,14 +3993,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1970-11-18",
     "Zodiac_Sign": "Scorpione"
   },
-  {
-    "Rank": "564",
-    "Name": "Kermit Roosevelt",
-    "Details": "Dec. at 53 (1889-1943)",
-    "Biography": "Kermit Roosevelt, MC (October 10, 1889 – June 4, 1943) was an American businessman, soldier, explorer, and writer. The son of Theodore Roosevelt, the 26th President of the United States, Kermit was a graduate of Harvard University, served in both World Wars (in World War I with both the British and American armies), and explored two continents with his father. He fought a lifelong battle with depression and committed suicide while serving in the U.S. Army in Alaska during World War II.",
-    "Birth_Date_ISO": "1889-10-10",
-    "Zodiac_Sign": "Bilancia"
-  },
+
   {
     "Rank": "565",
     "Name": "Alan Dershowitz",
@@ -4120,14 +4106,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1935-11-01",
     "Zodiac_Sign": "Scorpione"
   },
-  {
-    "Rank": "580",
-    "Name": "Spiro Agnew",
-    "Details": "Dec. at 77 (1918-1996)",
-    "Biography": "Spiro Theodore Agnew (; November 9, 1918 – September 17, 1996) was the 39th vice president of the United States from 1969 until his resignation in 1973. He is the second and most recent vice president to resign the position, the other being John C. Calhoun in 1832. Unlike Calhoun, Agnew resigned as a result of a scandal. Agnew was born in Baltimore to an American-born mother and a Greek immigrant father.",
-    "Birth_Date_ISO": "1918-11-09",
-    "Zodiac_Sign": "Scorpione"
-  },
+
   {
     "Rank": "581",
     "Name": "Nancy Pelosi",
@@ -4640,14 +4619,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1927-07-13",
     "Zodiac_Sign": "Cancro"
   },
-  {
-    "Rank": "649",
-    "Name": "Ted Cruz",
-    "Details": "Age: 55",
-    "Biography": "Rafael Edward Cruz (born December 22, 1970) is an American politician and attorney serving as the junior United States Senator for Texas since 2013. He was the runner-up for the Republican nomination for President of the United States in the 2016 election. Cruz holds degrees from Princeton University and Harvard Law School. From 1999 to 2003, he held various government positions, serving as Director of the Office of Policy Planning at the Federal Trade Commission (FTC), as an Associate Deputy Attorney General at the United States Department of Justice, and as a Domestic Policy Advisor to George W. Bush during Bush's 2000 presidential campaign.",
-    "Birth_Date_ISO": "1970-12-22",
-    "Zodiac_Sign": "Capricorno"
-  },
+
   {
     "Rank": "651",
     "Name": "Loretta E. Lynch",
@@ -4912,14 +4884,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1966-08-24",
     "Zodiac_Sign": "Vergine"
   },
-  {
-    "Rank": "689",
-    "Name": "Mike Pence",
-    "Details": "Age: 66",
-    "Biography": "Michael Richard Pence (born June 7, 1959) is an American politician and lawyer who served as the 48th vice president of the United States, leaving office on January 20, 2021. He previously was the 50th governor of Indiana from 2013 to 2017 and a member of the United States House of Representatives from 2001 to 2013. He is the younger brother of U.S. representative Greg Pence. Pence was elected to the United States Congress in 2000 and represented Indiana's 2nd congressional district and Indiana's 6th congressional district in the House of Representatives from 2001 to 2013.",
-    "Birth_Date_ISO": "1959-06-07",
-    "Zodiac_Sign": "Gemelli"
-  },
+
   {
     "Rank": "690",
     "Name": "Scott Walker",
@@ -4968,14 +4933,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1874-04-19",
     "Zodiac_Sign": "Ariete"
   },
-  {
-    "Rank": "696",
-    "Name": "Andrew Johnson",
-    "Details": "Dec. at 66 (1808-1875)",
-    "Biography": "Born in Raleigh, North Carolina, on December 29, 1808, Andrew Johnson rose from abject poverty to become the 17th President of the United States. His journey was nothing short of remarkable, filled with resilience and an unwavering desire for public service. Johnson, at a young age, was apprenticed to a tailor, where he developed not only his sewing skills but also his passion for knowledge by reading books. Johnson began his political career as alderman in Greeneville, Tennessee, eventually rising to the position of mayor in 1834. His political acumen and dedication to public service led him to serve five terms in the U.S.",
-    "Birth_Date_ISO": "1808-12-29",
-    "Zodiac_Sign": "Capricorno"
-  },
+
   {
     "Rank": "697",
     "Name": "Claude Lanzmann",
@@ -5440,14 +5398,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1953-02-11",
     "Zodiac_Sign": "Acquario"
   },
-  {
-    "Rank": "769",
-    "Name": "James Buchanan",
-    "Details": "Dec. at 77 (1791-1868)",
-    "Biography": "Born on April 23, 1791, in Cove Gap, Pennsylvania, James Buchanan stands as the 15th president of the United States. Buchanan's early life was marked by academic excellence which later resulted in his admission to Dickinson College in Carlisle, Pennsylvania. Upon graduation in 1809, Buchanan embarked upon a law career that served as the foundation for his political journey. Buchanan's political career spawned over four decades, starting with his election to the Pennsylvania House of Representatives, and later, the U.S. House of Representatives.",
-    "Birth_Date_ISO": "1791-04-23",
-    "Zodiac_Sign": "Toro"
-  },
+
   {
     "Rank": "770",
     "Name": "Menahem Mendel Beiliss",
@@ -5472,14 +5423,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1941-10-09",
     "Zodiac_Sign": "Bilancia"
   },
-  {
-    "Rank": "773",
-    "Name": "Warren G. Harding",
-    "Details": "Dec. at 57 (1865-1923)",
-    "Biography": "Warren Gamaliel Harding (November 2, 1865 – August 2, 1923) was the 29th president of the United States from 1921 until his death in 1923. A member of the Republican Party, he was one of the most popular U.S. presidents to that point. After his death a number of scandals, such as Teapot Dome, came to light, as did his extramarital affair with Nan Britton; each eroded his popular regard. He is often rated as one of the worst presidents in historical rankings.",
-    "Birth_Date_ISO": "1865-11-02",
-    "Zodiac_Sign": "Scorpione"
-  },
+ 
   {
     "Rank": "774",
     "Name": "Noam Chomsky",
@@ -5760,14 +5704,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1955-01-27",
     "Zodiac_Sign": "Acquario"
   },
-  {
-    "Rank": "820",
-    "Name": "Joe Biden",
-    "Details": "Age: 83",
-    "Biography": "Joseph Robinette Biden Jr. (/ˈbaɪdən/ BY-dən; born November 20, 1942) is an American politician serving as the 46th and current president of the United States. A member of the Democratic Party, Biden previously served as the 47th vice president from 2009 to 2017. He represented Delaware in the United States Senate from 1973 to 2009.",
-    "Birth_Date_ISO": "1942-11-20",
-    "Zodiac_Sign": "Scorpione"
-  },
+
   {
     "Rank": "823",
     "Name": "Sean Hannity",
@@ -5816,14 +5753,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1917-06-26",
     "Zodiac_Sign": "Cancro"
   },
-  {
-    "Rank": "829",
-    "Name": "George H. W. Bush",
-    "Details": "Age: 101",
-    "Biography": "George Herbert Walker Bush, born on June 12, 1924, in Milton, Massachusetts, was the 41st President of the United States, serving one term from 1989 to 1993. Prior to his presidency, Bush showcased a life dedicated to public service. His political career spanned decades and included various roles such as the Director of Central Intelligence Agency (CIA) and Vice President under Ronald Reagan. However, his contribution to society extended beyond the political sphere. His legacy is marked by his military service during World War II, his commitment to volunteerism, and his role in leading a humanitarian response to natural disasters.",
-    "Birth_Date_ISO": "1924-06-12",
-    "Zodiac_Sign": "Gemelli"
-  },
+
   {
     "Rank": "830",
     "Name": "J. Edgar Hoover",
@@ -6000,14 +5930,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1940-03-31",
     "Zodiac_Sign": "Ariete"
   },
-  {
-    "Rank": "860",
-    "Name": "Joe Lieberman",
-    "Details": "Dec. at 82 (1942-2024)",
-    "Biography": "Joseph Isadore Lieberman (/ˈliːbərmən/; February 24, 1942 – March 27, 2024) was an American politician, lobbyist, and attorney who served as a United States senator from Connecticut from 1989 to 2013. A former member of the Democratic Party, he was its nominee for vice president of the United States in the 2000 U.S. presidential election. During his final term in office, he was officially listed as an independent Democrat and caucused with and chaired committees for the Democratic Party. He also unsuccessfully sought the Democratic nomination in the 2004 U.S.",
-    "Birth_Date_ISO": "1942-02-24",
-    "Zodiac_Sign": "Pesci"
-  },
+
   {
     "Rank": "862",
     "Name": "Jan Brewer",
@@ -6032,14 +5955,7 @@ export const criminals: Criminal[] = [
     "Birth_Date_ISO": "1924-10-01",
     "Zodiac_Sign": "Bilancia"
   },
-  {
-    "Rank": "865",
-    "Name": "Andrew Jackson",
-    "Details": "Dec. at 78 (1767-1845)",
-    "Biography": "Andrew Jackson (March 15, 1767 – June 8, 1845) was an American soldier and statesman who served as the seventh president of the United States from 1829 to 1837. Before being elected to the presidency, Jackson gained fame as a general in the United States Army and served in both houses of Congress. As president, Jackson sought to advance the rights of the \"common man\" against a \"corrupt aristocracy\" and to preserve the Union. Born in the colonial Carolinas to a Scotch-Irish family in the decade before the American Revolutionary War, Jackson became a frontier lawyer and married Rachel Donelson Robards. He served briefly in the United States House of Representatives and the United States Senate, representing Tennessee.",
-    "Birth_Date_ISO": "1767-03-15",
-    "Zodiac_Sign": "Pesci"
-  },
+
   {
     "Rank": "868",
     "Name": "Alfredo Stroessner",
